@@ -62,9 +62,9 @@ Historic-half-timbered-house-allschwil-basel-landschaft-switzerland-1680-1700.jp
 
 関連コード：`app/src/world/town.js`
 
-![Legal hashish shop in Kathmandu, Nepal in 1973.jpg](../assets/town/shopfronts/351429-legal-hashish-shop-in-kathmandu-nepal-in-1973.webp)
+![Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg](../assets/town/shopfronts/88114953-illuminated-facade-of-a-restaurant-serving-tr.webp)
 
-Legal hashish shop in Kathmandu, Nepal in 1973.jpg — Roger McLassus. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [原典](https://commons.wikimedia.org/wiki/File:Legal_hashish_shop_in_Kathmandu%2C_Nepal_in_1973.jpg)
+Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg — Basile Morin / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg)
 
 ## 花屋の店先 — flower-shops
 
@@ -198,6 +198,10 @@ River Cobble Stone Arch Bridge, Hanes Park, 2026.jpg — RSMartinJr / [CC0](http
 
 関連コード：`app/src/world/town.js`、`app/src/world/textures.js`
 
+![Homes, cars on cobblestone street in Old San Juan, Puerto Rico.jpg](../assets/town/cobblestone-streets/92284818-homes-cars-on-cobblestone-street-in-old-san-j.webp)
+
+Homes, cars on cobblestone street in Old San Juan, Puerto Rico.jpg — R9 Studios FL (Thanks to all the fans!!!) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Homes%2C_cars_on_cobblestone_street_in_Old_San_Juan%2C_Puerto_Rico.jpg)
+
 ![Old Dilijan, Sharambeyan Street, April 2026.jpg](../assets/town/cobblestone-streets/193143172-old-dilijan-sharambeyan-street-april-2026.webp)
 
 Old Dilijan, Sharambeyan Street, April 2026.jpg — Textfabrikant / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Old_Dilijan%2C_Sharambeyan_Street%2C_April_2026.jpg)
@@ -229,6 +233,10 @@ An old street lamp in Nesebar.jpg — Oleg Yunakov / [CC BY-SA 4.0](https://crea
 制作で見るところ：木陰と休憩場所、低い柵・小径
 
 関連コード：`app/src/world/park.js`、`app/src/world/town.js`
+
+![Bench and tree, Nonsuch Park - geograph.org.uk - 5605767.jpg](../assets/town/park-benches/139481788-bench-and-tree-nonsuch-park-geograph-org-uk-5.webp)
+
+Bench and tree, Nonsuch Park - geograph.org.uk - 5605767.jpg — John Allan / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Bench_and_tree%2C_Nonsuch_Park_-_geograph.org.uk_-_5605767.jpg)
 
 ![Tree and bench, Priory Park, Bodmin, Cornwall - August 2024.jpg](../assets/town/park-benches/153890206-tree-and-bench-priory-park-bodmin-cornwall-au.webp)
 
@@ -280,6 +288,10 @@ Chałupa z datą 1926 w Podlaskim Muzeum Kultury Ludowej.jpg — Krzysztof Popł
 
 関連コード：`app/src/world/house.js`、`app/src/world/town.js`
 
+![Hardham, cottage near the church - geograph.org.uk - 449479.jpg](../assets/town/roofs-and-eaves/12962541-hardham-cottage-near-the-church-geograph-org-.webp)
+
+Hardham, cottage near the church - geograph.org.uk - 449479.jpg — Chris Gunns / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Hardham%2C_cottage_near_the_church_-_geograph.org.uk_-_449479.jpg)
+
 ![Ship Cottage and Pier Terrace 1-10 - West Bay (7257216206).jpg](../assets/town/roofs-and-eaves/117799687-ship-cottage-and-pier-terrace-1-10-west-bay-7.webp)
 
 Ship Cottage and Pier Terrace 1-10 - West Bay (7257216206).jpg — Elliott Brown from Birmingham, United Kingdom / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Ship_Cottage_and_Pier_Terrace_1-10_-_West_Bay_%287257216206%29.jpg)
@@ -311,10 +323,6 @@ The B4417 east of the small coastal village of Pistyll - geograph.org.uk - 21205
 制作で見るところ：生活の痕跡、外壁と植物の関係
 
 関連コード：`app/src/world/town.js`
-
-![Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg](../assets/town/flowerpots-and-balconies/141262397-flower-pots-day-nursery-prestwood-geograph-or.webp)
-
-Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg — David Hillas / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Flower_Pots_Day_Nursery%2C_Prestwood_-_geograph.org.uk_-_5789174.jpg)
 
 ![Many colorful flowerpots in front of Bulguksa temple in Gyeongju South Korea.jpg](../assets/town/flowerpots-and-balconies/154951406-many-colorful-flowerpots-in-front-of-bulguksa.webp)
 

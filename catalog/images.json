@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-31T18:31:54+00:00",
-  "total": 233,
+  "generated_utc": "2026-10-31T18:34:19+00:00",
+  "total": 239,
   "images": [
     {
       "pageid": 148340191,
@@ -2063,6 +2063,31 @@
       "visual_review": "pending"
     },
     {
+      "pageid": 22545153,
+      "title": "Venkovský dům (Chmelovice) 01.JPG",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Venkovsk%C3%BD_d%C5%AFm_%28Chmelovice%29_01.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Venkovsk%C3%BD_d%C5%AFm_%28Chmelovice%29_01.JPG/1280px-Venkovsk%C3%BD_d%C5%AFm_%28Chmelovice%29_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Petr1888",
+      "source_width": 3504,
+      "source_height": 2336,
+      "path": "assets/farm/farmyards/22545153-venkovsk-d-m-chmelovice-01.webp",
+      "group": "farm",
+      "topic": "farmyards",
+      "topic_label": "農家の庭先",
+      "study_focus": "建物と道具の配置、泥・砂利・干し草",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "width": 1280,
+      "height": 853,
+      "bytes": 113616,
+      "sha256": "e5c2a285f01a46c0e8a7e5b41bc89a71c00e20d891b32cd447109d8c67ff5b20",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
       "pageid": 41803065,
       "title": "Malhostice - zemědělský dvůr 3.jpg",
       "source_page": "https://commons.wikimedia.org/wiki/File:Malhostice_-_zem%C4%9Bd%C4%9Blsk%C3%BD_dv%C5%AFr_3.jpg",
@@ -2806,16 +2831,16 @@
       "visual_review": "pending"
     },
     {
-      "pageid": 351429,
-      "title": "Legal hashish shop in Kathmandu, Nepal in 1973.jpg",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Legal_hashish_shop_in_Kathmandu%2C_Nepal_in_1973.jpg",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Legal_hashish_shop_in_Kathmandu%2C_Nepal_in_1973.jpg/1280px-Legal_hashish_shop_in_Kathmandu%2C_Nepal_in_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "artist": "Roger McLassus.",
-      "source_width": 1301,
-      "source_height": 1925,
-      "path": "assets/town/shopfronts/351429-legal-hashish-shop-in-kathmandu-nepal-in-1973.webp",
+      "pageid": 88114953,
+      "title": "Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg/1280px-Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Basile Morin",
+      "source_width": 5578,
+      "source_height": 3719,
+      "path": "assets/town/shopfronts/88114953-illuminated-facade-of-a-restaurant-serving-tr.webp",
       "group": "town",
       "topic": "shopfronts",
       "topic_label": "商店の店先",
@@ -2823,10 +2848,10 @@
       "related_code": [
         "app/src/world/town.js"
       ],
-      "width": 865,
-      "height": 1280,
-      "bytes": 106148,
-      "sha256": "2bf1443c235e7518cff44433f4bc2fb3062f58d1ebd7c5b65127e3ed21012244",
+      "width": 1280,
+      "height": 853,
+      "bytes": 236092,
+      "sha256": "ef15ac45e98116f8ba46b9fb30dcc95df51c83bb94c27793074e99676f50c6c8",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },
@@ -3362,6 +3387,32 @@
       "visual_review": "pending"
     },
     {
+      "pageid": 92284818,
+      "title": "Homes, cars on cobblestone street in Old San Juan, Puerto Rico.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Homes%2C_cars_on_cobblestone_street_in_Old_San_Juan%2C_Puerto_Rico.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Homes%2C_cars_on_cobblestone_street_in_Old_San_Juan%2C_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "R9 Studios FL (Thanks to all the fans!!!)",
+      "source_width": 512,
+      "source_height": 768,
+      "path": "assets/town/cobblestone-streets/92284818-homes-cars-on-cobblestone-street-in-old-san-j.webp",
+      "group": "town",
+      "topic": "cobblestone-streets",
+      "topic_label": "石畳の道",
+      "study_focus": "敷石の寸法、継ぎ目、色ムラ",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/textures.js"
+      ],
+      "width": 512,
+      "height": 768,
+      "bytes": 75830,
+      "sha256": "025d2ed62d1287288fcda090ef041eca88ea3fc5aa1f8633c47aad447ec0447b",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
       "pageid": 193143172,
       "title": "Old Dilijan, Sharambeyan Street, April 2026.jpg",
       "source_page": "https://commons.wikimedia.org/wiki/File:Old_Dilijan%2C_Sharambeyan_Street%2C_April_2026.jpg",
@@ -3485,6 +3536,32 @@
       "height": 1280,
       "bytes": 221798,
       "sha256": "c1e00fc14de30c32d08635ad90fb479aeed9e5ddac6ef15a8b353e38e4429ffa",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
+      "pageid": 139481788,
+      "title": "Bench and tree, Nonsuch Park - geograph.org.uk - 5605767.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bench_and_tree%2C_Nonsuch_Park_-_geograph.org.uk_-_5605767.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bench_and_tree%2C_Nonsuch_Park_-_geograph.org.uk_-_5605767.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "John Allan",
+      "source_width": 1024,
+      "source_height": 762,
+      "path": "assets/town/park-benches/139481788-bench-and-tree-nonsuch-park-geograph-org-uk-5.webp",
+      "group": "town",
+      "topic": "park-benches",
+      "topic_label": "公園のベンチ",
+      "study_focus": "木陰と休憩場所、低い柵・小径",
+      "related_code": [
+        "app/src/world/park.js",
+        "app/src/world/town.js"
+      ],
+      "width": 1024,
+      "height": 762,
+      "bytes": 92886,
+      "sha256": "c8d7557560d4701ba2f8a850cd51ccc3fae551313481c6edd5301a36dc8c508d",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },
@@ -3693,6 +3770,32 @@
       "height": 853,
       "bytes": 294742,
       "sha256": "97286c3b17b60625ec88e534fbc5800b1c7f856fef9d2601a895187b1aa454d0",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
+      "pageid": 12962541,
+      "title": "Hardham, cottage near the church - geograph.org.uk - 449479.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hardham%2C_cottage_near_the_church_-_geograph.org.uk_-_449479.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hardham%2C_cottage_near_the_church_-_geograph.org.uk_-_449479.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Chris Gunns",
+      "source_width": 640,
+      "source_height": 480,
+      "path": "assets/town/roofs-and-eaves/12962541-hardham-cottage-near-the-church-geograph-org-.webp",
+      "group": "town",
+      "topic": "roofs-and-eaves",
+      "topic_label": "屋根と軒先",
+      "study_focus": "勾配・軒の出・瓦や板の重なり",
+      "related_code": [
+        "app/src/world/house.js",
+        "app/src/world/town.js"
+      ],
+      "width": 640,
+      "height": 480,
+      "bytes": 99638,
+      "sha256": "3bf0f4937a058fd17216fd0ea6a7cc85030f6b02d73ef68f8dd9690a53277ab4",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },
@@ -4757,6 +4860,32 @@
       "visual_review": "pending"
     },
     {
+      "pageid": 64684998,
+      "title": "Pebbles on Kew Beach, Toronto 2005-10-11.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pebbles_on_Kew_Beach%2C_Toronto_2005-10-11.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pebbles_on_Kew_Beach%2C_Toronto_2005-10-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Diego Torres Silvestre from Sao Paulo, Brazil",
+      "source_width": 1024,
+      "source_height": 768,
+      "path": "assets/materials/pebbles-and-gravel/64684998-pebbles-on-kew-beach-toronto-2005-10-11.webp",
+      "group": "materials",
+      "topic": "pebbles-and-gravel",
+      "topic_label": "小石と砂利",
+      "study_focus": "粒度分布・土との混ざり・踏み跡",
+      "related_code": [
+        "app/src/world/landscape.js",
+        "app/src/world/textures.js"
+      ],
+      "width": 1024,
+      "height": 768,
+      "bytes": 241126,
+      "sha256": "9583133674739bebd0a1ee446473e2cfe0ef32b97723a76af4df64da301dca27",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
       "pageid": 71662182,
       "title": "Pebbles on the ground on table mountain.jpg",
       "source_page": "https://commons.wikimedia.org/wiki/File:Pebbles_on_the_ground_on_table_mountain.jpg",
@@ -4835,6 +4964,32 @@
       "visual_review": "pending"
     },
     {
+      "pageid": 120821731,
+      "title": "Cow standing on a field in Chastre (DSC02477).jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cow_standing_on_a_field_in_Chastre_%28DSC02477%29.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Cow_standing_on_a_field_in_Chastre_%28DSC02477%29.jpg/1280px-Cow_standing_on_a_field_in_Chastre_%28DSC02477%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Trougnouf (Benoit Brummer)",
+      "source_width": 6047,
+      "source_height": 4023,
+      "path": "assets/animals/cattle-shapes/120821731-cow-standing-on-a-field-in-chastre-dsc02477.webp",
+      "group": "animals",
+      "topic": "cattle-shapes",
+      "topic_label": "牛の体形・毛・蹄",
+      "study_focus": "胴体と頭部比、角、脚・蹄、毛色の分かれ目",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "width": 1280,
+      "height": 852,
+      "bytes": 238672,
+      "sha256": "cc5d63c3c0c9a74edc61c31fe6c96aea9a90b75a50e6a1ba9d69db17dc12dd4e",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
       "pageid": 125471283,
       "title": "Cows at the side of The Glasson Branch - geograph.org.uk - 3997607.jpg",
       "source_page": "https://commons.wikimedia.org/wiki/File:Cows_at_the_side_of_The_Glasson_Branch_-_geograph.org.uk_-_3997607.jpg",
@@ -4883,6 +5038,32 @@
       "height": 480,
       "bytes": 45148,
       "sha256": "f8067cc418bc8a6cc02ffaa1a838e8bf46a03942850aefe44b07eb511447a461",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
+      "pageid": 9328310,
+      "title": "Sheep grazing in a field - geograph.org.uk - 200298.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sheep_grazing_in_a_field_-_geograph.org.uk_-_200298.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sheep_grazing_in_a_field_-_geograph.org.uk_-_200298.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Nigel Williams",
+      "source_width": 640,
+      "source_height": 480,
+      "path": "assets/animals/sheep-fleece/9328310-sheep-grazing-in-a-field-geograph-org-uk-2002.webp",
+      "group": "animals",
+      "topic": "sheep-fleece",
+      "topic_label": "羊と毛並み",
+      "study_focus": "丸い胴体と細い脚、羊毛のかたまり",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "width": 640,
+      "height": 480,
+      "bytes": 26146,
+      "sha256": "28fc11739b001cf2ac867cc0f9179d25e202d5d457aecfcc142eb194994d0389",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },
@@ -5581,31 +5762,6 @@
       "height": 853,
       "bytes": 204562,
       "sha256": "0af1b060053219a3202424e5761519a199021e86f42715e9e4c095d26509e7d7",
-      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
-      "visual_review": "pending"
-    },
-    {
-      "pageid": 141262397,
-      "title": "Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Flower_Pots_Day_Nursery%2C_Prestwood_-_geograph.org.uk_-_5789174.jpg",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Flower_Pots_Day_Nursery%2C_Prestwood_-_geograph.org.uk_-_5789174.jpg/1280px-Flower_Pots_Day_Nursery%2C_Prestwood_-_geograph.org.uk_-_5789174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "David Hillas",
-      "source_width": 2592,
-      "source_height": 1944,
-      "path": "assets/town/flowerpots-and-balconies/141262397-flower-pots-day-nursery-prestwood-geograph-or.webp",
-      "group": "town",
-      "topic": "flowerpots-and-balconies",
-      "topic_label": "店先の花鉢と窓辺",
-      "study_focus": "生活の痕跡、外壁と植物の関係",
-      "related_code": [
-        "app/src/world/town.js"
-      ],
-      "width": 1280,
-      "height": 960,
-      "bytes": 282534,
-      "sha256": "39595819ccfea22c9962cf879a4a19f90663ea8704b1205ab6545fe5786e24a1",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },

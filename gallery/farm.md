@@ -62,6 +62,10 @@ Horses standing near a wooden fence in a rural area - Flickr - nenadstojkovicart
 
 関連コード：`app/src/world/ranch-structures.js`
 
+![Venkovský dům (Chmelovice) 01.JPG](../assets/farm/farmyards/22545153-venkovsk-d-m-chmelovice-01.webp)
+
+Venkovský dům (Chmelovice) 01.JPG — Petr1888 / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Venkovsk%C3%BD_d%C5%AFm_%28Chmelovice%29_01.JPG)
+
 ![Malhostice - zemědělský dvůr 3.jpg](../assets/farm/farmyards/41803065-malhostice-zem-d-lsk-dv-r-3.webp)
 
 Malhostice - zemědělský dvůr 3.jpg — Petr Kinšt / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Malhostice_-_zem%C4%9Bd%C4%9Blsk%C3%BD_dv%C5%AFr_3.jpg)

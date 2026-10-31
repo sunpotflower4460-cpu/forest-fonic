@@ -98,6 +98,10 @@ Thatched roof closeup Upminster Tithe Barn 2025-01-28.jpg — Matt Brown / [CC B
 
 関連コード：`app/src/world/landscape.js`、`app/src/world/textures.js`
 
+![Pebbles on Kew Beach, Toronto 2005-10-11.jpg](../assets/materials/pebbles-and-gravel/64684998-pebbles-on-kew-beach-toronto-2005-10-11.webp)
+
+Pebbles on Kew Beach, Toronto 2005-10-11.jpg — Diego Torres Silvestre from Sao Paulo, Brazil / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Pebbles_on_Kew_Beach%2C_Toronto_2005-10-11.jpg)
+
 ![Pebbles on the ground on table mountain.jpg](../assets/materials/pebbles-and-gravel/71662182-pebbles-on-the-ground-on-table-mountain.webp)
 
 Pebbles on the ground on table mountain.jpg — Netha Hussain / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Pebbles_on_the_ground_on_table_mountain.jpg)

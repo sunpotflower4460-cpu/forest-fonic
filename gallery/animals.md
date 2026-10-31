@@ -12,6 +12,10 @@
 
 2019-07-07 Cow standing on the field.jpg — Maksym Kozlenko / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:2019-07-07_Cow_standing_on_the_field.jpg)
 
+![Cow standing on a field in Chastre (DSC02477).jpg](../assets/animals/cattle-shapes/120821731-cow-standing-on-a-field-in-chastre-dsc02477.webp)
+
+Cow standing on a field in Chastre (DSC02477).jpg — Trougnouf (Benoit Brummer) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Cow_standing_on_a_field_in_Chastre_%28DSC02477%29.jpg)
+
 ![Cows at the side of The Glasson Branch - geograph.org.uk - 3997607.jpg](../assets/animals/cattle-shapes/125471283-cows-at-the-side-of-the-glasson-branch-geogra.webp)
 
 Cows at the side of The Glasson Branch - geograph.org.uk - 3997607.jpg — David Dixon / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Cows_at_the_side_of_The_Glasson_Branch_-_geograph.org.uk_-_3997607.jpg)
@@ -25,6 +29,10 @@ Cows at the side of The Glasson Branch - geograph.org.uk - 3997607.jpg — David
 ![Sheep grazing in a field - geograph.org.uk - 152927.jpg](../assets/animals/sheep-fleece/9270606-sheep-grazing-in-a-field-geograph-org-uk-1529.webp)
 
 Sheep grazing in a field - geograph.org.uk - 152927.jpg — Nigel Williams / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sheep_grazing_in_a_field_-_geograph.org.uk_-_152927.jpg)
+
+![Sheep grazing in a field - geograph.org.uk - 200298.jpg](../assets/animals/sheep-fleece/9328310-sheep-grazing-in-a-field-geograph-org-uk-2002.webp)
+
+Sheep grazing in a field - geograph.org.uk - 200298.jpg — Nigel Williams / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sheep_grazing_in_a_field_-_geograph.org.uk_-_200298.jpg)
 
 ![20101020 Sheep shepherd at Vistonida lake Glikoneri Rhodope Prefecture Thrace Greece.jpg](../assets/animals/sheep-fleece/11949878-20101020-sheep-shepherd-at-vistonida-lake-gli.webp)
 
