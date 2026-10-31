@@ -62,9 +62,9 @@ Beech forest in Nyuto Onsenkyo (2).jpg — 掬茶 / [CC BY-SA 4.0](https://creat
 
 Moss forest above Ginkaku-Ji (7005740444).jpg — BriYYZ from Toronto, Canada / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Moss_forest_above_Ginkaku-Ji_%287005740444%29.jpg)
 
-![Bilberry bush and moss in Gullmarsskogen ravine.jpg](../assets/japan-landscape/mossy-japanese-forest/69136212-bilberry-bush-and-moss-in-gullmarsskogen-ravi.webp)
+![Ginkaku-Ji Temple moss forest walkway (7151830689) (2).jpg](../assets/japan-landscape/mossy-japanese-forest/25907434-ginkaku-ji-temple-moss-forest-walkway-7151830.webp)
 
-Bilberry bush and moss in Gullmarsskogen ravine.jpg — W.carter / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bilberry_bush_and_moss_in_Gullmarsskogen_ravine.jpg)
+Ginkaku-Ji Temple moss forest walkway (7151830689) (2).jpg — BriYYZ from Toronto, Canada / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Ginkaku-Ji_Temple_moss_forest_walkway_%287151830689%29_%282%29.jpg)
 
 ![Green moss forest (52930618402).jpg](../assets/japan-landscape/mossy-japanese-forest/143680364-green-moss-forest-52930618402.webp)
 
@@ -80,13 +80,13 @@ Green moss forest (52930618402).jpg — Raita Futo from Tokyo, Japan / [CC BY 2.
 
 Falling Forest Stream (6088660112).jpg — rumpleteaser from Nagoya, Japan / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Falling_Forest_Stream_%286088660112%29.jpg)
 
-![Minato City, Tokyo, Japan.jpg](../assets/japan-landscape/japanese-forest-stream/142191115-minato-city-tokyo-japan.webp)
-
-Minato City, Tokyo, Japan.jpg — David Kernan / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Minato_City%2C_Tokyo%2C_Japan.jpg)
-
 ![Forest stream, Tsumago-juku, Nagiso, 2016.jpg](../assets/japan-landscape/japanese-forest-stream/149161456-forest-stream-tsumago-juku-nagiso-2016.webp)
 
 Forest stream, Tsumago-juku, Nagiso, 2016.jpg — DimiTalen / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Forest_stream%2C_Tsumago-juku%2C_Nagiso%2C_2016.jpg)
+
+![Arashiyama - Bamboo Forest, Kyoto, Japan10.jpg](../assets/japan-landscape/japanese-forest-stream/151427329-arashiyama-bamboo-forest-kyoto-japan10.webp)
+
+Arashiyama - Bamboo Forest, Kyoto, Japan10.jpg — dconvertini / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Arashiyama_-_Bamboo_Forest%2C_Kyoto%2C_Japan10.jpg)
 
 ## 日本：山あいの集落 — japanese-village-hills
 
@@ -94,23 +94,13 @@ Forest stream, Tsumago-juku, Nagiso, 2016.jpg — DimiTalen / [CC0](https://crea
 
 関連コード：`app/src/world/nature.js`、`app/src/world/road.js`、`app/src/world/town.js`
 
-![Harvest Festival in countryside - Door doll for praying and peace.jpg](../assets/japan-landscape/japanese-village-hills/73492053-harvest-festival-in-countryside-door-doll-for.webp)
-
-Harvest Festival in countryside - Door doll for praying and peace.jpg — Jason M. C., Han / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Harvest_Festival_in_countryside_-_Door_doll_for_praying_and_peace.jpg)
+現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
 
 ## 日本：田舎の小道と木々 — japanese-country-lanes
 
 制作で見るところ：舗装・土道・生垣・庭木・電柱・水路が混じる生活感
 
 関連コード：`app/src/world/nature.js`、`app/src/world/road.js`、`app/src/world/town.js`
-
-![Münster, Park Sentmaring, Japanische Blütenkirsche -- 2015 -- 5708.jpg](../assets/japan-landscape/japanese-country-lanes/39888985-m-nster-park-sentmaring-japanische-bl-tenkirs.webp)
-
-Münster, Park Sentmaring, Japanische Blütenkirsche -- 2015 -- 5708.jpg — Dietmar Rabich / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:M%C3%BCnster%2C_Park_Sentmaring%2C_Japanische_Bl%C3%BCtenkirsche_--_2015_--_5708.jpg)
-
-![Münster, Park Sentmaring -- 2016 -- 1887.jpg](../assets/japan-landscape/japanese-country-lanes/48211480-m-nster-park-sentmaring-2016-1887.webp)
-
-Münster, Park Sentmaring -- 2016 -- 1887.jpg — Dietmar Rabich / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:M%C3%BCnster%2C_Park_Sentmaring_--_2016_--_1887.jpg)
 
 ![Japan, countryside north of Kyoto.jpg](../assets/japan-landscape/japanese-country-lanes/152680997-japan-countryside-north-of-kyoto.webp)
 

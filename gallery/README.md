@@ -1,6 +1,6 @@
 # Forest Fonic — gallery / 写真ギャラリー
 
-現在 384 枚。各写真の作者・ライセンスは [CREDITS](../catalog/CREDITS.md) を参照。
+現在 382 枚。各写真の作者・ライセンスは [CREDITS](../catalog/CREDITS.md) を参照。
 
 写真は制作資料です。『こころのえほん』のコードやゲームには自動で取り込みません。
 
@@ -13,7 +13,7 @@
 - [light](./light.md) — 24 枚
 - [materials](./materials.md) — 18 枚
 - [animals](./animals.md) — 30 枚
-- [forest-layout](./forest-layout.md) — 39 枚
-- [japan-landscape](./japan-landscape.md) — 21 枚
-- [world-town](./world-town.md) — 37 枚
-- [world-nature](./world-nature.md) — 39 枚
+- [forest-layout](./forest-layout.md) — 42 枚
+- [japan-landscape](./japan-landscape.md) — 18 枚
+- [world-town](./world-town.md) — 36 枚
+- [world-nature](./world-nature.md) — 38 枚

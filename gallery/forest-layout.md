@@ -26,13 +26,13 @@ Gunung Nuang summit forest canopy aerial view.webp — Kay Du / [CC BY-SA 4.0](h
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
-![Oil Palm clearing aerial Borneo.JPG](../assets/forest-layout/aerial-forest-clusters/34859503-oil-palm-clearing-aerial-borneo.webp)
-
-Oil Palm clearing aerial Borneo.JPG — T. R. Shankar Raman / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Oil_Palm_clearing_aerial_Borneo.JPG)
-
 ![CSIRO ScienceImage 4703 Aerial view of Lester State Forest and wheat farms near Coolamon NSW 1999.jpg](../assets/forest-layout/aerial-forest-clusters/35484495-csiro-scienceimage-4703-aerial-view-of-lester.webp)
 
 CSIRO ScienceImage 4703 Aerial view of Lester State Forest and wheat farms near Coolamon NSW 1999.jpg — Gregory Heath, CSIRO / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4703_Aerial_view_of_Lester_State_Forest_and_wheat_farms_near_Coolamon_NSW_1999.jpg)
+
+![Aerial photographs of North Rhine-Westphalia 2013 14.jpg](../assets/forest-layout/aerial-forest-clusters/64195791-aerial-photographs-of-north-rhine-westphalia-.webp)
+
+Aerial photographs of North Rhine-Westphalia 2013 14.jpg — flightlog / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_North_Rhine-Westphalia_2013_14.jpg)
 
 ![Brandelhow Point and Western Shoreline of Derwent Water from Catbells - May 2025.jpg](../assets/forest-layout/aerial-forest-clusters/169979325-brandelhow-point-and-western-shoreline-of-der.webp)
 
@@ -44,17 +44,17 @@ Brandelhow Point and Western Shoreline of Derwent Water from Catbells - May 2025
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
-![Forest canopy gap road DSC 5092.jpg](../assets/forest-layout/canopy-gaps/52105691-forest-canopy-gap-road-dsc-5092.webp)
+![Small Forest Gap.JPG](../assets/forest-layout/canopy-gaps/22594549-small-forest-gap.webp)
 
-Forest canopy gap road DSC 5092.jpg — T. R. Shankar Raman / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Forest_canopy_gap_road_DSC_5092.jpg)
+Small Forest Gap.JPG — Etwillia / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_Forest_Gap.JPG)
 
-![Forest road canopy gap animal signage DSC 5105.jpg](../assets/forest-layout/canopy-gaps/52105692-forest-road-canopy-gap-animal-signage-dsc-510.webp)
+![Tree gap.jpg](../assets/forest-layout/canopy-gaps/108384538-tree-gap.webp)
 
-Forest road canopy gap animal signage DSC 5105.jpg — T. R. Shankar Raman / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Forest_road_canopy_gap_animal_signage_DSC_5105.jpg)
+Tree gap.jpg — Dotun55 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Tree_gap.jpg)
 
-![Forest road canopy gap DSC 5093.jpg](../assets/forest-layout/canopy-gaps/52105693-forest-road-canopy-gap-dsc-5093.webp)
+![Looking up into a dense green forest canopy.jpg](../assets/forest-layout/canopy-gaps/192981764-looking-up-into-a-dense-green-forest-canopy.webp)
 
-Forest road canopy gap DSC 5093.jpg — T. R. Shankar Raman / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Forest_road_canopy_gap_DSC_5093.jpg)
+Looking up into a dense green forest canopy.jpg — Krishna k. sahh / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Looking_up_into_a_dense_green_forest_canopy.jpg)
 
 ## 太さと高さが異なる木の混在 — uneven-age-stands
 
@@ -66,13 +66,13 @@ Forest road canopy gap DSC 5093.jpg — T. R. Shankar Raman / [CC BY-SA 4.0](htt
 
 Mixed woodland - geograph.org.uk - 860591.jpg — Richard Webb / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Mixed_woodland_-_geograph.org.uk_-_860591.jpg)
 
-![Reading in the garden, (15468717167).jpg](../assets/forest-layout/uneven-age-stands/41464774-reading-in-the-garden-15468717167.webp)
+![Butyriboletus taughannockensis Safonov 656182 2016-08-26.jpg](../assets/forest-layout/uneven-age-stands/56856631-butyriboletus-taughannockensis-safonov-656182.webp)
 
-Reading in the garden, (15468717167).jpg — David McSpadden / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Reading_in_the_garden%2C_%2815468717167%29.jpg)
+Butyriboletus taughannockensis Safonov 656182 2016-08-26.jpg — This image was created by user I. G. Safonov (IGSafonov) at Mushroom Observer, a source for mycological images.You can contact this user here. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Butyriboletus_taughannockensis_Safonov_656182_2016-08-26.jpg)
 
-![Climap 18ka bare soil percent 1.png](../assets/forest-layout/uneven-age-stands/156938031-climap-18ka-bare-soil-percent-1.webp)
+![Butyriboletus taughannockensis Safonov 656183.jpg](../assets/forest-layout/uneven-age-stands/68352861-butyriboletus-taughannockensis-safonov-656183.webp)
 
-Climap 18ka bare soil percent 1.png — Merikanto / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Climap_18ka_bare_soil_percent_1.png)
+Butyriboletus taughannockensis Safonov 656183.jpg — This image was created by user I. G. Safonov (IGSafonov) at Mushroom Observer, a source for mycological images.You can contact this user here. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Butyriboletus_taughannockensis_Safonov_656183.jpg)
 
 ## 大木・若木・稚樹の距離 — giant-trees-and-saplings
 
@@ -98,13 +98,17 @@ Scots pine sapling, Culverley Bottom, New Forest - geograph.org.uk - 390845.jpg 
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
-![Open forest with mown understory 7th Brigade Park Chermside P1080987.jpg](../assets/forest-layout/layered-canopy/90234245-open-forest-with-mown-understory-7th-brigade-.webp)
+![Tone stairs on an ascending trail in a dense broadleaf forest.jpg](../assets/forest-layout/layered-canopy/192981774-tone-stairs-on-an-ascending-trail-in-a-dense-.webp)
 
-Open forest with mown understory 7th Brigade Park Chermside P1080987.jpg — John Robert McPherson / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Open_forest_with_mown_understory_7th_Brigade_Park_Chermside_P1080987.jpg)
+Tone stairs on an ascending trail in a dense broadleaf forest.jpg — Krishna k. sahh / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Tone_stairs_on_an_ascending_trail_in_a_dense_broadleaf_forest.jpg)
 
 ![Dense forest canopy and understory at Shivapuri hills.jpg](../assets/forest-layout/layered-canopy/192981792-dense-forest-canopy-and-understory-at-shivapu.webp)
 
 Dense forest canopy and understory at Shivapuri hills.jpg — Krishna k. sahh / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Dense_forest_canopy_and_understory_at_Shivapuri_hills.jpg)
+
+![Forest canopy view from the base of a tree.jpg](../assets/forest-layout/layered-canopy/195730328-forest-canopy-view-from-the-base-of-a-tree.webp)
+
+Forest canopy view from the base of a tree.jpg — Agness Abubakar Saidi / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Forest_canopy_view_from_the_base_of_a_tree.jpg)
 
 ## 自然な森の端の凸凹 — irregular-forest-edge
 
@@ -130,13 +134,17 @@ Grass path edged with trees and shrubs - geograph.org.uk - 7043881.jpg — Eric 
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
-![Malibu Creek dry bed.jpg](../assets/forest-layout/riparian-tree-corridors/3482723-malibu-creek-dry-bed.webp)
+![Lower Deer Creek Falls (18906360788).jpg](../assets/forest-layout/riparian-tree-corridors/69198802-lower-deer-creek-falls-18906360788.webp)
 
-Malibu Creek dry bed.jpg — Tobin/tobo, Rochester, NY, USA / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Malibu_Creek_dry_bed.jpg)
+Lower Deer Creek Falls (18906360788).jpg — California Department of Fish and Wildlife from Sacramento, CA, USA / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Lower_Deer_Creek_Falls_%2818906360788%29.jpg)
 
 ![Deer Creek riparian habitat (18471487184).jpg](../assets/forest-layout/riparian-tree-corridors/69198807-deer-creek-riparian-habitat-18471487184.webp)
 
 Deer Creek riparian habitat (18471487184).jpg — California Department of Fish and Wildlife from Sacramento, CA, USA / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Deer_Creek_riparian_habitat_%2818471487184%29.jpg)
+
+![Deer Creek long shot (18471487494).jpg](../assets/forest-layout/riparian-tree-corridors/69198810-deer-creek-long-shot-18471487494.webp)
+
+Deer Creek long shot (18471487494).jpg — California Department of Fish and Wildlife from Sacramento, CA, USA / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Deer_Creek_long_shot_%2818471487494%29.jpg)
 
 ## 斜面の木々の分布 — slope-forest-spacing
 
@@ -144,9 +152,9 @@ Deer Creek riparian habitat (18471487184).jpg — California Department of Fish 
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
-![Steep cleared hillside with trees above - geograph.org.uk - 5760828.jpg](../assets/forest-layout/slope-forest-spacing/141047067-steep-cleared-hillside-with-trees-above-geogr.webp)
+![Slow progress in Fernworthy Forest - geograph.org.uk - 1711140.jpg](../assets/forest-layout/slope-forest-spacing/14438519-slow-progress-in-fernworthy-forest-geograph-o.webp)
 
-Steep cleared hillside with trees above - geograph.org.uk - 5760828.jpg — Andrew Hill / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Steep_cleared_hillside_with_trees_above_-_geograph.org.uk_-_5760828.jpg)
+Slow progress in Fernworthy Forest - geograph.org.uk - 1711140.jpg — Derek Harper / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Slow_progress_in_Fernworthy_Forest_-_geograph.org.uk_-_1711140.jpg)
 
 ![A dense forested hillside.jpg](../assets/forest-layout/slope-forest-spacing/171080298-a-dense-forested-hillside.webp)
 
@@ -180,6 +188,10 @@ Bali, Forest, Trees, East Bali, Indonesia.jpg — Vyacheslav Argenberg / [CC BY 
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
+![Clearing with Silver Birch on Pitstone Common - geograph.org.uk - 1185115.jpg](../assets/forest-layout/natural-clearings/13898814-clearing-with-silver-birch-on-pitstone-common.webp)
+
+Clearing with Silver Birch on Pitstone Common - geograph.org.uk - 1185115.jpg — Chris Reynolds / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Clearing_with_Silver_Birch_on_Pitstone_Common_-_geograph.org.uk_-_1185115.jpg)
+
 ![A Recently Created Woodland Clearing at Ashridge - geograph.org.uk - 1193794.jpg](../assets/forest-layout/natural-clearings/13908208-a-recently-created-woodland-clearing-at-ashri.webp)
 
 A Recently Created Woodland Clearing at Ashridge - geograph.org.uk - 1193794.jpg — Chris Reynolds / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:A_Recently_Created_Woodland_Clearing_at_Ashridge_-_geograph.org.uk_-_1193794.jpg)
@@ -194,9 +206,9 @@ Natural clearing in the forest - geograph.org.uk - 5399292.jpg — Russel Wills 
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
-![The Oxford University Museum of Natural History, foregrounded by the 'Ghost Forest' installation (Angela Palmer), March 2011.JPG](../assets/forest-layout/deadwood-and-fallen-trees/44183907-the-oxford-university-museum-of-natural-histo.webp)
+![Fallen tree over the Beaulieu River, New Forest - geograph.org.uk - 179496.jpg](../assets/forest-layout/deadwood-and-fallen-trees/9286500-fallen-tree-over-the-beaulieu-river-new-fores.webp)
 
-The Oxford University Museum of Natural History, foregrounded by the 'Ghost Forest' installation (Angela Palmer), March 2011.JPG — Sb2s3 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:The_Oxford_University_Museum_of_Natural_History%2C_foregrounded_by_the_%27Ghost_Forest%27_installation_%28Angela_Palmer%29%2C_March_2011.JPG)
+Fallen tree over the Beaulieu River, New Forest - geograph.org.uk - 179496.jpg — Jim Champion / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Fallen_tree_over_the_Beaulieu_River%2C_New_Forest_-_geograph.org.uk_-_179496.jpg)
 
 ![Overgrown Forest Path with Fallen Tree.jpg](../assets/forest-layout/deadwood-and-fallen-trees/169977347-overgrown-forest-path-with-fallen-tree.webp)
 

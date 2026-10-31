@@ -12,9 +12,9 @@
 
 House in Torsken, Senja, Troms, Norway, 2014 August.jpg — Ximonic (Simo Räsänen) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:House_in_Torsken%2C_Senja%2C_Troms%2C_Norway%2C_2014_August.jpg)
 
-![Nico Jungman (1872-1935) NORWAY Text by Beatrix Jungman publ. by A&C Black, London 1905 norway1905jung 0371 FARM-HOUSES BUILT OF POLES (wooden log houses) No known copyright restrictions.jpg](../assets/world-town/nordic-wooden-villages/156252229-nico-jungman-1872-1935-norway-text-by-beatrix.webp)
+![SUNNDALSØRA Sunndal Norway 2024-09 HOV KIRKE kyrkje (wooden church Holtermann Nordan 300 seats) INTERIOR Prekestol (pulpit) blomster etter begravelsesseremoni (flowers after funeral service) Koret Altertavle (altarpiece) etc IMG 9914.jpg](../assets/world-town/nordic-wooden-villages/153452186-sunndals-ra-sunndal-norway-2024-09-hov-kirke-.webp)
 
-Nico Jungman (1872-1935) NORWAY Text by Beatrix Jungman publ. by A&C Black, London 1905 norway1905jung 0371 FARM-HOUSES BUILT OF POLES (wooden log houses) No known copyright restrictions.jpg — Nico Jungmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Nico_Jungman_%281872-1935%29_NORWAY_Text_by_Beatrix_Jungman_publ._by_A%26C_Black%2C_London_1905_norway1905jung_0371_FARM-HOUSES_BUILT_OF_POLES_%28wooden_log_houses%29_No_known_copyright_restrictions.jpg)
+SUNNDALSØRA Sunndal Norway 2024-09 HOV KIRKE kyrkje (wooden church Holtermann Nordan 300 seats) INTERIOR Prekestol (pulpit) blomster etter begravelsesseremoni (flowers after funeral service) Koret Altertavle (altarpiece) etc IMG 9914.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:SUNNDALS%C3%98RA_Sunndal_Norway_2024-09_HOV_KIRKE_kyrkje_%28wooden_church_Holtermann_Nordan_300_seats%29_INTERIOR_Prekestol_%28pulpit%29_blomster_etter_begravelsesseremoni_%28flowers_after_funeral_service%29_Koret_Altertavle_%28altarpiece%29_etc_IMG_9914.jpg)
 
 ![VEIHOLMEN fiskevær fishing village Smøla NORWAY 2024-09-11 Angelhus 1030 yellow wooden house IMG 9346.jpg](../assets/world-town/nordic-wooden-villages/178891515-veiholmen-fiskev-r-fishing-village-sm-la-norw.webp)
 
@@ -66,13 +66,13 @@ Cottages on Goldsmith Lane, Roe Green Village - geograph.org.uk - 4026207.jpg �
 
 Belcastel 4.jpg — kallerna / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Belcastel_4.jpg)
 
+![Cobbled stepped lane in the medieval village, Yvoire, Haute-Savoie.jpg](../assets/world-town/french-stone-villages/194740668-cobbled-stepped-lane-in-the-medieval-village-.webp)
+
+Cobbled stepped lane in the medieval village, Yvoire, Haute-Savoie.jpg — Christian David / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Cobbled_stepped_lane_in_the_medieval_village%2C_Yvoire%2C_Haute-Savoie.jpg)
+
 ![Flowered stone stairway, Yvoire, Haute-Savoie.jpg](../assets/world-town/french-stone-villages/194740682-flowered-stone-stairway-yvoire-haute-savoie.webp)
 
 Flowered stone stairway, Yvoire, Haute-Savoie.jpg — Christian David / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Flowered_stone_stairway%2C_Yvoire%2C_Haute-Savoie.jpg)
-
-![BTV - Traditional houses and stone structures in Bena village, Flores, Indonesia, 2019.jpg](../assets/world-town/french-stone-villages/198550823-btv-traditional-houses-and-stone-structures-i.webp)
-
-BTV - Traditional houses and stone structures in Bena village, Flores, Indonesia, 2019.jpg — Josep M. Gracia / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:BTV_-_Traditional_houses_and_stone_structures_in_Bena_village%2C_Flores%2C_Indonesia%2C_2019.jpg)
 
 ## 海外参考：イタリアの坂の町 — italian-hilltowns
 
@@ -84,13 +84,13 @@ BTV - Traditional houses and stone structures in Bena village, Flores, Indonesia
 
 Todi panorama.jpg — Livioandronico2013 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Todi_panorama.jpg)
 
-![Former 7th District "Hill Street Blues" Police Station, Chicago.jpg](../assets/world-town/italian-hilltowns/134492356-former-7th-district-hill-street-blues-police-.webp)
+![Umbrian Hill towns 10-13 795.jpg](../assets/world-town/italian-hilltowns/48467230-umbrian-hill-towns-10-13-795.webp)
 
-Former 7th District "Hill Street Blues" Police Station, Chicago.jpg — Stephen Hogan / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Former_7th_District_%22Hill_Street_Blues%22_Police_Station%2C_Chicago.jpg)
+Umbrian Hill towns 10-13 795.jpg — Chris Light / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Umbrian_Hill_towns_10-13_795.jpg)
 
-![Cape Town (ZA), Sea Point, Nachtansicht -- 2024 -- 1867-70 - 2.jpg](../assets/world-town/italian-hilltowns/146236057-cape-town-za-sea-point-nachtansicht-2024-1867.webp)
+![Torre De'Passeri Italy Looking Down Via Roma 0158.jpg](../assets/world-town/italian-hilltowns/124720058-torre-de-passeri-italy-looking-down-via-roma-.webp)
 
-Cape Town (ZA), Sea Point, Nachtansicht -- 2024 -- 1867-70 - 2.jpg — Dietmar Rabich / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Cape_Town_%28ZA%29%2C_Sea_Point%2C_Nachtansicht_--_2024_--_1867-70_-_2.jpg)
+Torre De'Passeri Italy Looking Down Via Roma 0158.jpg — Paul Harrison / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Torre_De%27Passeri_Italy_Looking_Down_Via_Roma_0158.jpg)
 
 ## 海外参考：イベリアの白壁と瓦 — iberian-village-streets
 
@@ -102,9 +102,9 @@ Cape Town (ZA), Sea Point, Nachtansicht -- 2024 -- 1867-70 - 2.jpg — Dietmar R
 
 Atlantic Portuguese Village (2234668867).jpg — Francisco Antunes / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Atlantic_Portuguese_Village_%282234668867%29.jpg)
 
-![Portugal Village, Toronto.png](../assets/world-town/iberian-village-streets/89021078-portugal-village-toronto.webp)
+![Street in a North Portuguese Town (c. 1900) - Adriano de Sousa Lopes (1879-1944) (33445116868).jpg](../assets/world-town/iberian-village-streets/83547549-street-in-a-north-portuguese-town-c-1900-adri.webp)
 
-Portugal Village, Toronto.png — maren krüger / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Portugal_Village%2C_Toronto.png)
+Street in a North Portuguese Town (c. 1900) - Adriano de Sousa Lopes (1879-1944) (33445116868).jpg — Pedro Ribeiro Simões from Lisboa, Portugal / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Street_in_a_North_Portuguese_Town_%28c._1900%29_-_Adriano_de_Sousa_Lopes_%281879-1944%29_%2833445116868%29.jpg)
 
 ![Village of Velas São Jorge Azores.jpg](../assets/world-town/iberian-village-streets/115125213-village-of-velas-s-o-jorge-azores.webp)
 
@@ -116,9 +116,7 @@ Village of Velas São Jorge Azores.jpg — Sudzie / [CC BY-SA 4.0](https://creat
 
 関連コード：`app/src/world/town.js`、`app/src/world/house.js`、`app/src/world/road.js`
 
-![Mitla, Group of the Columns, Palace of Columns (20064199284).jpg](../assets/world-town/mediterranean-potted-streets/62028862-mitla-group-of-the-columns-palace-of-columns-.webp)
-
-Mitla, Group of the Columns, Palace of Columns (20064199284).jpg — Arian Zwegers from Brussels, Belgium / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Mitla%2C_Group_of_the_Columns%2C_Palace_of_Columns_%2820064199284%29.jpg)
+現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
 
 ## 海外参考：運河と水辺の住宅 — dutch-canals-and-houses
 
@@ -162,10 +160,6 @@ Half-timbered farmhouse at Ortsstraße 7, Klengel.jpg — Steffen Mokosch / [CC 
 
 関連コード：`app/src/world/town.js`、`app/src/world/house.js`、`app/src/world/road.js`
 
-![Asarina procumbens growing between wall and tarmac.jpg](../assets/world-town/coastal-stone-villages/120772322-asarina-procumbens-growing-between-wall-and-t.webp)
-
-Asarina procumbens growing between wall and tarmac.jpg — Flobbadob / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Asarina_procumbens_growing_between_wall_and_tarmac.jpg)
-
 ![Charlestown, a boy fishing - geograph.org.uk - 4299710.jpg](../assets/world-town/coastal-stone-villages/127923750-charlestown-a-boy-fishing-geograph-org-uk-429.webp)
 
 Charlestown, a boy fishing - geograph.org.uk - 4299710.jpg — Chris Downer / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Charlestown%2C_a_boy_fishing_-_geograph.org.uk_-_4299710.jpg)
@@ -173,6 +167,10 @@ Charlestown, a boy fishing - geograph.org.uk - 4299710.jpg — Chris Downer / [C
 ![Fishing harbour, Polperro, Cornwall - geograph.org.uk - 4490120.jpg](../assets/world-town/coastal-stone-villages/129309095-fishing-harbour-polperro-cornwall-geograph-or.webp)
 
 Fishing harbour, Polperro, Cornwall - geograph.org.uk - 4490120.jpg — Edmund Shaw / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Fishing_harbour%2C_Polperro%2C_Cornwall_-_geograph.org.uk_-_4490120.jpg)
+
+![Fishing boats at Polperro - geograph.org.uk - 6401994.jpg](../assets/world-town/coastal-stone-villages/148923856-fishing-boats-at-polperro-geograph-org-uk-640.webp)
+
+Fishing boats at Polperro - geograph.org.uk - 6401994.jpg — Colin Park / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Fishing_boats_at_Polperro_-_geograph.org.uk_-_6401994.jpg)
 
 ## 海外参考：韓国の韓屋路地 — korean-hanok-lanes
 
@@ -198,6 +196,10 @@ Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village
 
 関連コード：`app/src/world/town.js`、`app/src/world/house.js`、`app/src/world/road.js`
 
+![Jiufen, November 27, 2024 - 198.jpg](../assets/world-town/taiwan-mountain-streets/156387393-jiufen-november-27-2024-198.webp)
+
+Jiufen, November 27, 2024 - 198.jpg — Another Believer / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Jiufen%2C_November_27%2C_2024_-_198.jpg)
+
 ![Jiufen, November 28, 2024 - 019.jpg](../assets/world-town/taiwan-mountain-streets/156477280-jiufen-november-28-2024-019.webp)
 
 Jiufen, November 28, 2024 - 019.jpg — Another Believer / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Jiufen%2C_November_28%2C_2024_-_019.jpg)
@@ -205,10 +207,6 @@ Jiufen, November 28, 2024 - 019.jpg — Another Believer / [CC BY-SA 4.0](https:
 ![Jiufen, November 28, 2024 - 025.jpg](../assets/world-town/taiwan-mountain-streets/156477291-jiufen-november-28-2024-025.webp)
 
 Jiufen, November 28, 2024 - 025.jpg — Another Believer / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Jiufen%2C_November_28%2C_2024_-_025.jpg)
-
-![A-Zhu Peanut Ice Cream Roll, Jiufen Old Street, 2024.jpg](../assets/world-town/taiwan-mountain-streets/156477637-a-zhu-peanut-ice-cream-roll-jiufen-old-street.webp)
-
-A-Zhu Peanut Ice Cream Roll, Jiufen Old Street, 2024.jpg — Another Believer / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:A-Zhu_Peanut_Ice_Cream_Roll%2C_Jiufen_Old_Street%2C_2024.jpg)
 
 ## 海外参考：中国の水郷 — chinese-water-towns
 

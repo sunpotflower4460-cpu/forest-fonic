@@ -30,9 +30,13 @@ Winter-boreal-forest-Trondheim.jpg — Orcaborealis / [CC BY-SA 3.0](https://cre
 
 Ljungdalen July 2013 05.jpg — Arild Vågen / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Ljungdalen_July_2013_05.jpg)
 
-![Scandinavian Birch & Coastal Conifer Forests Bioregion.png](../assets/world-nature/scandinavian-birch-forest/176922177-scandinavian-birch-coastal-conifer-forests-bi.webp)
+![Silver Birch woodland - Oslo, Norway 2020-08-15.jpg](../assets/world-nature/scandinavian-birch-forest/99279622-silver-birch-woodland-oslo-norway-2020-08-15.webp)
 
-Scandinavian Birch & Coastal Conifer Forests Bioregion.png — Z3lvs / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Scandinavian_Birch_%26_Coastal_Conifer_Forests_Bioregion.png)
+Silver Birch woodland - Oslo, Norway 2020-08-15.jpg — Ryan Hodnett / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Silver_Birch_woodland_-_Oslo%2C_Norway_2020-08-15.jpg)
+
+![Birch Trees and Man Carrying Twigs.jpg](../assets/world-nature/scandinavian-birch-forest/115968348-birch-trees-and-man-carrying-twigs.webp)
+
+Birch Trees and Man Carrying Twigs.jpg — Edvard Munch / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Birch_Trees_and_Man_Carrying_Twigs.jpg)
 
 ## 海外自然：高山のカラマツ林 — alpine-larch-forest
 
@@ -44,9 +48,9 @@ Scandinavian Birch & Coastal Conifer Forests Bioregion.png — Z3lvs / [CC BY-SA
 
 Alberi AlpediSiusi.JPG — Llorenzi / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [原典](https://commons.wikimedia.org/wiki/File:Alberi_AlpediSiusi.JPG)
 
-![Bergtocht van Peio Paese naar Lago Covel in het Nationaal park Stelvio (Italië). Wond van een afgebroken tak. Europese larix (Larix decidua) 02.jpg](../assets/world-nature/alpine-larch-forest/52343523-bergtocht-van-peio-paese-naar-lago-covel-in-h.webp)
+![Bergtocht van Vens naar Bettex in Valle d'Aosta (Italië). Bomen langs bergpad in dichte mist 04.jpg](../assets/world-nature/alpine-larch-forest/43854534-bergtocht-van-vens-naar-bettex-in-valle-d-aos.webp)
 
-Bergtocht van Peio Paese naar Lago Covel in het Nationaal park Stelvio (Italië). Wond van een afgebroken tak. Europese larix (Larix decidua) 02.jpg — Dominicus Johannes Bergsma / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Bergtocht_van_Peio_Paese_naar_Lago_Covel_in_het_Nationaal_park_Stelvio_%28Itali%C3%AB%29._Wond_van_een_afgebroken_tak._Europese_larix_%28Larix_decidua%29_02.jpg)
+Bergtocht van Vens naar Bettex in Valle d'Aosta (Italië). Bomen langs bergpad in dichte mist 04.jpg — Dominicus Johannes Bergsma / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_%28Itali%C3%AB%29._Bomen_langs_bergpad_in_dichte_mist_04.jpg)
 
 ![Alpine European Larch flowering - Larix decidua var. decidua.jpg](../assets/world-nature/alpine-larch-forest/194725424-alpine-european-larch-flowering-larix-decidua.webp)
 
@@ -76,13 +80,13 @@ West Coast Treetop Walk, rimu rainforest - WestCoastTreetop8776.jpg — lumoplan
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
-![Sequoia sempervirens (fossil redwood tree trunk) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 106 (49107302791).jpg](../assets/world-nature/redwood-forest/84260477-sequoia-sempervirens-fossil-redwood-tree-trun.webp)
+![Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 82 (49097680416).jpg](../assets/world-nature/redwood-forest/84260413-sequoia-sempervirens-fossil-redwood-tree-trun.webp)
 
-Sequoia sempervirens (fossil redwood tree trunk) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 106 (49107302791).jpg — James St. John / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_%28fossil_redwood_tree_trunk%29_%28Sonoma_Volcanics%2C_Upper_Pliocene%2C_3.2_to_3.4_Ma%3B_Calistoga_Petrified_Forest%2C_Calistoga%2C_California%2C_USA%29_106_%2849107302791%29.jpg)
+Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 82 (49097680416).jpg — James St. John / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_%28fossil_redwood_tree_trunks%29_%28Sonoma_Volcanics%2C_Upper_Pliocene%2C_3.2_to_3.4_Ma%3B_Calistoga_Petrified_Forest%2C_Calistoga%2C_California%2C_USA%29_82_%2849097680416%29.jpg)
 
-![Sequoia sempervirens (fossil redwood tree trunk) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 107 (49107492422).jpg](../assets/world-nature/redwood-forest/84260478-sequoia-sempervirens-fossil-redwood-tree-trun.webp)
+![Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 85 (49097680136).jpg](../assets/world-nature/redwood-forest/84260416-sequoia-sempervirens-fossil-redwood-tree-trun.webp)
 
-Sequoia sempervirens (fossil redwood tree trunk) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 107 (49107492422).jpg — James St. John / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_%28fossil_redwood_tree_trunk%29_%28Sonoma_Volcanics%2C_Upper_Pliocene%2C_3.2_to_3.4_Ma%3B_Calistoga_Petrified_Forest%2C_Calistoga%2C_California%2C_USA%29_107_%2849107492422%29.jpg)
+Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 85 (49097680136).jpg — James St. John / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_%28fossil_redwood_tree_trunks%29_%28Sonoma_Volcanics%2C_Upper_Pliocene%2C_3.2_to_3.4_Ma%3B_Calistoga_Petrified_Forest%2C_Calistoga%2C_California%2C_USA%29_85_%2849097680136%29.jpg)
 
 ![Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1416.jpg](../assets/world-nature/redwood-forest/84431110-beech-forest-au-great-otway-national-park-cal.webp)
 
@@ -94,13 +98,13 @@ Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 14
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
+![Monteverde bosque.jpg](../assets/world-nature/cloud-forest/15506182-monteverde-bosque.webp)
+
+Monteverde bosque.jpg — Haakon S. Krohn / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Monteverde_bosque.jpg)
+
 ![Trees in the mist (7699666560).jpg](../assets/world-nature/cloud-forest/29806206-trees-in-the-mist-7699666560.webp)
 
 Trees in the mist (7699666560).jpg — Brady Smith; Coconino National Forest / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Trees_in_the_mist_%287699666560%29.jpg)
-
-![Dülmen, Umland -- 2014 -- 7056.jpg](../assets/world-nature/cloud-forest/32016498-d-lmen-umland-2014-7056.webp)
-
-Dülmen, Umland -- 2014 -- 7056.jpg — Dietmar Rabich / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:D%C3%BClmen%2C_Umland_--_2014_--_7056.jpg)
 
 ![Trees of the misty, Mossy Forest, Cameron Highlands.jpg](../assets/world-nature/cloud-forest/92606664-trees-of-the-misty-mossy-forest-cameron-highl.webp)
 
@@ -111,6 +115,10 @@ Trees of the misty, Mossy Forest, Cameron Highlands.jpg — Pro QueeNia / [CC BY
 制作で見るところ：広い葉・樹冠の多層化・つる植物と密度、異世界の参考にも
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
+
+![CSIRO ScienceImage 3827 Tropical rainforest canopy near Cairns QLD.jpg](../assets/world-nature/tropical-rainforest/35478644-csiro-scienceimage-3827-tropical-rainforest-c.webp)
+
+CSIRO ScienceImage 3827 Tropical rainforest canopy near Cairns QLD.jpg — Willem van Aken, CSIRO / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_3827_Tropical_rainforest_canopy_near_Cairns_QLD.jpg)
 
 ![CSIRO ScienceImage 3829 Tropical rainforest canopy near Cairns QLD.jpg](../assets/world-nature/tropical-rainforest/35478651-csiro-scienceimage-3829-tropical-rainforest-c.webp)
 
@@ -162,10 +170,6 @@ Upper meso-Mediterranean shrubland and forest in Corsica.jpg — Cardioceras / [
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
-![Spruce Knob, Allegheny Mountains, West Virginia (14494813301).jpg](../assets/world-nature/wooded-alpine-lakes/45411548-spruce-knob-allegheny-mountains-west-virginia.webp)
-
-Spruce Knob, Allegheny Mountains, West Virginia (14494813301).jpg — Ken Lund from Reno, Nevada, USA / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Spruce_Knob%2C_Allegheny_Mountains%2C_West_Virginia_%2814494813301%29.jpg)
-
 ![Ergaki, Lake Lazurnoye and pine forest, Sayan Mountains, Siberia, Russia.jpg](../assets/world-nature/wooded-alpine-lakes/178332619-ergaki-lake-lazurnoye-and-pine-forest-sayan-m.webp)
 
 Ergaki, Lake Lazurnoye and pine forest, Sayan Mountains, Siberia, Russia.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Ergaki%2C_Lake_Lazurnoye_and_pine_forest%2C_Sayan_Mountains%2C_Siberia%2C_Russia.jpg)
@@ -174,11 +178,19 @@ Ergaki, Lake Lazurnoye and pine forest, Sayan Mountains, Siberia, Russia.jpg —
 
 Ergaki, Artists' Lake and pine forest, Sayan Mountains, Russia.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Ergaki%2C_Artists%27_Lake_and_pine_forest%2C_Sayan_Mountains%2C_Russia.jpg)
 
+![Ergaki, Artists' Lake and pine trees, Sayan Mountains, Russia.jpg](../assets/world-nature/wooded-alpine-lakes/178676389-ergaki-artists-lake-and-pine-trees-sayan-moun.webp)
+
+Ergaki, Artists' Lake and pine trees, Sayan Mountains, Russia.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Ergaki%2C_Artists%27_Lake_and_pine_trees%2C_Sayan_Mountains%2C_Russia.jpg)
+
 ## 海外自然：石灰岩と森 — karst-forest-landscape
 
 制作で見るところ：岩山の急勾配・石灰岩の隙間に育つ樹木
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
+
+![Changes in pulmonate and prosobranch snails on a limestone hill in Borneo.jpg](../assets/world-nature/karst-forest-landscape/44127086-changes-in-pulmonate-and-prosobranch-snails-o.webp)
+
+Changes in pulmonate and prosobranch snails on a limestone hill in Borneo.jpg — Schilthuizen / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Changes_in_pulmonate_and_prosobranch_snails_on_a_limestone_hill_in_Borneo.jpg)
 
 ![Entzia - Hayedo en el acantilado 01.jpg](../assets/world-nature/karst-forest-landscape/59290739-entzia-hayedo-en-el-acantilado-01.webp)
 
@@ -194,14 +206,6 @@ Dramatic karst landscape of Surat Thani, Khlong Phanom jungle, Thailand.jpg — 
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
-![Coastal dunes 002.jpg](../assets/world-nature/coastal-pine-woods/69509835-coastal-dunes-002.webp)
-
-Coastal dunes 002.jpg — Nicenieks / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Coastal_dunes_002.jpg)
-
-![Coastal dunes 001.jpg](../assets/world-nature/coastal-pine-woods/69509836-coastal-dunes-001.webp)
-
-Coastal dunes 001.jpg — Nicenieks / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Coastal_dunes_001.jpg)
-
 ![Pine trees and coastal residences Costa dels Pins Mallorca.jpg](../assets/world-nature/coastal-pine-woods/180498211-pine-trees-and-coastal-residences-costa-dels-.webp)
 
 Pine trees and coastal residences Costa dels Pins Mallorca.jpg — Steffen Mokosch / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Pine_trees_and_coastal_residences_Costa_dels_Pins_Mallorca.jpg)
@@ -212,17 +216,9 @@ Pine trees and coastal residences Costa dels Pins Mallorca.jpg — Steffen Mokos
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
-![AndeanCock-of-the-Rock 1.JPG](../assets/world-nature/andean-mountain-forests/16305199-andeancock-of-the-rock-1.webp)
-
-AndeanCock-of-the-Rock 1.JPG — Jdpecuador (talk) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:AndeanCock-of-the-Rock_1.JPG)
-
 ![Andean cloudforest - Mindo.jpg](../assets/world-nature/andean-mountain-forests/113247051-andean-cloudforest-mindo.webp)
 
 Andean cloudforest - Mindo.jpg — nearsjasmine / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Andean_cloudforest_-_Mindo.jpg)
-
-![Andean Cock-of-the-rock.jpg](../assets/world-nature/andean-mountain-forests/143482040-andean-cock-of-the-rock.webp)
-
-Andean Cock-of-the-rock.jpg — Das.upamanyu / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Andean_Cock-of-the-rock.jpg)
 
 ## 海外自然：草原の疎林 — savanna-tree-groves
 
