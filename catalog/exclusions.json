@@ -52,6 +52,11 @@
       "title": "Reading in the garden, (15468717167).jpg",
       "reason": "Garden reading scene, not a mixed-aged forest stand"
     },
+    "44127086": {
+      "topic": "karst-forest-landscape",
+      "title": "Changes in pulmonate and prosobranch snails on a limestone hill in Borneo.jpg",
+      "reason": "Snail study on limestone hill, not landscape photography of karst forest"
+    },
     "44183907": {
       "topic": "deadwood-and-fallen-trees",
       "title": "The Oxford University Museum of Natural History, foregrounded by the 'Ghost Forest' installation (Angela Palmer), March 2011.JPG",
@@ -87,6 +92,11 @@
       "title": "Bergtocht van Peio Paese naar Lago Covel in het Nationaal park Stelvio (Italië). Wond van een afgebroken tak. Europese larix (Larix decidua) 02.jpg",
       "reason": "Closeup of damaged branch, not an alpine larch forest stand"
     },
+    "56856631": {
+      "topic": "uneven-age-stands",
+      "title": "Butyriboletus taughannockensis Safonov 656182 2016-08-26.jpg",
+      "reason": "Boletus mushroom close-up, not a mixed-aged forest tree stand"
+    },
     "57373659": {
       "topic": "winter-trees",
       "title": "元 佚名 古木寒鴉圖 團扇-Crows and Bare Trees in Winter MET DP153531.jpg",
@@ -101,6 +111,11 @@
       "topic": "mediterranean-potted-streets",
       "title": "Mitla, Group of the Columns, Palace of Columns (20064199284).jpg",
       "reason": "Mitla archaeological palace in Mexico, not a Mediterranean potted street"
+    },
+    "68352861": {
+      "topic": "uneven-age-stands",
+      "title": "Butyriboletus taughannockensis Safonov 656183.jpg",
+      "reason": "Boletus mushroom close-up, not a mixed-aged forest tree stand"
     },
     "69136212": {
       "topic": "mossy-japanese-forest",
@@ -137,10 +152,25 @@
       "title": "Carl Wagner, A Meadow with a Shepherd and Goats at the Edge of a Forest, 1861, NGA 155693.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
     },
+    "83547549": {
+      "topic": "iberian-village-streets",
+      "title": "Street in a North Portuguese Town (c. 1900) - Adriano de Sousa Lopes (1879-1944) (33445116868).jpg",
+      "reason": "Historic painting, not a real Portuguese town photograph"
+    },
     "83771831": {
       "topic": "small-cottages",
       "title": "Drie studies van een kerk, huisje en hek, RP-T-1938-36.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
+    },
+    "84260413": {
+      "topic": "redwood-forest",
+      "title": "Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 82 (49097680416).jpg",
+      "reason": "Fossil trunks are not a living redwood forest"
+    },
+    "84260416": {
+      "topic": "redwood-forest",
+      "title": "Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 85 (49097680136).jpg",
+      "reason": "Fossil trunks are not a living redwood forest"
     },
     "84260477": {
       "topic": "redwood-forest",
@@ -192,6 +222,11 @@
       "title": "Alfred W Cooper - The Farmer^s Boy - B1977.14.20947 - Yale Center for British Art.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
     },
+    "115968348": {
+      "topic": "scandinavian-birch-forest",
+      "title": "Birch Trees and Man Carrying Twigs.jpg",
+      "reason": "Portrait/figure with twigs, not a Scandinavian birch stand"
+    },
     "120772322": {
       "topic": "coastal-stone-villages",
       "title": "Asarina procumbens growing between wall and tarmac.jpg",
@@ -236,6 +271,16 @@
       "topic": "italian-hilltowns",
       "title": "Cape Town (ZA), Sea Point, Nachtansicht -- 2024 -- 1867-70 - 2.jpg",
       "reason": "Cape Town nightscape, not an Italian hill town"
+    },
+    "151427329": {
+      "topic": "japanese-forest-stream",
+      "title": "Arashiyama - Bamboo Forest, Kyoto, Japan10.jpg",
+      "reason": "Bamboo path in Arashiyama, not a Japanese forest stream"
+    },
+    "153452186": {
+      "topic": "nordic-wooden-villages",
+      "title": "SUNNDALSØRA Sunndal Norway 2024-09 HOV KIRKE kyrkje (wooden church Holtermann Nordan 300 seats) INTERIOR Prekestol (pulpit) blomster etter begravelsesseremoni (flowers after funeral service) Koret Altertavle (altarpiece) etc IMG 9914.jpg",
+      "reason": "Wooden church interior, not Nordic village streetscape"
     },
     "154574376": {
       "topic": "thatch",
