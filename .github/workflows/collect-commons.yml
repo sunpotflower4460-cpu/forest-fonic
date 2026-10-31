@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - references/commons-seed-20261101
+      - references/world-and-forest-layout-20261101
     paths:
       - .github/workflows/collect-commons.yml
       - scripts/collect_commons.py
@@ -32,7 +33,7 @@ jobs:
       - name: Install image converter
         run: python -m pip install "Pillow>=11,<13"
       - name: Collect and build attributed gallery
-        run: python scripts/collect_commons.py --max-total 240 --per-topic 3
+        run: python scripts/collect_commons.py --max-total 420 --per-topic 3
       - name: Validate catalog and image checksums
         run: python scripts/collect_commons.py --verify
       - name: Commit collected reference photos
