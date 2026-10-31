@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "description": "Nature, life and town reference topics for Kokoro-no-ehon",
+  "description": "Nature, animals, life and town reference topics for Kokoro-no-ehon",
   "topics": [
     {
       "group": "forest",
@@ -890,6 +890,255 @@
       "queries": [
         "gravel stones closeup",
         "pebbles ground texture"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "cattle-shapes",
+      "label": "牛の体形・毛・蹄",
+      "focus": "胴体と頭部比、角、脚・蹄、毛色の分かれ目",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "cow side view pasture",
+        "cattle standing grass"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "sheep-fleece",
+      "label": "羊と毛並み",
+      "focus": "丸い胴体と細い脚、羊毛のかたまり",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "sheep grazing field",
+        "sheep wool closeup"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "horses",
+      "label": "馬の立ち姿",
+      "focus": "首から背への曲線、足関節、たてがみ",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "horse standing pasture",
+        "horse mane closeup"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "goats",
+      "label": "ヤギの顔と角",
+      "focus": "顔の比率、角・耳の方向、脚の細さ",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "goat farm animal",
+        "goats pasture"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "farm-dogs",
+      "label": "牧場の犬",
+      "focus": "歩行姿勢・耳・毛並み・周囲との距離感",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "farm dog outdoors",
+        "sheepdog on farm"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "village-cats",
+      "label": "町と庭の猫",
+      "focus": "姿勢、足の置き方、壁・道端での居場所",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/systems/cat.js"
+      ],
+      "queries": [
+        "cat in garden outdoors",
+        "cat village street"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "forest-birds",
+      "label": "樹木と小鳥",
+      "focus": "止まり木の太さと足、くちばし・羽の重なり",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/systems/animals.js"
+      ],
+      "queries": [
+        "songbird perched branch",
+        "small bird woodland"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "butterflies-and-bees",
+      "label": "蝶と蜂",
+      "focus": "羽の姿勢、花との大きさ関係・止まり方",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/world/plant-meshes.js"
+      ],
+      "queries": [
+        "butterfly wildflower closeup",
+        "bumblebee on flower"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "woodland-wildlife",
+      "label": "森の動物",
+      "focus": "森の中にいる時の輪郭、隠れ方、足元",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/systems/forest-life.js"
+      ],
+      "queries": [
+        "deer woodland clearing",
+        "red fox forest"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "pond-life",
+      "label": "池と川の生き物",
+      "focus": "浅い水中の姿・水面との関係・水草",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/systems/stream-life.js"
+      ],
+      "queries": [
+        "freshwater fish pond",
+        "frog near pond"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "barn-interiors",
+      "label": "牧舎の内部",
+      "focus": "柱・梁、寝床、入口の明暗と天井高さ",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "wooden barn interior",
+        "horse stable interior"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "farm-tools",
+      "label": "農場の道具",
+      "focus": "飼葉桶・水桶・農具の大きさと置き方",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "farm water trough",
+        "garden watering can farm"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "flowerpots-and-balconies",
+      "label": "店先の花鉢と窓辺",
+      "focus": "生活の痕跡、外壁と植物の関係",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "flower pots village street",
+        "flowers window box old town"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "bicycles-and-alleys",
+      "label": "自転車と路地",
+      "focus": "車輪と壁・道幅の尺度感、停め方",
+      "related_code": [
+        "app/src/world/bicycle.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "bicycle parked village wall",
+        "bicycle in cobblestone alley"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "porches-and-verandas",
+      "label": "縁側・ポーチ",
+      "focus": "床と地面の段差、柱・屋根、座る場所",
+      "related_code": [
+        "app/src/world/house.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "wooden cottage porch",
+        "farmhouse veranda"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "stone-stairs",
+      "label": "石段と庭の小道",
+      "focus": "段差の寸法、石の欠けと植物の隙間",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/park.js"
+      ],
+      "queries": [
+        "stone garden steps",
+        "old outdoor stone staircase"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "twilight",
+      "label": "薄暮と青い時間",
+      "focus": "温かい窓明かりと青い空気色の釣り合い",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/lab/light.js"
+      ],
+      "queries": [
+        "blue hour village landscape",
+        "twilight countryside sky"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "sea-surface",
+      "label": "海面と波",
+      "focus": "細かな波・遠景の反射、海色の層",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "gentle sea waves coastline",
+        "calm sea surface"
       ]
     }
   ]

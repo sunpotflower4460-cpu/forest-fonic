@@ -10,11 +10,11 @@
 - **[画像ギャラリー](gallery/README.md)** — テーマごとのサムネイルと観察ポイント
 - **[画像一覧 JSON](catalog/images.json)** — 収録済み写真ごとの出典、作者、ライセンス、SHA-256、関連コード
 - **[出典・クレジット](catalog/CREDITS.md)** — 画像単位の利用条件と作者
-- **[収集テーマ 65 種](catalog/topics.json)** — 8分野、優先する観察対象と検索語
+- **[収集テーマ 83 種](catalog/topics.json)** — 9分野、優先する観察対象と検索語
 
-写真取り込み完了前は、ギャラリーや画像一覧が未生成の場合があります。収集処理後に生成されます。
+初回128枚を収録済み。追加収集と目視の一次選別を進めています。
 
-## 8分野
+## 9分野
 
 | 分野 | 対象 |
 | --- | --- |
@@ -22,7 +22,8 @@
 | `meadow` | 草原・花の群落・庭と果樹園 |
 | `water` | 小川・泉・湖畔・川石・滝・海岸 |
 | `terrain` | 丘、山、岩、土道 |
-| `farm` | 牧場・動物・牧舎・木柵・畑・水田・農家・道具 |
+| `farm` | 牧場・牧舎・木柵・畑・水田・農家・道具 |
+| `animals` | 牛・羊・馬・ヤギ・犬・猫・野鳥・昆虫・森の動物・水辺の生き物 |
 | `town` | 集落・木造住宅・店先・広場・市場・バス停・道路・石橋 |
 | `light` | 木漏れ日・朝靄・夕暮れ・雨・夜の灯り・雲・雪 |
 | `materials` | 木・石・瓦・漆喰・茅・砂利の接写 |
@@ -39,7 +40,7 @@
 
 `scripts/collect_commons.py` が [Wikimedia Commons](https://commons.wikimedia.org/) から候補写真を検索し、許容ライセンスをメタデータで確認してからリサイズした WebP を `assets/` へ格納します。
 
-- 1回の標準収集：65テーマ、各テーマ最大2枚、合計最大130枚。
+- 1回の標準収集：83テーマ、各テーマ最大3枚、合計最大240枚。
 - 候補が少ないテーマは無理に埋めません。未知のライセンスや不適切なファイル種別は対象外です。
 - `catalog/images.json` とギャラリー、出典表を自動生成し、検証コマンドで SHA-256 とライセンスを照合します。
 - 自動選定された写真には `visual_review: pending` が付きます。適合性と権利情報の最終確認は人が行います。
@@ -47,7 +48,7 @@
 ```sh
 python -m pip install 'Pillow>=11,<13'
 python scripts/collect_commons.py --dry-run --only town-plazas
-python scripts/collect_commons.py --max-total 130 --per-topic 2
+python scripts/collect_commons.py --max-total 240 --per-topic 3
 python scripts/collect_commons.py --verify
 ```
 

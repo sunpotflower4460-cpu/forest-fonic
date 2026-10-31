@@ -13,6 +13,7 @@
 | 森の幹・根・枝・樹冠 | 樹種ごとの非対称性、樹冠の隙間、幹から枝への太さの遷移 | `app/src/world/nature.js`, `app/src/lab/trees.js` |
 | 草原・野花・庭 | 葉の立ち方、草丈の斑、色のまとまり、道端の植生 | `app/src/world/meadow.js`, `app/src/world/plant-meshes.js` |
 | 小川・石・湖畔 | 水際の段差、透明度、岩の沈み具合、反射の強さ | `app/src/world/landscape.js`, `app/src/lab/stream.js` |
+| 牛・羊・馬・猫・小鳥など | 骨格の比率、動物が周囲と接する高さや動き | `app/src/world/animal-meshes.js`, `app/src/world/life-meshes.js` |
 | 畑・牧場・納屋・柵 | 柵の柱間隔、畝の規則性、軒の厚み、道具の大きさ | `app/src/world/ranch-structures.js`, `app/src/world/farm-meshes.js` |
 | 家・街路・商店・広場 | 店先の奥行き、屋根の納まり、段差、生活物の置き方 | `app/src/world/town.js`, `app/src/world/house.js` |
 | バス停・農村の道・橋 | 橋台と川岸、路肩、待合所と道路の位置関係 | `app/src/world/road.js`, `app/src/world/bus-stop.js` |

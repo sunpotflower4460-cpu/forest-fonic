@@ -36,7 +36,8 @@ LICENSES = {
     "CC BY-SA 4.0": 4, "CC BY-SA 3.0": 5, "CC BY-SA 2.0": 6,
 }
 ALLOWED_HOSTS = {"commons.wikimedia.org", "upload.wikimedia.org", "thumb.wikimedia.org"}
-EXCLUDE_TITLE = re.compile(r"\b(map|logo|flag|diagram|screenshot|poster|drawing|painting|cartoon|svg)\b", re.I)
+EXCLUDE_TITLE = re.compile(r"\b(map|logo|flag|diagram|screenshot|poster|drawing|painting|cartoon|svg|etching|sketch|watercolor|watercolour|engraving|illustration|depiction|studies|artwork|museum print|NGA [0-9]+|MET DP[0-9]+)\b", re.I)
+EXCLUDE_ARTIST = re.compile(r"Rijksmuseum|Yale Center for British Art|National Gallery of Art|The Metropolitan Museum", re.I)
 MAX_SOURCE_BYTES = 9_000_000
 MAX_IMAGE_BYTES = 750_000
 
@@ -68,7 +69,7 @@ def url_read(url: str, maximum: int, retries: int = 3) -> bytes:
     raise RuntimeError(f"Download failed: {host}: {last}")
 
 
-def search_topic(topic: dict, per_topic: int) -> list[dict]:
+def search_topic(topic: dict, per_topic: int, excluded_ids: set[int]) -> list[dict]:
     found = {}
     for query in topic["queries"]:
         params = urlencode({
@@ -91,7 +92,9 @@ def search_topic(topic: dict, per_topic: int) -> list[dict]:
             meta = info.get("extmetadata") or {}
             license_name = plain(meta.get("LicenseShortName", {}).get("value", ""))
             title = p.get("title", "")
-            if license_name not in LICENSES or EXCLUDE_TITLE.search(title):
+            artist = plain(meta.get("Artist", {}).get("value", ""))
+            if (license_name not in LICENSES or EXCLUDE_TITLE.search(title)
+                    or EXCLUDE_ARTIST.search(artist) or p.get("pageid") in excluded_ids):
                 continue
             if not title.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".tif", ".tiff")):
                 continue
@@ -115,7 +118,7 @@ def search_topic(topic: dict, per_topic: int) -> list[dict]:
                 "image_url": source_image,
                 "license": license_name,
                 "license_url": license_url,
-                "artist": plain(meta.get("Artist", {}).get("value", ""))[:250] or "See source file page",
+                "artist": artist[:250] or "See source file page",
                 "source_width": info.get("width"),
                 "source_height": info.get("height"),
                 "_rank": p.get("index", 9999),
@@ -123,7 +126,7 @@ def search_topic(topic: dict, per_topic: int) -> list[dict]:
         if len(found) >= per_topic * 3:
             break
         time.sleep(0.2)
-    return sorted(found.values(), key=lambda x: (LICENSES[x["license"]], x["_rank"]))[: per_topic * 4]
+    return sorted(found.values(), key=lambda x: (x["_rank"], LICENSES[x["license"]]))[: per_topic * 4]
 
 
 def unique_slug(value: str) -> str:
@@ -245,8 +248,8 @@ def verify() -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--max-total", type=int, default=130)
-    parser.add_argument("--per-topic", type=int, default=2)
+    parser.add_argument("--max-total", type=int, default=240)
+    parser.add_argument("--per-topic", type=int, default=3)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--verify", action="store_true")
     parser.add_argument("--only", help="Select one topic slug")
@@ -261,13 +264,31 @@ def main() -> int:
     if not (1 <= args.max_total <= 250 and 1 <= args.per_topic <= 6):
         parser.error("Limits outside safe range")
     existing = json.loads(MANIFEST.read_text(encoding="utf-8")) if MANIFEST.exists() else {}
-    images = [i for i in existing.get("images", []) if (ROOT / i["path"]).exists()]
+    exclusions_file = ROOT / "catalog" / "exclusions.json"
+    exclusions = json.loads(exclusions_file.read_text(encoding="utf-8")) if exclusions_file.exists() else {}
+    excluded_ids = {int(p) for p in exclusions.get("excluded", {})}
+    images = []
+    assets_root = (ROOT / "assets").resolve()
+    for item in existing.get("images", []):
+        path = (ROOT / item["path"]).resolve()
+        if item["pageid"] in excluded_ids:
+            # Only discard our own generated file if its checksum is unchanged.
+            if path.is_relative_to(assets_root) and path.is_file():
+                if hashlib.sha256(path.read_bytes()).hexdigest() == item.get("sha256"):
+                    path.unlink()
+                    print(f"Curated out generated image: {item['path']}", flush=True)
+                    continue
+                print(f"WARN not removing modified file: {path}", file=sys.stderr)
+            if path.is_file():
+                images.append({**item, "visual_review": "needs_manual_review"})
+        elif path.is_file():
+            images.append(item)
     already = {i["pageid"] for i in images}
     topic_counts = Counter(i["topic"] for i in images)
     print(f"Existing: {len(images)} images; searching {len(topics)} topics", flush=True)
     proposals = {}
     with ThreadPoolExecutor(max_workers=3) as pool:
-        jobs = {pool.submit(search_topic, topic, args.per_topic): topic for topic in topics}
+        jobs = {pool.submit(search_topic, topic, args.per_topic, excluded_ids): topic for topic in topics}
         for job in as_completed(jobs):
             topic = jobs[job]
             try:
