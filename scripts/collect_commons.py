@@ -69,6 +69,15 @@ def url_read(url: str, maximum: int, retries: int = 3) -> bytes:
     raise RuntimeError(f"Download failed: {host}: {last}")
 
 
+def title_matches_topic(title: str, topic: dict) -> bool:
+    """Conservative subject/place screening for additional reference categories."""
+    lower = title.lower()
+    if any(term.lower() in lower for term in topic.get("title_exclude_any", [])):
+        return False
+    required = topic.get("title_include_any", [])
+    return not required or any(term.lower() in lower for term in required)
+
+
 def search_topic(topic: dict, per_topic: int, excluded_ids: set[int]) -> list[dict]:
     found = {}
     for query in topic["queries"]:
@@ -94,7 +103,8 @@ def search_topic(topic: dict, per_topic: int, excluded_ids: set[int]) -> list[di
             title = p.get("title", "")
             artist = plain(meta.get("Artist", {}).get("value", ""))
             if (license_name not in LICENSES or EXCLUDE_TITLE.search(title)
-                    or EXCLUDE_ARTIST.search(artist) or p.get("pageid") in excluded_ids):
+                    or EXCLUDE_ARTIST.search(artist) or not title_matches_topic(title, topic)
+                    or p.get("pageid") in excluded_ids):
                 continue
             if not title.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".tif", ".tiff")):
                 continue
