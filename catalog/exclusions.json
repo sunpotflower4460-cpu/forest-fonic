@@ -1,26 +1,91 @@
 {
   "schema_version": 1,
-  "description": "Human-reviewed title/source mismatches in the first automated photo batch. Generated copies only; re-select alternatives.",
+  "description": "Curated title/visual/region mismatches: reject paintings, maps, irrelevant buildings, and wrongly located or misleading reference images. Only generated copies are removed after checksum check.",
   "excluded": {
     "351429": {
       "topic": "shopfronts",
       "title": "Legal hashish shop in Kathmandu, Nepal in 1973.jpg",
       "reason": "Does not fit the welcoming game-world reference topic; choose more representative details"
     },
+    "3482723": {
+      "topic": "riparian-tree-corridors",
+      "title": "Malibu Creek dry bed.jpg",
+      "reason": "Dry creek bed does not demonstrate a riparian tree corridor"
+    },
     "13028315": {
       "topic": "goats",
       "title": "Goat house at The Animal Farm at Tannaghmore Gardens - geograph.org.uk - 504467.jpg",
       "reason": "Title/source mismatch: not a direct reference photo for this topic"
+    },
+    "16305199": {
+      "topic": "andean-mountain-forests",
+      "title": "AndeanCock-of-the-Rock 1.JPG",
+      "reason": "Andean bird portrait, not an Andean mountain forest"
     },
     "21920479": {
       "topic": "river-stones",
       "title": "The Holy Water Collection Basin in the Church at the Monastery of Na’akuto La’ab (3422175620).jpg",
       "reason": "Not sufficiently relevant or duplicate preview for this topic"
     },
+    "32016498": {
+      "topic": "cloud-forest",
+      "title": "Dülmen, Umland -- 2014 -- 7056.jpg",
+      "reason": "Dülmen rural landscape in Germany, not a cloud forest"
+    },
+    "34859503": {
+      "topic": "aerial-forest-clusters",
+      "title": "Oil Palm clearing aerial Borneo.JPG",
+      "reason": "Oil palm clearing represents land-use change rather than intact natural tree clusters"
+    },
     "36264220": {
       "topic": "water-pumps",
       "title": "An American farm boy drinking unsafe water Wellcome L0069829.jpg",
       "reason": "Not sufficiently relevant or duplicate preview for this topic"
+    },
+    "39888985": {
+      "topic": "japanese-country-lanes",
+      "title": "Münster, Park Sentmaring, Japanische Blütenkirsche -- 2015 -- 5708.jpg",
+      "reason": "Münster in Germany, not a Japanese country lane"
+    },
+    "41464774": {
+      "topic": "uneven-age-stands",
+      "title": "Reading in the garden, (15468717167).jpg",
+      "reason": "Garden reading scene, not a mixed-aged forest stand"
+    },
+    "44183907": {
+      "topic": "deadwood-and-fallen-trees",
+      "title": "The Oxford University Museum of Natural History, foregrounded by the 'Ghost Forest' installation (Angela Palmer), March 2011.JPG",
+      "reason": "Museum art installation, not fallen wood in a natural forest"
+    },
+    "45411548": {
+      "topic": "wooded-alpine-lakes",
+      "title": "Spruce Knob, Allegheny Mountains, West Virginia (14494813301).jpg",
+      "reason": "Spruce Knob mountain in West Virginia, no wooded alpine lake"
+    },
+    "48211480": {
+      "topic": "japanese-country-lanes",
+      "title": "Münster, Park Sentmaring -- 2016 -- 1887.jpg",
+      "reason": "Münster in Germany, not a Japanese country lane"
+    },
+    "52105691": {
+      "topic": "canopy-gaps",
+      "title": "Forest canopy gap road DSC 5092.jpg",
+      "reason": "Road-created clearing is not a natural forest canopy regeneration gap"
+    },
+    "52105692": {
+      "topic": "canopy-gaps",
+      "title": "Forest road canopy gap animal signage DSC 5105.jpg",
+      "reason": "Road and signage are not suitable as natural canopy-gap examples"
+    },
+    "52105693": {
+      "topic": "canopy-gaps",
+      "title": "Forest road canopy gap DSC 5093.jpg",
+      "reason": "Road-created clearing, not a natural canopy gap"
+    },
+    "52343523": {
+      "topic": "alpine-larch-forest",
+      "title": "Bergtocht van Peio Paese naar Lago Covel in het Nationaal park Stelvio (Italië). Wond van een afgebroken tak. Europese larix (Larix decidua) 02.jpg",
+      "reason": "Closeup of damaged branch, not an alpine larch forest stand"
     },
     "57373659": {
       "topic": "winter-trees",
@@ -31,6 +96,31 @@
       "topic": "farmyards",
       "title": "Norland Scarecrow Festival- Old Macdonald had a Farm ... (21180029881).jpg",
       "reason": "Title/source mismatch: not a direct reference photo for this topic"
+    },
+    "62028862": {
+      "topic": "mediterranean-potted-streets",
+      "title": "Mitla, Group of the Columns, Palace of Columns (20064199284).jpg",
+      "reason": "Mitla archaeological palace in Mexico, not a Mediterranean potted street"
+    },
+    "69136212": {
+      "topic": "mossy-japanese-forest",
+      "title": "Bilberry bush and moss in Gullmarsskogen ravine.jpg",
+      "reason": "Source depicts Gullmarsskogen in Sweden, not Japan's mossy forest"
+    },
+    "69509835": {
+      "topic": "coastal-pine-woods",
+      "title": "Coastal dunes 002.jpg",
+      "reason": "Coastal dunes without identifiable pine woods"
+    },
+    "69509836": {
+      "topic": "coastal-pine-woods",
+      "title": "Coastal dunes 001.jpg",
+      "reason": "Coastal dunes without identifiable pine woods"
+    },
+    "73492053": {
+      "topic": "japanese-village-hills",
+      "title": "Harvest Festival in countryside - Door doll for praying and peace.jpg",
+      "reason": "Festival doll/decoration is not a Japanese mountain village landscape"
     },
     "74886679": {
       "topic": "flower-shops",
@@ -52,10 +142,30 @@
       "title": "Drie studies van een kerk, huisje en hek, RP-T-1938-36.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
     },
+    "84260477": {
+      "topic": "redwood-forest",
+      "title": "Sequoia sempervirens (fossil redwood tree trunk) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 106 (49107302791).jpg",
+      "reason": "Fossil trunk, not a living redwood forest"
+    },
+    "84260478": {
+      "topic": "redwood-forest",
+      "title": "Sequoia sempervirens (fossil redwood tree trunk) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 107 (49107492422).jpg",
+      "reason": "Fossil trunk, not a living redwood forest"
+    },
     "84463991": {
       "topic": "small-cottages",
       "title": "Slot Zeist 't Princelijke Lusthuijs van sijn Exce. de Heer van Odijck etc tot Zeyst (titel op object), RP-P-1899-A-21468.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
+    },
+    "89021078": {
+      "topic": "iberian-village-streets",
+      "title": "Portugal Village, Toronto.png",
+      "reason": "Portugal Village in Toronto, not a Portuguese rural village"
+    },
+    "90234245": {
+      "topic": "layered-canopy",
+      "title": "Open forest with mown understory 7th Brigade Park Chermside P1080987.jpg",
+      "reason": "Mown managed park understorey does not demonstrate a multilayered natural forest"
     },
     "101092196": {
       "topic": "country-buses",
@@ -82,6 +192,21 @@
       "title": "Alfred W Cooper - The Farmer^s Boy - B1977.14.20947 - Yale Center for British Art.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
     },
+    "120772322": {
+      "topic": "coastal-stone-villages",
+      "title": "Asarina procumbens growing between wall and tarmac.jpg",
+      "reason": "Closeup of wall plant, not a coastal stone village view"
+    },
+    "134492356": {
+      "topic": "italian-hilltowns",
+      "title": "Former 7th District \"Hill Street Blues\" Police Station, Chicago.jpg",
+      "reason": "Chicago police station, not an Italian hill town"
+    },
+    "141047067": {
+      "topic": "slope-forest-spacing",
+      "title": "Steep cleared hillside with trees above - geograph.org.uk - 5760828.jpg",
+      "reason": "Cleared hillside image does not sufficiently show tree spacing within a forest"
+    },
     "141262397": {
       "topic": "flowerpots-and-balconies",
       "title": "Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg",
@@ -92,10 +217,25 @@
       "title": "Wood planks - Preview (Amal Kumar via Poly Haven).png",
       "reason": "Not sufficiently relevant or duplicate preview for this topic"
     },
+    "142191115": {
+      "topic": "japanese-forest-stream",
+      "title": "Minato City, Tokyo, Japan.jpg",
+      "reason": "Generic Minato City photograph, not evidence of a Japanese forest stream"
+    },
+    "143482040": {
+      "topic": "andean-mountain-forests",
+      "title": "Andean Cock-of-the-rock.jpg",
+      "reason": "Andean bird portrait, not an Andean mountain forest"
+    },
     "145543983": {
       "topic": "plaster-and-clay",
       "title": "Painted plaster wall - Preview (Amal Kumar via Poly Haven).webp",
       "reason": "Not sufficiently relevant or duplicate preview for this topic"
+    },
+    "146236057": {
+      "topic": "italian-hilltowns",
+      "title": "Cape Town (ZA), Sea Point, Nachtansicht -- 2024 -- 1867-70 - 2.jpg",
+      "reason": "Cape Town nightscape, not an Italian hill town"
     },
     "154574376": {
       "topic": "thatch",
@@ -107,10 +247,25 @@
       "title": "A depiction of a traditional Meitei thatched roofed house of Ancient Kangleipak civilisation (early Manipur realm) 01.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
     },
+    "156252229": {
+      "topic": "nordic-wooden-villages",
+      "title": "Nico Jungman (1872-1935) NORWAY Text by Beatrix Jungman publ. by A&C Black, London 1905 norway1905jung 0371 FARM-HOUSES BUILT OF POLES (wooden log houses) No known copyright restrictions.jpg",
+      "reason": "Historic illustrated book plate, not a present-day Nordic wooden town photograph"
+    },
     "156325378": {
       "topic": "forest-birds",
       "title": "Gateway to field with small woodland on SE side of road at Bird's Hill - geograph.org.uk - 7038162.jpg",
       "reason": "Title/source mismatch: not a direct reference photo for this topic"
+    },
+    "156477637": {
+      "topic": "taiwan-mountain-streets",
+      "title": "A-Zhu Peanut Ice Cream Roll, Jiufen Old Street, 2024.jpg",
+      "reason": "Peanut ice cream roll shop detail does not show the mountain town street pattern"
+    },
+    "156938031": {
+      "topic": "uneven-age-stands",
+      "title": "Climap 18ka bare soil percent 1.png",
+      "reason": "Bare-soil climate raster/map, not a photograph of tree spacing"
     },
     "170300276": {
       "topic": "shopfronts",
@@ -121,6 +276,16 @@
       "topic": "cafes-and-bakeries",
       "title": "ECB Storefront.jpg",
       "reason": "Not sufficiently relevant or duplicate preview for this topic"
+    },
+    "176922177": {
+      "topic": "scandinavian-birch-forest",
+      "title": "Scandinavian Birch & Coastal Conifer Forests Bioregion.png",
+      "reason": "Bioregion diagram/map, not a photograph of Scandinavian birch forest"
+    },
+    "198550823": {
+      "topic": "french-stone-villages",
+      "title": "BTV - Traditional houses and stone structures in Bena village, Flores, Indonesia, 2019.jpg",
+      "reason": "Bena village in Indonesia, not a French stone village"
     },
     "199974421": {
       "topic": "shopfronts",
