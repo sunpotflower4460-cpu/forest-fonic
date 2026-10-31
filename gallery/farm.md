@@ -206,6 +206,14 @@ Wooden Barn at Philip Foster Farm.jpg — Rick Obst / [CC BY 2.0](https://creati
 
 関連コード：`app/src/world/ranch-structures.js`
 
+![John Deere tractors - One for all ages.jpg](../assets/farm/farm-tools/57941865-john-deere-tractors-one-for-all-ages.webp)
+
+John Deere tractors - One for all ages.jpg — Nheyob / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:John_Deere_tractors_-_One_for_all_ages.jpg)
+
+![Massey Ferguson 6470 Dyna 6.jpg](../assets/farm/farm-tools/80001232-massey-ferguson-6470-dyna-6.webp)
+
+Massey Ferguson 6470 Dyna 6.jpg — JoachimKohler-HB / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Massey_Ferguson_6470_Dyna_6.jpg)
+
 ![Woman with watering can, Dent de Man.jpg](../assets/farm/farm-tools/147882343-woman-with-watering-can-dent-de-man.webp)
 
 Woman with watering can, Dent de Man.jpg — FBilula / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Woman_with_watering_can%2C_Dent_de_Man.jpg)

@@ -36,7 +36,7 @@ LICENSES = {
     "CC BY-SA 4.0": 4, "CC BY-SA 3.0": 5, "CC BY-SA 2.0": 6,
 }
 ALLOWED_HOSTS = {"commons.wikimedia.org", "upload.wikimedia.org", "thumb.wikimedia.org"}
-EXCLUDE_TITLE = re.compile(r"\b(map|logo|flag|diagram|screenshot|poster|drawing|painting|cartoon|svg|etching|sketch|watercolor|watercolour|engraving|illustration|depiction|studies|artwork|museum print|NGA [0-9]+|MET DP[0-9]+)\b", re.I)
+EXCLUDE_TITLE = re.compile(r"\b(map|logo|flag|diagram|screenshot|poster|drawing|painting|cartoon|svg|etching|sketch|watercolor|watercolour|engraving|illustration|depiction|studies|artwork|museum print|fossil|bioregion|climap|NGA [0-9]+|MET DP[0-9]+)\b", re.I)
 EXCLUDE_ARTIST = re.compile(r"Rijksmuseum|Yale Center for British Art|National Gallery of Art|The Metropolitan Museum", re.I)
 MAX_SOURCE_BYTES = 9_000_000
 MAX_IMAGE_BYTES = 750_000
@@ -69,6 +69,15 @@ def url_read(url: str, maximum: int, retries: int = 3) -> bytes:
     raise RuntimeError(f"Download failed: {host}: {last}")
 
 
+def title_matches_topic(title: str, topic: dict) -> bool:
+    """Conservative subject/place screening for additional reference categories."""
+    lower = title.lower()
+    if any(term.lower() in lower for term in topic.get("title_exclude_any", [])):
+        return False
+    required = topic.get("title_include_any", [])
+    return not required or any(term.lower() in lower for term in required)
+
+
 def search_topic(topic: dict, per_topic: int, excluded_ids: set[int]) -> list[dict]:
     found = {}
     for query in topic["queries"]:
@@ -94,7 +103,8 @@ def search_topic(topic: dict, per_topic: int, excluded_ids: set[int]) -> list[di
             title = p.get("title", "")
             artist = plain(meta.get("Artist", {}).get("value", ""))
             if (license_name not in LICENSES or EXCLUDE_TITLE.search(title)
-                    or EXCLUDE_ARTIST.search(artist) or p.get("pageid") in excluded_ids):
+                    or EXCLUDE_ARTIST.search(artist) or not title_matches_topic(title, topic)
+                    or p.get("pageid") in excluded_ids):
                 continue
             if not title.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".tif", ".tiff")):
                 continue
@@ -232,7 +242,14 @@ def verify() -> int:
         return 1
     images = json.loads(MANIFEST.read_text(encoding="utf-8")).get("images", [])
     errors = []
+    seen_paths, seen_pageids = set(), set()
     for i in images:
+        if i.get("path") in seen_paths:
+            errors.append(f"Duplicate catalog path: {i.get('path')}")
+        if i.get("pageid") in seen_pageids:
+            errors.append(f"Duplicate Commons page ID: {i.get('pageid')}")
+        seen_paths.add(i.get("path"))
+        seen_pageids.add(i.get("pageid"))
         if i.get("license") not in LICENSES:
             errors.append(f"Unsupported license: {i.get('path')}")
         path = ROOT / i["path"]
@@ -240,9 +257,19 @@ def verify() -> int:
             errors.append(f"Missing: {path}")
         elif hashlib.sha256(path.read_bytes()).hexdigest() != i.get("sha256"):
             errors.append(f"Checksum mismatch: {path}")
+        elif path.suffix.lower() != ".webp":
+            errors.append(f"Unexpected image extension: {path}")
+        else:
+            try:
+                with Image.open(path) as photo:
+                    if photo.format != "WEBP" or min(photo.size) < 1:
+                        errors.append(f"Unexpected image contents: {path}")
+                    photo.verify()
+            except (UnidentifiedImageError, Image.DecompressionBombError, OSError, ValueError) as exc:
+                errors.append(f"Undecodable WebP: {path}: {exc}")
     for issue in errors:
         print("ERROR " + issue, file=sys.stderr)
-    print(f"Verified {len(images) - len(errors)}/{len(images)} images")
+    print(f"Verified catalog entries: {len(images)} images; issues: {len(errors)}")
     return 1 if errors else 0
 
 
@@ -262,7 +289,7 @@ def main() -> int:
         topics = [t for t in all_topics if t["slug"] == args.only]
         if not topics:
             parser.error(f"Unknown topic: {args.only}")
-    if not (1 <= args.max_total <= 250 and 1 <= args.per_topic <= 6):
+    if not (1 <= args.max_total <= 1000 and 1 <= args.per_topic <= 6):
         parser.error("Limits outside safe range")
     existing = json.loads(MANIFEST.read_text(encoding="utf-8")) if MANIFEST.exists() else {}
     exclusions_file = ROOT / "catalog" / "exclusions.json"

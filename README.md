@@ -10,11 +10,11 @@
 - **[画像ギャラリー](gallery/README.md)** — テーマごとのサムネイルと観察ポイント
 - **[画像一覧 JSON](catalog/images.json)** — 収録済み写真ごとの出典、作者、ライセンス、SHA-256、関連コード
 - **[出典・クレジット](catalog/CREDITS.md)** — 画像単位の利用条件と作者
-- **[収集テーマ 83 種](catalog/topics.json)** — 9分野、優先する観察対象と検索語
+- **[収集テーマ 133 種](catalog/topics.json)** — 9分野、優先する観察対象と検索語
 
-初回128枚を収録済み。追加収集と目視の一次選別を進めています。
+初回の基盤として239枚の実写参考写真を収録。森の木の自然な配置、日本の里山、海外の街と自然の資料を追加収集する構成です。実際の画像収録枚数は [ギャラリー](gallery/README.md) と [画像一覧](catalog/images.json) で確認できます。
 
-## 9分野
+## 基本9分野と追加の4分野
 
 | 分野 | 対象 |
 | --- | --- |
@@ -27,6 +27,16 @@
 | `town` | 集落・木造住宅・店先・広場・市場・バス停・道路・石橋 |
 | `light` | 木漏れ日・朝靄・夕暮れ・雨・夜の灯り・雲・雪 |
 | `materials` | 木・石・瓦・漆喰・茅・砂利の接写 |
+| `forest-layout` | 上空と地上から見る木の密度・樹冠・空地・川沿い・斜面・倒木と下草 |
+| `japan-landscape` | 日本の里山・渓流・スギ林・雑木林・山村・田舎道・棚田 |
+| `world-town` | 海外の街並み（参考用：屋根・石畳・店先・街路の構造） |
+| `world-nature` | 海外の森と自然（参考用：気候・樹種・地形・光の違い） |
+
+## 追加した森林配置と海外写真の使い分け
+
+- [自然林の木の配置を観察するガイド](docs/FOREST_LAYOUT_REFERENCE.md) — 樹冠の隙間、地形による密度差、若木と大木の関係、林縁の形を読み解く。
+- [海外参考資料の使い方](docs/WORLD_REFERENCE_POLICY.md) — **日本らしい日常の空気感を主軸**に、海外の構造や植生を必要な場面だけに取り入れる。
+- 新しい資料は実際の `assets/` 画像として保存し、カテゴリー別ギャラリーへ表示する。出典・ライセンスとハッシュを残す。
 
 ## 3D制作での使い方
 
@@ -40,7 +50,7 @@
 
 `scripts/collect_commons.py` が [Wikimedia Commons](https://commons.wikimedia.org/) から候補写真を検索し、許容ライセンスをメタデータで確認してからリサイズした WebP を `assets/` へ格納します。
 
-- 1回の標準収集：83テーマ、各テーマ最大3枚、合計最大240枚。
+- 今回の拡張収集：133テーマ、各テーマ最大3枚、合計最大420枚（既存画像を含む上限。実際の収録枚数は検索結果次第）。
 - 候補が少ないテーマは無理に埋めません。未知のライセンスや不適切なファイル種別は対象外です。
 - `catalog/images.json` とギャラリー、出典表を自動生成し、検証コマンドで SHA-256 とライセンスを照合します。
 - 自動選定された写真には `visual_review: pending` が付きます。適合性と権利情報の最終確認は人が行います。
@@ -48,11 +58,11 @@
 ```sh
 python -m pip install 'Pillow>=11,<13'
 python scripts/collect_commons.py --dry-run --only town-plazas
-python scripts/collect_commons.py --max-total 240 --per-topic 3
+python scripts/collect_commons.py --max-total 420 --per-topic 3
 python scripts/collect_commons.py --verify
 ```
 
-GitHub Actions の `Collect Commons reference photos` は初回収集用のブランチ上での push と手動実行に対応しています。スケジュール実行はありません。
+GitHub Actions の `Collect Commons reference photos` は指定された収集用ブランチ上での変更と手動実行に対応しています。スケジュール実行はありません。
 
 ## 権利について
 

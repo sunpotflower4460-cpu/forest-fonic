@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "description": "Nature, animals, life and town reference topics for Kokoro-no-ehon",
+  "description": "Reference topics for Kokoro-no-ehon: Japanese local landscapes as the default, forest spatial layouts for core 3D construction, overseas towns and nature as optional selective inspiration",
   "topics": [
     {
       "group": "forest",
@@ -1151,6 +1151,1160 @@
       "queries": [
         "gentle sea waves coastline",
         "calm sea surface"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "aerial-canopy-mosaic",
+      "label": "空撮：樹冠のモザイク",
+      "focus": "上空から高木の樹冠サイズ・輪郭・集団・木と木の隙間を比較する（正確な幹位置は別途調査）",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "aerial forest canopy",
+        "forest aerial drone",
+        "aerial view tree canopy"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "aerial-forest-clusters",
+      "label": "空撮：林のかたまりと空間",
+      "focus": "林分の集団・非均一な密度・草地や水との境界・小さな開放域",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "aerial woodland trees meadow",
+        "aerial forest clearing",
+        "aerial view wooded landscape"
+      ],
+      "title_exclude_any": [
+        "palm clearing",
+        "oil palm"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "canopy-gaps",
+      "label": "樹冠の隙間と更新ギャップ",
+      "focus": "樹冠の欠損部分・そこに入る光・若い木・倒木の関係",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "forest canopy gap",
+        "forest gap sunlight",
+        "treefall gap forest"
+      ],
+      "title_exclude_any": [
+        " road ",
+        "signage",
+        "highway",
+        "roadside"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "uneven-age-stands",
+      "label": "太さと高さが異なる木の混在",
+      "focus": "高木・中木・若木が混じる自然林で、幹径と樹高のばらつきを観察",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "uneven aged forest stand",
+        "mixed aged woodland trees",
+        "old growth forest saplings"
+      ],
+      "title_exclude_any": [
+        "raster",
+        "map",
+        "climap",
+        "garden"
+      ],
+      "title_include_any": [
+        "forest",
+        "woodland",
+        "stand",
+        "trees",
+        "tree trunks"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "giant-trees-and-saplings",
+      "label": "大木・若木・稚樹の距離",
+      "focus": "大木の根元・樹陰・小さな稚樹が育つ位置と空白",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "old growth forest saplings under big tree",
+        "large tree with saplings woodland",
+        "giant tree young forest saplings"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "layered-canopy",
+      "label": "高木・亜高木・低木の層",
+      "focus": "高さ方向の樹冠の重なり、日陰の階層、視界が抜ける場所",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "multi layered forest canopy",
+        "forest understory trees",
+        "forest canopy layers"
+      ],
+      "title_exclude_any": [
+        "mown understory"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "irregular-forest-edge",
+      "label": "自然な森の端の凸凹",
+      "focus": "草地から低木、低い木、高い木へ移行する不規則な森林境界",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "irregular forest edge meadow",
+        "woodland edge trees shrubs",
+        "forest edge clearing"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "riparian-tree-corridors",
+      "label": "川沿いの木立と隙間",
+      "focus": "川の曲がり・氾濫原・水際・河岸の樹木配置と抜け",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "riparian woodland forest stream",
+        "riverbank woodland trees",
+        "forest river corridor aerial"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "slope-forest-spacing",
+      "label": "斜面の木々の分布",
+      "focus": "斜面の勾配・露岩・尾根の陰影による生育場所と間隔の違い",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "steep hillside forest trees",
+        "forest slope tree trunks",
+        "mountain slope forest"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "ridge-tree-arrangement",
+      "label": "尾根の樹木と林冠",
+      "focus": "尾根・稜線の植生と山腹側への変化、遠くから見える木の輪郭",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "forest ridge trees",
+        "wooded ridgeline landscape",
+        "mountain ridge forest"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "natural-clearings",
+      "label": "森の中の空地と草本",
+      "focus": "空地の大きさ・境界の低木・光と小径の関係",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "natural woodland clearing",
+        "forest clearing meadow",
+        "forest glade trees"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "deadwood-and-fallen-trees",
+      "label": "倒木・枯木・切り株の配置",
+      "focus": "倒木と稚樹・苔・土の相互関係、地面の不規則性",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "fallen trees natural forest",
+        "forest deadwood moss",
+        "forest fallen log saplings"
+      ],
+      "title_exclude_any": [
+        "installation",
+        "museum"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "understory-patchiness",
+      "label": "下草と低木の疎密",
+      "focus": "シダ・ササ・低木の斑状分布と日陰の変化",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "forest floor patchy ferns",
+        "forest understory shrubs",
+        "woodland understory vegetation"
+      ]
+    },
+    {
+      "group": "forest-layout",
+      "slug": "planted-vs-natural",
+      "label": "整列人工林と自然林の比較",
+      "focus": "植林地の規則的間隔と自然林の間隔・樹種・樹齢の多様性を区別する",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "queries": [
+        "Japanese cedar plantation forest rows",
+        "managed forest plantation trees",
+        "natural mixed woodland tree spacing"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "satoyama-woods",
+      "label": "日本：里山の雑木林",
+      "focus": "広葉樹と人の道、落葉層、境界の草と低木、親しみある林内",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "satoyama woodland Japan",
+        "Japanese coppice forest",
+        "satoyama village woods",
+        "satoyama landscape trees"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "sugi-hinoki-forest",
+      "label": "日本：スギ・ヒノキ林",
+      "focus": "真直ぐな幹・人工林の間隔・枝下高と葉層、自然林と混同しない",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "Japanese cedar forest",
+        "hinoki cypress forest Japan",
+        "sugi plantation woodland"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "beech-maple-forest",
+      "label": "日本：ブナとカエデの森",
+      "focus": "太い幹・根元・広葉樹の枝ぶりと季節",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "Japanese beech forest",
+        "shirakami sanchi beech forest",
+        "Japanese maple forest"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "mossy-japanese-forest",
+      "label": "日本：苔と湿った森",
+      "focus": "苔のつく岩・倒木・石段・湿度の高い陰影",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "Japan moss forest",
+        "Yakushima moss forest",
+        "Japanese forest moss"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japan ",
+        "ginkaku",
+        "yakushima",
+        "koya",
+        "kyoto",
+        "kamikochi",
+        "nara"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "japanese-forest-stream",
+      "label": "日本：渓流と木立",
+      "focus": "自然な蛇行・岸の石と根・シダや落葉・橋や小道",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "Japanese forest stream",
+        "Japan forest waterfall",
+        "forest stream Tsumago-juku Nagiso",
+        "Japanese mountain creek forest"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japan ",
+        "tsumago",
+        "nagiso",
+        "yakushima",
+        "okutama",
+        "kyoto",
+        "akita",
+        "japanese woodland"
+      ],
+      "title_exclude_any": [
+        "bamboo forest",
+        "minato city",
+        "bamboo grove"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "japanese-village-hills",
+      "label": "日本：山あいの集落",
+      "focus": "山と家並みの距離、道・畑・樹木の接続、里山の遠景",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "Shirakawa go village Japan",
+        "Miyama Kayabuki village",
+        "Gassho zukuri houses in mountains",
+        "Ainokura village rural Japan",
+        "rural Nagano village"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japan ",
+        "japanese village",
+        "gifu",
+        "shirakawa",
+        "satoyama",
+        "nagano",
+        "yamagata",
+        "takayama",
+        "niigata",
+        "shirakawa",
+        "miyama",
+        "gassho",
+        "ainokura",
+        "kayabuki"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "japanese-country-lanes",
+      "label": "日本：田舎の小道と木々",
+      "focus": "舗装・土道・生垣・庭木・電柱・水路が混じる生活感",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "Tsumago juku village road",
+        "Kiso Valley rural Japan road",
+        "Japanese countryside lane",
+        "Miyama village road",
+        "rural Japan country street"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japanese countryside",
+        "kyoto",
+        "nagano",
+        "hokkaido",
+        "akita",
+        "aomori",
+        "gunma",
+        "kyushu",
+        "japan ",
+        "kiso",
+        "tsumago",
+        "miyama",
+        "gifu",
+        "takayama"
+      ]
+    },
+    {
+      "group": "japan-landscape",
+      "slug": "japanese-rice-terraces",
+      "label": "日本：棚田と斜面の緑",
+      "focus": "田の段差・水面・畦・林と家屋の位置関係",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "rice terraces Japan satoyama",
+        "Japanese terraced rice fields",
+        "Japan tanada landscape"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "nordic-wooden-villages",
+      "label": "海外参考：北欧の木造集落",
+      "focus": "木の外壁・小さな窓・家の色・森と家の距離（日本の標準建築には直輸入しない）",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Norwegian wooden village houses",
+        "Swedish wooden village street",
+        "Nordic wooden houses village"
+      ],
+      "title_include_any": [
+        "norway",
+        "norwegian",
+        "sweden",
+        "swedish",
+        "finland",
+        "finnish",
+        "denmark",
+        "danish",
+        "troms",
+        "senja",
+        "veiholmen",
+        "smøla",
+        "smoela",
+        "nordic",
+        "scandinav"
+      ],
+      "title_exclude_any": [
+        "interior",
+        "pulpit",
+        "church interior"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "alpine-villages",
+      "label": "海外参考：アルプスの山村",
+      "focus": "屋根勾配、山地に沿った建物、木製ベランダと牧草地",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "alpine village Switzerland street",
+        "Austrian mountain village houses",
+        "Alps timber village"
+      ],
+      "title_include_any": [
+        "alps",
+        "alpine",
+        "swiss",
+        "austria",
+        "tyrol",
+        "tirol",
+        "wengen",
+        "meg lis",
+        "meglisalp",
+        "grindelwald",
+        "zermatt",
+        "lauterbrunnen",
+        "dolomites"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "british-cottage-lanes",
+      "label": "海外参考：英国の小さな家と路地",
+      "focus": "石塀・植物・手入れされた庭・道路の幅と家の関係",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "English cottage village lane",
+        "English village thatched cottages",
+        "Cotswolds village street"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "french-stone-villages",
+      "label": "海外参考：フランスの石造りの村",
+      "focus": "石壁・窓枠・蔦・小路の奥行きと日差し",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "French stone village street",
+        "Provence old village lane",
+        "French medieval village houses"
+      ],
+      "title_include_any": [
+        "france",
+        "french",
+        "provence",
+        "belcastel",
+        "yvoire",
+        "alsace",
+        "bretagne",
+        "borgogne",
+        "normandy",
+        "aveyron"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "italian-hilltowns",
+      "label": "海外参考：イタリアの坂の町",
+      "focus": "段々に連なる家、階段、テラス、遠景の繋がり",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Italian hill town street",
+        "Cinque Terre village street",
+        "Tuscan hillside village"
+      ],
+      "title_include_any": [
+        "italy",
+        "italian",
+        "tuscany",
+        "todi",
+        "cinque terre",
+        "umbria",
+        "siena",
+        "assisi",
+        "amalfi",
+        "montepulciano",
+        "pienza",
+        "sicily"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "iberian-village-streets",
+      "label": "海外参考：イベリアの白壁と瓦",
+      "focus": "白壁・赤い屋根・日陰の路地・植木鉢",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Portuguese village street",
+        "Spanish white village houses",
+        "Iberian village terracotta roof"
+      ],
+      "title_include_any": [
+        "portugal",
+        "portuguese",
+        "spain",
+        "spanish",
+        "iberian",
+        "azores",
+        "velas",
+        "alentejo",
+        "algarve"
+      ],
+      "title_exclude_any": [
+        " - adriano",
+        "painting",
+        "portrait"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "mediterranean-potted-streets",
+      "label": "海外参考：鉢植えの多い街路",
+      "focus": "鉢や蔦が建物と道の隙間に入る様子、光と陰",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Calleja de las Flores Cordoba Spain",
+        "Flower pots street Cordoba",
+        "Spain village street flowers pots",
+        "Mediterranean village balcony flowers",
+        "Córdoba village street flowers"
+      ],
+      "title_include_any": [
+        "mediterranean",
+        "italy",
+        "italian",
+        "spain",
+        "spanish",
+        "greece",
+        "greek",
+        "provence",
+        "sorrento",
+        "ibiza",
+        "malta",
+        "santorini",
+        "cordoba",
+        "andalus",
+        "cordoba",
+        "córdoba",
+        "calleja",
+        "flowerpots",
+        "flower pots",
+        "flowers",
+        "balcony",
+        "santorini"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "dutch-canals-and-houses",
+      "label": "海外参考：運河と水辺の住宅",
+      "focus": "石橋・運河沿いの街路樹・水への建物の向き",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Dutch canal houses street",
+        "Netherlands small town canal bridge",
+        "Dutch canal village"
+      ],
+      "title_include_any": [
+        "netherlands",
+        "dutch",
+        "amsterdam",
+        "haarlem",
+        "delft",
+        "utrecht",
+        "leiden",
+        "alkmaar",
+        "groningen",
+        "kinderdijk"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "german-timber-villages",
+      "label": "海外参考：ドイツの木骨造",
+      "focus": "柱梁の見え方、外壁・屋根・窓の比率",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "German half timbered village",
+        "Fachwerk village street Germany",
+        "German timber houses old town"
+      ],
+      "title_include_any": [
+        "german",
+        "germany",
+        "fachwerk",
+        "half-timbered",
+        "klengel",
+        "black forest",
+        "bavaria",
+        "thuringia",
+        "alsace",
+        "saxony"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "coastal-stone-villages",
+      "label": "海外参考：海辺の石の港町",
+      "focus": "防波堤・細道・石壁・港と家の高さ",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Scottish coastal stone village",
+        "Cornwall fishing village harbor",
+        "Ireland seaside stone village"
+      ],
+      "title_include_any": [
+        "cornwall",
+        "scotland",
+        "scottish",
+        "ireland",
+        "irish",
+        "polperro",
+        "charlestown",
+        "coastal village",
+        "fishing harbour",
+        "fishing harbor",
+        "coastal stone",
+        "seaside stone",
+        "coastal town"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "korean-hanok-lanes",
+      "label": "海外参考：韓国の韓屋路地",
+      "focus": "瓦・木の柱・軒下・塀と街路（日本の建築との違いも観察）",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Bukchon hanok village street",
+        "Korean hanok village alley",
+        "Jeonju hanok village"
+      ],
+      "title_include_any": [
+        "hanok",
+        "bukchon",
+        "jeonju",
+        "korean",
+        "korea",
+        "seoul"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "taiwan-mountain-streets",
+      "label": "海外参考：台湾の山間の路地",
+      "focus": "山に沿う階段、屋根と植生、店先の灯り",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Taiwan Jiufen old street",
+        "Taiwan mountain village houses",
+        "Taiwan hillside old town"
+      ],
+      "title_include_any": [
+        "taiwan",
+        "jiufen",
+        "jinguashi",
+        "tamsui",
+        "pingxi",
+        "taipei"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "chinese-water-towns",
+      "label": "海外参考：中国の水郷",
+      "focus": "小橋・運河・木造家屋・岸と道の高さ",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Chinese water town canal",
+        "Wuzhen water town bridge",
+        "Zhouzhuang town houses water"
+      ],
+      "title_include_any": [
+        "nanxun",
+        "wuzhen",
+        "zhouzhuang",
+        "tongli",
+        "chinese water",
+        "china canal",
+        "china water town",
+        "xizha",
+        "wuzhen"
+      ]
+    },
+    {
+      "group": "world-town",
+      "slug": "latin-american-colorful-villages",
+      "label": "海外参考：南米の色のある街",
+      "focus": "壁色や窓の色の組み合わせ、緑と建物の調和だけ参考",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/house.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "Salento Quindio Colombia street",
+        "Guatape colorful village Colombia",
+        "Guanajuato colorful houses",
+        "Valparaiso Chile colorful neighborhood",
+        "Colombia village street"
+      ],
+      "title_include_any": [
+        "colombia",
+        "colombian",
+        "guatape",
+        "latin america",
+        "ecuador",
+        "peru",
+        "brazil",
+        "mexico",
+        "guatemala",
+        "salento",
+        "guanajuato",
+        "valparaiso",
+        "valparaíso",
+        "chile",
+        "salento",
+        "pueblito"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "boreal-conifer-forest",
+      "label": "海外自然：亜寒帯針葉樹林",
+      "focus": "針葉樹の樹冠密度・幹の間隔・苔と林床",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "boreal spruce forest",
+        "taiga pine forest",
+        "northern conifer forest"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "scandinavian-birch-forest",
+      "label": "海外自然：北欧の白樺林",
+      "focus": "白い幹の間隔、林内の光と細い枝",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "Scandinavian birch forest",
+        "Finland birch woodland",
+        "Norway birch trees forest"
+      ],
+      "title_include_any": [
+        "birch",
+        "scandinav",
+        "sweden",
+        "swedish",
+        "norway",
+        "norwegian",
+        "finland",
+        "finnish",
+        "ljungdalen"
+      ],
+      "title_exclude_any": [
+        "man carrying twigs",
+        "portrait"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "alpine-larch-forest",
+      "label": "海外自然：高山のカラマツ林",
+      "focus": "標高・岩・木の密度・秋色・高い樹冠",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "European larch alpine forest",
+        "Alps larch trees",
+        "mountain larch forest"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "temperate-rainforest",
+      "label": "海外自然：温帯雨林",
+      "focus": "巨大な木・苔・倒木・シダが形成する多層の森",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "temperate rainforest moss trees",
+        "Pacific Northwest temperate rainforest",
+        "rainforest old growth ferns"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "redwood-forest",
+      "label": "海外自然：セコイアの森",
+      "focus": "巨大幹・林内の垂直感・根元と小さな植生",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "Redwood National Park forest trees",
+        "Redwood grove California",
+        "Coast redwoods forest",
+        "Sequoia sempervirens living forest"
+      ],
+      "title_include_any": [
+        "redwood",
+        "sequoia",
+        "californian redwoods"
+      ],
+      "title_exclude_any": [
+        "fossil",
+        "volcanics",
+        "petri"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "cloud-forest",
+      "label": "海外自然：雲霧林",
+      "focus": "霧・着生植物・樹冠の湿り・枝上の苔",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "cloud forest trees mist",
+        "Monteverde cloud forest",
+        "tropical cloud forest moss"
+      ],
+      "title_include_any": [
+        "cloud forest",
+        "cloudforest",
+        "mossy forest",
+        "monteverde",
+        "cameron highlands",
+        "mindo"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "tropical-rainforest",
+      "label": "海外自然：熱帯雨林",
+      "focus": "広い葉・樹冠の多層化・つる植物と密度、異世界の参考にも",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "tropical rainforest canopy",
+        "Amazon tropical rainforest understory",
+        "Borneo rainforest jungle"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "mangrove-woodland",
+      "label": "海外自然：マングローブ林",
+      "focus": "水中に伸びる根・潮位・密集した林冠",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "mangrove forest roots",
+        "mangrove swamp trees",
+        "mangrove woodland aerial"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "mediterranean-oak-forest",
+      "label": "海外自然：乾燥した常緑樹林",
+      "focus": "疎らな林冠・岩肌・硬い小さな葉・乾燥地の地面",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "Mediterranean oak woodland",
+        "cork oak forest Portugal",
+        "holm oak woodland"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "wooded-alpine-lakes",
+      "label": "海外自然：湖と山の森",
+      "focus": "湖の反射・針葉樹の遠景・林縁の境界",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "alpine lake spruce forest",
+        "pine forest mountain lake",
+        "woodland lake mountains"
+      ],
+      "title_include_any": [
+        "lake",
+        "lago",
+        "lac ",
+        "lakeside",
+        "lakeshore",
+        "glacial lake"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "karst-forest-landscape",
+      "label": "海外自然：石灰岩と森",
+      "focus": "岩山の急勾配・石灰岩の隙間に育つ樹木",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "karst forest limestone hills",
+        "limestone mountain woodland",
+        "karst trees rocks"
+      ],
+      "title_exclude_any": [
+        "snails",
+        "diagram",
+        "study chart"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "coastal-pine-woods",
+      "label": "海外自然：海辺の松林",
+      "focus": "潮風による樹形、砂地と根・海辺の光",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "Pinus pinaster maritime pine forest Portugal",
+        "Pinus pinea Mediterranean coast trees",
+        "coastal pine forest Mallorca",
+        "Corsica coastal pine woods"
+      ],
+      "title_include_any": [
+        "pine",
+        "pinus",
+        "pines"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "andean-mountain-forests",
+      "label": "海外自然：アンデスの山林",
+      "focus": "雲・急斜面・広葉樹と山道・遠景の色",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "Andean cloud forest Mindo",
+        "Ecuador cloud forest landscape",
+        "Andes mountain rainforest trees",
+        "Peru montane forest mountains"
+      ],
+      "title_include_any": [
+        "andean cloudforest",
+        "andean forest",
+        "mountain forest",
+        "mindo",
+        "ecuador mountain",
+        "andes forest",
+        "peru forest"
+      ]
+    },
+    {
+      "group": "world-nature",
+      "slug": "savanna-tree-groves",
+      "label": "海外自然：草原の疎林",
+      "focus": "木が点在する間隔・群れ・木陰、通常の日本の森との違い",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/sky.js"
+      ],
+      "queries": [
+        "savanna trees grassland",
+        "African acacia woodland",
+        "savanna tree groups landscape"
       ]
     }
   ]
