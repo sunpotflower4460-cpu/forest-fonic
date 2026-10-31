@@ -519,9 +519,10 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "shop front",
-        "shopfront",
-        "small shops street"
+        "traditional shopfront",
+        "bakery shopfront",
+        "small shops exterior",
+        "shops old town street"
       ]
     },
     {
@@ -1060,9 +1061,10 @@
         "app/src/world/ranch-structures.js"
       ],
       "queries": [
-        "watering can",
-        "farm tools",
-        "water trough"
+        "farm implements",
+        "old farm tools",
+        "garden tools closeup",
+        "watering can closeup"
       ]
     },
     {
@@ -1074,9 +1076,10 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "flower pots",
-        "flower window boxes",
-        "flowers balcony"
+        "flowerpots garden",
+        "flower pots house exterior",
+        "window box flower balcony",
+        "flowers pots outside house"
       ]
     },
     {

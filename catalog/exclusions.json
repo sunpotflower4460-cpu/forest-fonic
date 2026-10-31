@@ -2,6 +2,11 @@
   "schema_version": 1,
   "description": "Human-reviewed title/source mismatches in the first automated photo batch. Generated copies only; re-select alternatives.",
   "excluded": {
+    "351429": {
+      "topic": "shopfronts",
+      "title": "Legal hashish shop in Kathmandu, Nepal in 1973.jpg",
+      "reason": "Does not fit the welcoming game-world reference topic; choose more representative details"
+    },
     "13028315": {
       "topic": "goats",
       "title": "Goat house at The Animal Farm at Tannaghmore Gardens - geograph.org.uk - 504467.jpg",
@@ -76,6 +81,11 @@
       "topic": "farmyards",
       "title": "Alfred W Cooper - The Farmer^s Boy - B1977.14.20947 - Yale Center for British Art.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
+    },
+    "141262397": {
+      "topic": "flowerpots-and-balconies",
+      "title": "Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg",
+      "reason": "Does not fit the welcoming game-world reference topic; choose more representative details"
     },
     "141287572": {
       "topic": "weathered-wood",

@@ -256,9 +256,10 @@ def main() -> int:
     args = parser.parse_args()
     if args.verify:
         return verify()
-    topics = json.loads(TOPICS.read_text(encoding="utf-8"))["topics"]
+    all_topics = json.loads(TOPICS.read_text(encoding="utf-8"))["topics"]
+    topics = all_topics
     if args.only:
-        topics = [t for t in topics if t["slug"] == args.only]
+        topics = [t for t in all_topics if t["slug"] == args.only]
         if not topics:
             parser.error(f"Unknown topic: {args.only}")
     if not (1 <= args.max_total <= 250 and 1 <= args.per_topic <= 6):
@@ -287,8 +288,10 @@ def main() -> int:
     topic_counts = Counter(i["topic"] for i in images)
     print(f"Existing: {len(images)} images; searching {len(topics)} topics", flush=True)
     proposals = {}
+    pending_topics = [t for t in topics if topic_counts[t["slug"]] < args.per_topic]
+    print(f"Topics needing new references: {len(pending_topics)}", flush=True)
     with ThreadPoolExecutor(max_workers=3) as pool:
-        jobs = {pool.submit(search_topic, topic, args.per_topic, excluded_ids): topic for topic in topics}
+        jobs = {pool.submit(search_topic, topic, args.per_topic, excluded_ids): topic for topic in pending_topics}
         for job in as_completed(jobs):
             topic = jobs[job]
             try:
@@ -326,12 +329,12 @@ def main() -> int:
                     print(f"[{index}/{len(jobs)}] saved {saved['path']}", flush=True)
                 except Exception as exc:
                     print(f"WARN skipped {topic['slug']}: {image['title']}: {exc}", file=sys.stderr)
-    order = {t["slug"]: n for n, t in enumerate(topics)}
+    order = {t["slug"]: n for n, t in enumerate(all_topics)}
     images.sort(key=lambda item: (order.get(item["topic"], 9999), item["pageid"]))
     if images or not MANIFEST.exists():
         generated = (datetime.now(timezone.utc).isoformat(timespec="seconds")
                      if selected else existing.get("generated_utc", datetime.now(timezone.utc).isoformat()))
-        write_indices(images, topics, generated)
+        write_indices(images, all_topics, generated)
     print(f"Done. Catalog has {len(images)} images. Visual inspection is still required.", flush=True)
     return verify()
 
