@@ -1231,6 +1231,13 @@
         "map",
         "climap",
         "garden"
+      ],
+      "title_include_any": [
+        "forest",
+        "woodland",
+        "stand",
+        "trees",
+        "tree trunks"
       ]
     },
     {
@@ -1244,9 +1251,9 @@
         "app/src/world/terrain-height.js"
       ],
       "queries": [
-        "large tree forest saplings",
-        "old tree young trees forest",
-        "forest seedlings old growth"
+        "old growth forest saplings under big tree",
+        "large tree with saplings woodland",
+        "giant tree young forest saplings"
       ]
     },
     {
@@ -1413,6 +1420,7 @@
       "queries": [
         "satoyama woodland Japan",
         "Japanese coppice forest",
+        "satoyama village woods",
         "satoyama landscape trees"
       ]
     },
@@ -1487,8 +1495,9 @@
       ],
       "queries": [
         "Japanese forest stream",
-        "Japan mountain creek forest",
-        "Japanese woodland brook"
+        "Japan forest waterfall",
+        "forest stream Tsumago-juku Nagiso",
+        "Japanese mountain creek forest"
       ],
       "title_include_any": [
         "japan,",
@@ -1501,6 +1510,11 @@
         "kyoto",
         "akita",
         "japanese woodland"
+      ],
+      "title_exclude_any": [
+        "bamboo forest",
+        "minato city",
+        "bamboo grove"
       ]
     },
     {
@@ -1514,9 +1528,11 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "Japanese mountain village countryside",
-        "rural Japan hillside village",
-        "Japan village satoyama"
+        "Shirakawa go village Japan",
+        "Miyama Kayabuki village",
+        "Gassho zukuri houses in mountains",
+        "Ainokura village rural Japan",
+        "rural Nagano village"
       ],
       "title_include_any": [
         "japan,",
@@ -1529,7 +1545,12 @@
         "nagano",
         "yamagata",
         "takayama",
-        "niigata"
+        "niigata",
+        "shirakawa",
+        "miyama",
+        "gassho",
+        "ainokura",
+        "kayabuki"
       ]
     },
     {
@@ -1543,9 +1564,11 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "Japanese rural lane trees",
-        "Japanese countryside road village",
-        "Japanese country path houses"
+        "Tsumago juku village road",
+        "Kiso Valley rural Japan road",
+        "Japanese countryside lane",
+        "Miyama village road",
+        "rural Japan country street"
       ],
       "title_include_any": [
         "japan,",
@@ -1558,7 +1581,12 @@
         "aomori",
         "gunma",
         "kyushu",
-        "japan "
+        "japan ",
+        "kiso",
+        "tsumago",
+        "miyama",
+        "gifu",
+        "takayama"
       ]
     },
     {
@@ -1608,6 +1636,11 @@
         "smoela",
         "nordic",
         "scandinav"
+      ],
+      "title_exclude_any": [
+        "interior",
+        "pulpit",
+        "church interior"
       ]
     },
     {
@@ -1740,6 +1773,11 @@
         "velas",
         "alentejo",
         "algarve"
+      ],
+      "title_exclude_any": [
+        " - adriano",
+        "painting",
+        "portrait"
       ]
     },
     {
@@ -1753,9 +1791,11 @@
         "app/src/world/road.js"
       ],
       "queries": [
-        "Mediterranean street flowerpots",
-        "Spanish village courtyard plants",
-        "Italian village balconies flowers"
+        "Calleja de las Flores Cordoba Spain",
+        "Flower pots street Cordoba",
+        "Spain village street flowers pots",
+        "Mediterranean village balcony flowers",
+        "Córdoba village street flowers"
       ],
       "title_include_any": [
         "mediterranean",
@@ -1771,7 +1811,15 @@
         "malta",
         "santorini",
         "cordoba",
-        "andalus"
+        "andalus",
+        "cordoba",
+        "córdoba",
+        "calleja",
+        "flowerpots",
+        "flower pots",
+        "flowers",
+        "balcony",
+        "santorini"
       ]
     },
     {
@@ -1947,9 +1995,11 @@
         "app/src/world/road.js"
       ],
       "queries": [
-        "Colombia colorful village street",
-        "Guatape village houses",
-        "Latin America small town colorful street"
+        "Salento Quindio Colombia street",
+        "Guatape colorful village Colombia",
+        "Guanajuato colorful houses",
+        "Valparaiso Chile colorful neighborhood",
+        "Colombia village street"
       ],
       "title_include_any": [
         "colombia",
@@ -1961,7 +2011,13 @@
         "brazil",
         "mexico",
         "guatemala",
-        "salento"
+        "salento",
+        "guanajuato",
+        "valparaiso",
+        "valparaíso",
+        "chile",
+        "salento",
+        "pueblito"
       ]
     },
     {
@@ -2005,6 +2061,10 @@
         "finland",
         "finnish",
         "ljungdalen"
+      ],
+      "title_exclude_any": [
+        "man carrying twigs",
+        "portrait"
       ]
     },
     {
@@ -2050,14 +2110,20 @@
         "app/src/world/sky.js"
       ],
       "queries": [
-        "redwood forest trunks California",
-        "coast redwood woodland",
-        "Sequoia forest grove"
+        "Redwood National Park forest trees",
+        "Redwood grove California",
+        "Coast redwoods forest",
+        "Sequoia sempervirens living forest"
       ],
       "title_include_any": [
         "redwood",
         "sequoia",
         "californian redwoods"
+      ],
+      "title_exclude_any": [
+        "fossil",
+        "volcanics",
+        "petri"
       ]
     },
     {
@@ -2170,6 +2236,11 @@
         "karst forest limestone hills",
         "limestone mountain woodland",
         "karst trees rocks"
+      ],
+      "title_exclude_any": [
+        "snails",
+        "diagram",
+        "study chart"
       ]
     },
     {
@@ -2183,9 +2254,10 @@
         "app/src/world/sky.js"
       ],
       "queries": [
-        "coastal pine forest dunes",
-        "Mediterranean coastal pine trees",
-        "pine woodland seaside"
+        "Pinus pinaster maritime pine forest Portugal",
+        "Pinus pinea Mediterranean coast trees",
+        "coastal pine forest Mallorca",
+        "Corsica coastal pine woods"
       ],
       "title_include_any": [
         "pine",
@@ -2204,9 +2276,10 @@
         "app/src/world/sky.js"
       ],
       "queries": [
-        "Andean cloud forest",
-        "Ecuador mountain forest",
-        "Andes mountain woodland"
+        "Andean cloud forest Mindo",
+        "Ecuador cloud forest landscape",
+        "Andes mountain rainforest trees",
+        "Peru montane forest mountains"
       ],
       "title_include_any": [
         "andean cloudforest",

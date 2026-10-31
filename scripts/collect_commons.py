@@ -36,7 +36,7 @@ LICENSES = {
     "CC BY-SA 4.0": 4, "CC BY-SA 3.0": 5, "CC BY-SA 2.0": 6,
 }
 ALLOWED_HOSTS = {"commons.wikimedia.org", "upload.wikimedia.org", "thumb.wikimedia.org"}
-EXCLUDE_TITLE = re.compile(r"\b(map|logo|flag|diagram|screenshot|poster|drawing|painting|cartoon|svg|etching|sketch|watercolor|watercolour|engraving|illustration|depiction|studies|artwork|museum print|NGA [0-9]+|MET DP[0-9]+)\b", re.I)
+EXCLUDE_TITLE = re.compile(r"\b(map|logo|flag|diagram|screenshot|poster|drawing|painting|cartoon|svg|etching|sketch|watercolor|watercolour|engraving|illustration|depiction|studies|artwork|museum print|fossil|bioregion|climap|NGA [0-9]+|MET DP[0-9]+)\b", re.I)
 EXCLUDE_ARTIST = re.compile(r"Rijksmuseum|Yale Center for British Art|National Gallery of Art|The Metropolitan Museum", re.I)
 MAX_SOURCE_BYTES = 9_000_000
 MAX_IMAGE_BYTES = 750_000
