@@ -12,9 +12,9 @@
 
 House in Torsken, Senja, Troms, Norway, 2014 August.jpg — Ximonic (Simo Räsänen) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:House_in_Torsken%2C_Senja%2C_Troms%2C_Norway%2C_2014_August.jpg)
 
-![SUNNDALSØRA Sunndal Norway 2024-09 HOV KIRKE kyrkje (wooden church Holtermann Nordan 300 seats) INTERIOR Prekestol (pulpit) blomster etter begravelsesseremoni (flowers after funeral service) Koret Altertavle (altarpiece) etc IMG 9914.jpg](../assets/world-town/nordic-wooden-villages/153452186-sunndals-ra-sunndal-norway-2024-09-hov-kirke-.webp)
+![Sakrisøy village and mountains Lofoten Norway.jpg](../assets/world-town/nordic-wooden-villages/178793136-sakris-y-village-and-mountains-lofoten-norway.webp)
 
-SUNNDALSØRA Sunndal Norway 2024-09 HOV KIRKE kyrkje (wooden church Holtermann Nordan 300 seats) INTERIOR Prekestol (pulpit) blomster etter begravelsesseremoni (flowers after funeral service) Koret Altertavle (altarpiece) etc IMG 9914.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:SUNNDALS%C3%98RA_Sunndal_Norway_2024-09_HOV_KIRKE_kyrkje_%28wooden_church_Holtermann_Nordan_300_seats%29_INTERIOR_Prekestol_%28pulpit%29_blomster_etter_begravelsesseremoni_%28flowers_after_funeral_service%29_Koret_Altertavle_%28altarpiece%29_etc_IMG_9914.jpg)
+Sakrisøy village and mountains Lofoten Norway.jpg — Smtunli / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Sakris%C3%B8y_village_and_mountains_Lofoten_Norway.jpg)
 
 ![VEIHOLMEN fiskevær fishing village Smøla NORWAY 2024-09-11 Angelhus 1030 yellow wooden house IMG 9346.jpg](../assets/world-town/nordic-wooden-villages/178891515-veiholmen-fiskev-r-fishing-village-sm-la-norw.webp)
 
@@ -102,13 +102,13 @@ Torre De'Passeri Italy Looking Down Via Roma 0158.jpg — Paul Harrison / [CC BY
 
 Atlantic Portuguese Village (2234668867).jpg — Francisco Antunes / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Atlantic_Portuguese_Village_%282234668867%29.jpg)
 
-![Street in a North Portuguese Town (c. 1900) - Adriano de Sousa Lopes (1879-1944) (33445116868).jpg](../assets/world-town/iberian-village-streets/83547549-street-in-a-north-portuguese-town-c-1900-adri.webp)
-
-Street in a North Portuguese Town (c. 1900) - Adriano de Sousa Lopes (1879-1944) (33445116868).jpg — Pedro Ribeiro Simões from Lisboa, Portugal / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Street_in_a_North_Portuguese_Town_%28c._1900%29_-_Adriano_de_Sousa_Lopes_%281879-1944%29_%2833445116868%29.jpg)
-
 ![Village of Velas São Jorge Azores.jpg](../assets/world-town/iberian-village-streets/115125213-village-of-velas-s-o-jorge-azores.webp)
 
 Village of Velas São Jorge Azores.jpg — Sudzie / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Village_of_Velas_S%C3%A3o_Jorge_Azores.jpg)
+
+![Second Spanish and Portuguese Synagogue Cemetery back wall 2024 jeh.jpg](../assets/world-town/iberian-village-streets/147865599-second-spanish-and-portuguese-synagogue-cemet.webp)
+
+Second Spanish and Portuguese Synagogue Cemetery back wall 2024 jeh.jpg — Jim.henderson / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Second_Spanish_and_Portuguese_Synagogue_Cemetery_back_wall_2024_jeh.jpg)
 
 ## 海外参考：鉢植えの多い街路 — mediterranean-potted-streets
 
@@ -116,7 +116,17 @@ Village of Velas São Jorge Azores.jpg — Sudzie / [CC BY-SA 4.0](https://creat
 
 関連コード：`app/src/world/town.js`、`app/src/world/house.js`、`app/src/world/road.js`
 
-現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
+![Calleja de las Flores 002.jpg](../assets/world-town/mediterranean-potted-streets/24188177-calleja-de-las-flores-002.webp)
+
+Calleja de las Flores 002.jpg — jorcolma / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Calleja_de_las_Flores_002.jpg)
+
+![Spain Andalusia Cordoba BW 2015-10-27 13-10-43.jpg](../assets/world-town/mediterranean-potted-streets/47598963-spain-andalusia-cordoba-bw-2015-10-27-13-10-4.webp)
+
+Spain Andalusia Cordoba BW 2015-10-27 13-10-43.jpg — Berthold Werner / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Spain_Andalusia_Cordoba_BW_2015-10-27_13-10-43.jpg)
+
+![Calleja de las Flores (52022222682).jpg](../assets/world-town/mediterranean-potted-streets/141435657-calleja-de-las-flores-52022222682.webp)
+
+Calleja de las Flores (52022222682).jpg — Roberto Composto from Capo di Ponte, Capo di Ponte - Centro Mondiale Incisioni Rupestri - 1° sito in Italia riconosciuto patrimonio dell'umanità dall'UNESCO - Vallecamonica (BS) - ITALY / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Calleja_de_las_Flores_%2852022222682%29.jpg)
 
 ## 海外参考：運河と水辺の住宅 — dutch-canals-and-houses
 
@@ -232,5 +242,15 @@ Nanxun - Ancient water town - 0333.jpg — Stefan Fussan / [CC BY-SA 3.0](https:
 
 関連コード：`app/src/world/town.js`、`app/src/world/house.js`、`app/src/world/road.js`
 
-現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
+![Carrera 6, Salento 01.jpg](../assets/world-town/latin-american-colorful-villages/98897535-carrera-6-salento-01.webp)
+
+Carrera 6, Salento 01.jpg — Bernard Gagnon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Carrera_6%2C_Salento_01.jpg)
+
+![Calle 5, Salento 01.jpg](../assets/world-town/latin-american-colorful-villages/98898662-calle-5-salento-01.webp)
+
+Calle 5, Salento 01.jpg — Bernard Gagnon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Calle_5%2C_Salento_01.jpg)
+
+![Calle 5, Salento 02.jpg](../assets/world-town/latin-american-colorful-villages/98898785-calle-5-salento-02.webp)
+
+Calle 5, Salento 02.jpg — Bernard Gagnon / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Calle_5%2C_Salento_02.jpg)
 

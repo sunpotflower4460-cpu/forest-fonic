@@ -76,6 +76,10 @@ Green moss forest (52930618402).jpg — Raita Futo from Tokyo, Japan / [CC BY 2.
 
 関連コード：`app/src/world/nature.js`、`app/src/world/road.js`、`app/src/world/town.js`
 
+![Waterfall in a forest in Japan 500px photo (188688581).jpg](../assets/japan-landscape/japanese-forest-stream/71590323-waterfall-in-a-forest-in-japan-500px-photo-18.webp)
+
+Waterfall in a forest in Japan 500px photo (188688581).jpg — Chi King / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Waterfall_in_a_forest_in_Japan_500px_photo_%28188688581%29.jpg)
+
 ![Falling Forest Stream (6088660112).jpg](../assets/japan-landscape/japanese-forest-stream/97399860-falling-forest-stream-6088660112.webp)
 
 Falling Forest Stream (6088660112).jpg — rumpleteaser from Nagoya, Japan / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Falling_Forest_Stream_%286088660112%29.jpg)
@@ -84,23 +88,33 @@ Falling Forest Stream (6088660112).jpg — rumpleteaser from Nagoya, Japan / [CC
 
 Forest stream, Tsumago-juku, Nagiso, 2016.jpg — DimiTalen / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Forest_stream%2C_Tsumago-juku%2C_Nagiso%2C_2016.jpg)
 
-![Arashiyama - Bamboo Forest, Kyoto, Japan10.jpg](../assets/japan-landscape/japanese-forest-stream/151427329-arashiyama-bamboo-forest-kyoto-japan10.webp)
-
-Arashiyama - Bamboo Forest, Kyoto, Japan10.jpg — dconvertini / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Arashiyama_-_Bamboo_Forest%2C_Kyoto%2C_Japan10.jpg)
-
 ## 日本：山あいの集落 — japanese-village-hills
 
 制作で見るところ：山と家並みの距離、道・畑・樹木の接続、里山の遠景
 
 関連コード：`app/src/world/nature.js`、`app/src/world/road.js`、`app/src/world/town.js`
 
-現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
+![Shirakawa-go 02.jpg](../assets/japan-landscape/japanese-village-hills/77450013-shirakawa-go-02.webp)
+
+Shirakawa-go 02.jpg — Gilles Desjardins / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Shirakawa-go_02.jpg)
+
+![Shirakawa village - 白川郷 007.jpg](../assets/japan-landscape/japanese-village-hills/104939417-shirakawa-village-007.webp)
+
+Shirakawa village - 白川郷 007.jpg — Emran Kassim / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Shirakawa_village_-_%E7%99%BD%E5%B7%9D%E9%83%B7_007.jpg)
+
+![Shirakawa-go 白川村 close up.jpg](../assets/japan-landscape/japanese-village-hills/157093930-shirakawa-go-close-up.webp)
+
+Shirakawa-go 白川村 close up.jpg — BobTanGo / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Shirakawa-go_%E7%99%BD%E5%B7%9D%E6%9D%91_close_up.jpg)
 
 ## 日本：田舎の小道と木々 — japanese-country-lanes
 
 制作で見るところ：舗装・土道・生垣・庭木・電柱・水路が混じる生活感
 
 関連コード：`app/src/world/nature.js`、`app/src/world/road.js`、`app/src/world/town.js`
+
+![Kyoto r38 miyama-kayabuki.gfdl.jpg](../assets/japan-landscape/japanese-country-lanes/1133615-kyoto-r38-miyama-kayabuki-gfdl.webp)
+
+Kyoto r38 miyama-kayabuki.gfdl.jpg — pixan / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [原典](https://commons.wikimedia.org/wiki/File:Kyoto_r38_miyama-kayabuki.gfdl.jpg)
 
 ![Japan, countryside north of Kyoto.jpg](../assets/japan-landscape/japanese-country-lanes/152680997-japan-countryside-north-of-kyoto.webp)
 

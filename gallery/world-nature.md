@@ -30,13 +30,13 @@ Winter-boreal-forest-Trondheim.jpg — Orcaborealis / [CC BY-SA 3.0](https://cre
 
 Ljungdalen July 2013 05.jpg — Arild Vågen / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Ljungdalen_July_2013_05.jpg)
 
+![Silver Birch (Betula pendula) - Oslo, Norway 2020-08-03 (02).jpg](../assets/world-nature/scandinavian-birch-forest/97914476-silver-birch-betula-pendula-oslo-norway-2020-.webp)
+
+Silver Birch (Betula pendula) - Oslo, Norway 2020-08-03 (02).jpg — Ryan Hodnett / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Silver_Birch_%28Betula_pendula%29_-_Oslo%2C_Norway_2020-08-03_%2802%29.jpg)
+
 ![Silver Birch woodland - Oslo, Norway 2020-08-15.jpg](../assets/world-nature/scandinavian-birch-forest/99279622-silver-birch-woodland-oslo-norway-2020-08-15.webp)
 
 Silver Birch woodland - Oslo, Norway 2020-08-15.jpg — Ryan Hodnett / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Silver_Birch_woodland_-_Oslo%2C_Norway_2020-08-15.jpg)
-
-![Birch Trees and Man Carrying Twigs.jpg](../assets/world-nature/scandinavian-birch-forest/115968348-birch-trees-and-man-carrying-twigs.webp)
-
-Birch Trees and Man Carrying Twigs.jpg — Edvard Munch / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Birch_Trees_and_Man_Carrying_Twigs.jpg)
 
 ## 海外自然：高山のカラマツ林 — alpine-larch-forest
 
@@ -80,13 +80,13 @@ West Coast Treetop Walk, rimu rainforest - WestCoastTreetop8776.jpg — lumoplan
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
-![Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 82 (49097680416).jpg](../assets/world-nature/redwood-forest/84260413-sequoia-sempervirens-fossil-redwood-tree-trun.webp)
+![US 199 Redwood Highway.jpg](../assets/world-nature/redwood-forest/8001541-us-199-redwood-highway.webp)
 
-Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 82 (49097680416).jpg — James St. John / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_%28fossil_redwood_tree_trunks%29_%28Sonoma_Volcanics%2C_Upper_Pliocene%2C_3.2_to_3.4_Ma%3B_Calistoga_Petrified_Forest%2C_Calistoga%2C_California%2C_USA%29_82_%2849097680416%29.jpg)
+US 199 Redwood Highway.jpg — Acroterion / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:US_199_Redwood_Highway.jpg)
 
-![Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 85 (49097680136).jpg](../assets/world-nature/redwood-forest/84260416-sequoia-sempervirens-fossil-redwood-tree-trun.webp)
+![Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404.jpg](../assets/world-nature/redwood-forest/84431109-beech-forest-au-great-otway-national-park-cal.webp)
 
-Sequoia sempervirens (fossil redwood tree trunks) (Sonoma Volcanics, Upper Pliocene, 3.2 to 3.4 Ma; Calistoga Petrified Forest, Calistoga, California, USA) 85 (49097680136).jpg — James St. John / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_%28fossil_redwood_tree_trunks%29_%28Sonoma_Volcanics%2C_Upper_Pliocene%2C_3.2_to_3.4_Ma%3B_Calistoga_Petrified_Forest%2C_Calistoga%2C_California%2C_USA%29_85_%2849097680136%29.jpg)
+Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1404.jpg — Dietmar Rabich / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Californian_Redwoods_--_2019_--_1404.jpg)
 
 ![Beech Forest (AU), Great Otway National Park, Californian Redwoods -- 2019 -- 1416.jpg](../assets/world-nature/redwood-forest/84431110-beech-forest-au-great-otway-national-park-cal.webp)
 
@@ -188,10 +188,6 @@ Ergaki, Artists' Lake and pine trees, Sayan Mountains, Russia.jpg — Vyacheslav
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
 
-![Changes in pulmonate and prosobranch snails on a limestone hill in Borneo.jpg](../assets/world-nature/karst-forest-landscape/44127086-changes-in-pulmonate-and-prosobranch-snails-o.webp)
-
-Changes in pulmonate and prosobranch snails on a limestone hill in Borneo.jpg — Schilthuizen / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Changes_in_pulmonate_and_prosobranch_snails_on_a_limestone_hill_in_Borneo.jpg)
-
 ![Entzia - Hayedo en el acantilado 01.jpg](../assets/world-nature/karst-forest-landscape/59290739-entzia-hayedo-en-el-acantilado-01.webp)
 
 Entzia - Hayedo en el acantilado 01.jpg — Basotxerri / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Entzia_-_Hayedo_en_el_acantilado_01.jpg)
@@ -199,6 +195,10 @@ Entzia - Hayedo en el acantilado 01.jpg — Basotxerri / [CC BY-SA 4.0](https://
 ![Dramatic karst landscape of Surat Thani, Khlong Phanom jungle, Thailand.jpg](../assets/world-nature/karst-forest-landscape/79966831-dramatic-karst-landscape-of-surat-thani-khlon.webp)
 
 Dramatic karst landscape of Surat Thani, Khlong Phanom jungle, Thailand.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Dramatic_karst_landscape_of_Surat_Thani%2C_Khlong_Phanom_jungle%2C_Thailand.jpg)
+
+![Bohol - Bohol1919.jpg](../assets/world-nature/karst-forest-landscape/195911725-bohol-bohol1919.webp)
+
+Bohol - Bohol1919.jpg — lumoplank / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bohol_-_Bohol1919.jpg)
 
 ## 海外自然：海辺の松林 — coastal-pine-woods
 
@@ -215,6 +215,14 @@ Pine trees and coastal residences Costa dels Pins Mallorca.jpg — Steffen Mokos
 制作で見るところ：雲・急斜面・広葉樹と山道・遠景の色
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/sky.js`
+
+![Mindo Terra Bambu Hotel Ecuador 1085.jpg](../assets/world-nature/andean-mountain-forests/81229030-mindo-terra-bambu-hotel-ecuador-1085.webp)
+
+Mindo Terra Bambu Hotel Ecuador 1085.jpg — Arabsalam / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Mindo_Terra_Bambu_Hotel_Ecuador_1085.jpg)
+
+![Mindo Terra Bambu Hotel Ecuador 1089.jpg](../assets/world-nature/andean-mountain-forests/81229035-mindo-terra-bambu-hotel-ecuador-1089.webp)
+
+Mindo Terra Bambu Hotel Ecuador 1089.jpg — Arabsalam / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Mindo_Terra_Bambu_Hotel_Ecuador_1089.jpg)
 
 ![Andean cloudforest - Mindo.jpg](../assets/world-nature/andean-mountain-forests/113247051-andean-cloudforest-mindo.webp)
 

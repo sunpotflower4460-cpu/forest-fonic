@@ -62,17 +62,13 @@ Looking up into a dense green forest canopy.jpg — Krishna k. sahh / [CC0](http
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
+![Mill Lane crossing the Lymington River east of Brockenhurst, New Forest - geograph.org.uk - 170820.jpg](../assets/forest-layout/uneven-age-stands/9289284-mill-lane-crossing-the-lymington-river-east-o.webp)
+
+Mill Lane crossing the Lymington River east of Brockenhurst, New Forest - geograph.org.uk - 170820.jpg — Jim Champion / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Mill_Lane_crossing_the_Lymington_River_east_of_Brockenhurst%2C_New_Forest_-_geograph.org.uk_-_170820.jpg)
+
 ![Mixed woodland - geograph.org.uk - 860591.jpg](../assets/forest-layout/uneven-age-stands/13549916-mixed-woodland-geograph-org-uk-860591.webp)
 
 Mixed woodland - geograph.org.uk - 860591.jpg — Richard Webb / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Mixed_woodland_-_geograph.org.uk_-_860591.jpg)
-
-![Butyriboletus taughannockensis Safonov 656182 2016-08-26.jpg](../assets/forest-layout/uneven-age-stands/56856631-butyriboletus-taughannockensis-safonov-656182.webp)
-
-Butyriboletus taughannockensis Safonov 656182 2016-08-26.jpg — This image was created by user I. G. Safonov (IGSafonov) at Mushroom Observer, a source for mycological images.You can contact this user here. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Butyriboletus_taughannockensis_Safonov_656182_2016-08-26.jpg)
-
-![Butyriboletus taughannockensis Safonov 656183.jpg](../assets/forest-layout/uneven-age-stands/68352861-butyriboletus-taughannockensis-safonov-656183.webp)
-
-Butyriboletus taughannockensis Safonov 656183.jpg — This image was created by user I. G. Safonov (IGSafonov) at Mushroom Observer, a source for mycological images.You can contact this user here. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Butyriboletus_taughannockensis_Safonov_656183.jpg)
 
 ## 大木・若木・稚樹の距離 — giant-trees-and-saplings
 
