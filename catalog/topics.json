@@ -1183,6 +1183,10 @@
         "aerial woodland trees meadow",
         "aerial forest clearing",
         "aerial view wooded landscape"
+      ],
+      "title_exclude_any": [
+        "palm clearing",
+        "oil palm"
       ]
     },
     {
@@ -1199,6 +1203,12 @@
         "forest canopy gap",
         "forest gap sunlight",
         "treefall gap forest"
+      ],
+      "title_exclude_any": [
+        " road ",
+        "signage",
+        "highway",
+        "roadside"
       ]
     },
     {
@@ -1215,6 +1225,12 @@
         "uneven aged forest stand",
         "mixed aged woodland trees",
         "old growth forest saplings"
+      ],
+      "title_exclude_any": [
+        "raster",
+        "map",
+        "climap",
+        "garden"
       ]
     },
     {
@@ -1247,6 +1263,9 @@
         "multi layered forest canopy",
         "forest understory trees",
         "forest canopy layers"
+      ],
+      "title_exclude_any": [
+        "mown understory"
       ]
     },
     {
@@ -1343,6 +1362,10 @@
         "fallen trees natural forest",
         "forest deadwood moss",
         "forest fallen log saplings"
+      ],
+      "title_exclude_any": [
+        "installation",
+        "museum"
       ]
     },
     {
@@ -1439,6 +1462,17 @@
         "Japan moss forest",
         "Yakushima moss forest",
         "Japanese forest moss"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japan ",
+        "ginkaku",
+        "yakushima",
+        "koya",
+        "kyoto",
+        "kamikochi",
+        "nara"
       ]
     },
     {
@@ -1455,6 +1489,18 @@
         "Japanese forest stream",
         "Japan mountain creek forest",
         "Japanese woodland brook"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japan ",
+        "tsumago",
+        "nagiso",
+        "yakushima",
+        "okutama",
+        "kyoto",
+        "akita",
+        "japanese woodland"
       ]
     },
     {
@@ -1471,6 +1517,19 @@
         "Japanese mountain village countryside",
         "rural Japan hillside village",
         "Japan village satoyama"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japan ",
+        "japanese village",
+        "gifu",
+        "shirakawa",
+        "satoyama",
+        "nagano",
+        "yamagata",
+        "takayama",
+        "niigata"
       ]
     },
     {
@@ -1487,6 +1546,19 @@
         "Japanese rural lane trees",
         "Japanese countryside road village",
         "Japanese country path houses"
+      ],
+      "title_include_any": [
+        "japan,",
+        "japan.",
+        "japanese countryside",
+        "kyoto",
+        "nagano",
+        "hokkaido",
+        "akita",
+        "aomori",
+        "gunma",
+        "kyushu",
+        "japan "
       ]
     },
     {
@@ -1519,6 +1591,23 @@
         "Norwegian wooden village houses",
         "Swedish wooden village street",
         "Nordic wooden houses village"
+      ],
+      "title_include_any": [
+        "norway",
+        "norwegian",
+        "sweden",
+        "swedish",
+        "finland",
+        "finnish",
+        "denmark",
+        "danish",
+        "troms",
+        "senja",
+        "veiholmen",
+        "smøla",
+        "smoela",
+        "nordic",
+        "scandinav"
       ]
     },
     {
@@ -1535,6 +1624,21 @@
         "alpine village Switzerland street",
         "Austrian mountain village houses",
         "Alps timber village"
+      ],
+      "title_include_any": [
+        "alps",
+        "alpine",
+        "swiss",
+        "austria",
+        "tyrol",
+        "tirol",
+        "wengen",
+        "meg lis",
+        "meglisalp",
+        "grindelwald",
+        "zermatt",
+        "lauterbrunnen",
+        "dolomites"
       ]
     },
     {
@@ -1567,6 +1671,18 @@
         "French stone village street",
         "Provence old village lane",
         "French medieval village houses"
+      ],
+      "title_include_any": [
+        "france",
+        "french",
+        "provence",
+        "belcastel",
+        "yvoire",
+        "alsace",
+        "bretagne",
+        "borgogne",
+        "normandy",
+        "aveyron"
       ]
     },
     {
@@ -1583,6 +1699,20 @@
         "Italian hill town street",
         "Cinque Terre village street",
         "Tuscan hillside village"
+      ],
+      "title_include_any": [
+        "italy",
+        "italian",
+        "tuscany",
+        "todi",
+        "cinque terre",
+        "umbria",
+        "siena",
+        "assisi",
+        "amalfi",
+        "montepulciano",
+        "pienza",
+        "sicily"
       ]
     },
     {
@@ -1599,6 +1729,17 @@
         "Portuguese village street",
         "Spanish white village houses",
         "Iberian village terracotta roof"
+      ],
+      "title_include_any": [
+        "portugal",
+        "portuguese",
+        "spain",
+        "spanish",
+        "iberian",
+        "azores",
+        "velas",
+        "alentejo",
+        "algarve"
       ]
     },
     {
@@ -1615,6 +1756,22 @@
         "Mediterranean street flowerpots",
         "Spanish village courtyard plants",
         "Italian village balconies flowers"
+      ],
+      "title_include_any": [
+        "mediterranean",
+        "italy",
+        "italian",
+        "spain",
+        "spanish",
+        "greece",
+        "greek",
+        "provence",
+        "sorrento",
+        "ibiza",
+        "malta",
+        "santorini",
+        "cordoba",
+        "andalus"
       ]
     },
     {
@@ -1631,6 +1788,18 @@
         "Dutch canal houses street",
         "Netherlands small town canal bridge",
         "Dutch canal village"
+      ],
+      "title_include_any": [
+        "netherlands",
+        "dutch",
+        "amsterdam",
+        "haarlem",
+        "delft",
+        "utrecht",
+        "leiden",
+        "alkmaar",
+        "groningen",
+        "kinderdijk"
       ]
     },
     {
@@ -1647,6 +1816,18 @@
         "German half timbered village",
         "Fachwerk village street Germany",
         "German timber houses old town"
+      ],
+      "title_include_any": [
+        "german",
+        "germany",
+        "fachwerk",
+        "half-timbered",
+        "klengel",
+        "black forest",
+        "bavaria",
+        "thuringia",
+        "alsace",
+        "saxony"
       ]
     },
     {
@@ -1663,6 +1844,21 @@
         "Scottish coastal stone village",
         "Cornwall fishing village harbor",
         "Ireland seaside stone village"
+      ],
+      "title_include_any": [
+        "cornwall",
+        "scotland",
+        "scottish",
+        "ireland",
+        "irish",
+        "polperro",
+        "charlestown",
+        "coastal village",
+        "fishing harbour",
+        "fishing harbor",
+        "coastal stone",
+        "seaside stone",
+        "coastal town"
       ]
     },
     {
@@ -1679,6 +1875,14 @@
         "Bukchon hanok village street",
         "Korean hanok village alley",
         "Jeonju hanok village"
+      ],
+      "title_include_any": [
+        "hanok",
+        "bukchon",
+        "jeonju",
+        "korean",
+        "korea",
+        "seoul"
       ]
     },
     {
@@ -1695,6 +1899,14 @@
         "Taiwan Jiufen old street",
         "Taiwan mountain village houses",
         "Taiwan hillside old town"
+      ],
+      "title_include_any": [
+        "taiwan",
+        "jiufen",
+        "jinguashi",
+        "tamsui",
+        "pingxi",
+        "taipei"
       ]
     },
     {
@@ -1711,6 +1923,17 @@
         "Chinese water town canal",
         "Wuzhen water town bridge",
         "Zhouzhuang town houses water"
+      ],
+      "title_include_any": [
+        "nanxun",
+        "wuzhen",
+        "zhouzhuang",
+        "tongli",
+        "chinese water",
+        "china canal",
+        "china water town",
+        "xizha",
+        "wuzhen"
       ]
     },
     {
@@ -1727,6 +1950,18 @@
         "Colombia colorful village street",
         "Guatape village houses",
         "Latin America small town colorful street"
+      ],
+      "title_include_any": [
+        "colombia",
+        "colombian",
+        "guatape",
+        "latin america",
+        "ecuador",
+        "peru",
+        "brazil",
+        "mexico",
+        "guatemala",
+        "salento"
       ]
     },
     {
@@ -1759,6 +1994,17 @@
         "Scandinavian birch forest",
         "Finland birch woodland",
         "Norway birch trees forest"
+      ],
+      "title_include_any": [
+        "birch",
+        "scandinav",
+        "sweden",
+        "swedish",
+        "norway",
+        "norwegian",
+        "finland",
+        "finnish",
+        "ljungdalen"
       ]
     },
     {
@@ -1807,6 +2053,11 @@
         "redwood forest trunks California",
         "coast redwood woodland",
         "Sequoia forest grove"
+      ],
+      "title_include_any": [
+        "redwood",
+        "sequoia",
+        "californian redwoods"
       ]
     },
     {
@@ -1823,6 +2074,14 @@
         "cloud forest trees mist",
         "Monteverde cloud forest",
         "tropical cloud forest moss"
+      ],
+      "title_include_any": [
+        "cloud forest",
+        "cloudforest",
+        "mossy forest",
+        "monteverde",
+        "cameron highlands",
+        "mindo"
       ]
     },
     {
@@ -1887,6 +2146,14 @@
         "alpine lake spruce forest",
         "pine forest mountain lake",
         "woodland lake mountains"
+      ],
+      "title_include_any": [
+        "lake",
+        "lago",
+        "lac ",
+        "lakeside",
+        "lakeshore",
+        "glacial lake"
       ]
     },
     {
@@ -1919,6 +2186,11 @@
         "coastal pine forest dunes",
         "Mediterranean coastal pine trees",
         "pine woodland seaside"
+      ],
+      "title_include_any": [
+        "pine",
+        "pinus",
+        "pines"
       ]
     },
     {
@@ -1935,6 +2207,15 @@
         "Andean cloud forest",
         "Ecuador mountain forest",
         "Andes mountain woodland"
+      ],
+      "title_include_any": [
+        "andean cloudforest",
+        "andean forest",
+        "mountain forest",
+        "mindo",
+        "ecuador mountain",
+        "andes forest",
+        "peru forest"
       ]
     },
     {
