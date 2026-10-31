@@ -152,6 +152,10 @@ Autumn Woodland - geograph.org.uk - 7017805.jpg — kevin higgins / [CC BY-SA 2.
 
 関連コード：`app/src/world/nature.js`、`app/src/lab/seasons.js`
 
+![Bare winter tree - geograph.org.uk - 1120657.jpg](../assets/forest/winter-trees/13831959-bare-winter-tree-geograph-org-uk-1120657.webp)
+
+Bare winter tree - geograph.org.uk - 1120657.jpg — Philip Halling / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Bare_winter_tree_-_geograph.org.uk_-_1120657.jpg)
+
 ![Winter apples on a bare tree.jpg](../assets/forest/winter-trees/53992310-winter-apples-on-a-bare-tree.webp)
 
 Winter apples on a bare tree.jpg — W.carter / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Winter_apples_on_a_bare_tree.jpg)

@@ -116,6 +116,10 @@ DSC 3303- Twilight at a charming riverside village, lantern-lit wooden walkways,
 
 関連コード：`app/src/world/town.js`、`app/src/lab/seasons.js`
 
+![Snow covered countryside - geograph.org.uk - 656317.jpg](../assets/light/snow-village/13196674-snow-covered-countryside-geograph-org-uk-6563.webp)
+
+Snow covered countryside - geograph.org.uk - 656317.jpg — P L Chadwick / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Snow_covered_countryside_-_geograph.org.uk_-_656317.jpg)
+
 ![Snow-covered Méribel-Centre.jpg](../assets/light/snow-village/114318328-snow-covered-m-ribel-centre.webp)
 
 Snow-covered Méribel-Centre.jpg — DimiTalen / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Snow-covered_M%C3%A9ribel-Centre.jpg)
@@ -129,6 +133,10 @@ View of snow-covered Village des Eucherts, La Rosière, 2024.jpg — DimiTalen /
 制作で見るところ：温かい窓明かりと青い空気色の釣り合い
 
 関連コード：`app/src/world/sky.js`、`app/src/lab/light.js`
+
+![Blue Hour (180032429).jpeg](../assets/light/twilight/76020225-blue-hour-180032429.webp)
+
+Blue Hour (180032429).jpeg — Jakob / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Blue_Hour_%28180032429%29.jpeg)
 
 ![Seongsan-ri town at blue hour seen from Seongsan Ilchulbong volcano Jeju Island South Korea.jpg](../assets/light/twilight/155085982-seongsan-ri-town-at-blue-hour-seen-from-seong.webp)
 

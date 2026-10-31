@@ -70,6 +70,10 @@ Painted plaster wall rough 16k (Amal Kumar via Poly Haven).png — Amal Kumar (h
 
 Painted plaster wall diff 16k (Amal Kumar via Poly Haven).png — Amal Kumar (https://polyhaven.com/all?a=Amal%20Kumar / https://web.archive.org/web/20230902205408/https://polyhaven.com/all?a=Amal%20Kumar) via Poly Haven / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Painted_plaster_wall_diff_16k_%28Amal_Kumar_via_Poly_Haven%29.png)
 
+![Painted plaster wall - Preview (Amal Kumar via Poly Haven).png](../assets/materials/plaster-and-clay/145543975-painted-plaster-wall-preview-amal-kumar-via-p.webp)
+
+Painted plaster wall - Preview (Amal Kumar via Poly Haven).png — Amal Kumar (https://polyhaven.com/all?a=Amal%20Kumar / https://web.archive.org/web/20230902205408/https://polyhaven.com/all?a=Amal%20Kumar) via Poly Haven / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Painted_plaster_wall_-_Preview_%28Amal_Kumar_via_Poly_Haven%29.png)
+
 ## 茅葺きと藁葺き — thatch
 
 制作で見るところ：茅の層・軒先の厚み・耐候の色

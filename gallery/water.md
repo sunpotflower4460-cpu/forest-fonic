@@ -48,6 +48,10 @@ Riverbank with Palm Vegetation and Wooden Canoes in Ibeno, Akwa Ibom, Nigeria.jp
 
 View south along an old fish yair - geograph.org.uk - 1055008.jpg — Lairich Rig / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:View_south_along_an_old_fish_yair_-_geograph.org.uk_-_1055008.jpg)
 
+![Low Wood Rapid on the Swale - geograph.org.uk - 1197106.jpg](../assets/water/river-stones/13913313-low-wood-rapid-on-the-swale-geograph-org-uk-1.webp)
+
+Low Wood Rapid on the Swale - geograph.org.uk - 1197106.jpg — Andy Waddington / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Low_Wood_Rapid_on_the_Swale_-_geograph.org.uk_-_1197106.jpg)
+
 ![Watching the McKenzie River Flow.jpg](../assets/water/river-stones/189193275-watching-the-mckenzie-river-flow.webp)
 
 Watching the McKenzie River Flow.jpg — Rick Obst / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Watching_the_McKenzie_River_Flow.jpg)
@@ -133,6 +137,10 @@ Mapoutahi Pa (Goat Island Blueskin Bay) (4506262890).jpg — Alistair Paterson f
 ![MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt Mot sør Kveldssol Skåetangen Oskjær (Rocky coastline Archipelago Wind Waves Turbulent Sea spray spla.jpg](../assets/water/sea-surface/138841621-moutmarka-f-rder-nasjonalpark-t-nsbergfjorden.webp)
 
 MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt Mot sør Kveldssol Skåetangen Oskjær (Rocky coastline Archipelago Wind Waves Turbulent Sea spray spla.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:MOUTMARKA_F%C3%A6rder_nasjonalpark_T%C3%B8nsbergfjorden_2023-10-11_%28Tj%C3%B8me_Oslofjorden_Norway%29_Svaberg_Fj%C3%A6re_Hav_Vind_B%C3%B8lger_Sj%C3%B8spr%C3%B8yt_Mot_s%C3%B8r_Kveldssol_Sk%C3%A5etangen_Oskj%C3%A6r_%28Rocky_coastline_Archipelago_Wind_Waves_Turbulent_Sea_spray_spla.jpg)
+
+![MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt Mot vest Kveldslys (Rocky coastline Archipelago Wind Waves Turbulent Sea spray splash Low sun) IMG 3150.jpg](../assets/water/sea-surface/138841625-moutmarka-f-rder-nasjonalpark-t-nsbergfjorden.webp)
+
+MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt Mot vest Kveldslys (Rocky coastline Archipelago Wind Waves Turbulent Sea spray splash Low sun) IMG 3150.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:MOUTMARKA_F%C3%A6rder_nasjonalpark_T%C3%B8nsbergfjorden_2023-10-11_%28Tj%C3%B8me_Oslofjorden_Norway%29_Svaberg_Fj%C3%A6re_Hav_Vind_B%C3%B8lger_Sj%C3%B8spr%C3%B8yt_Mot_vest_Kveldslys_%28Rocky_coastline_Archipelago_Wind_Waves_Turbulent_Sea_spray_splash_Low_sun%29_IMG_3150.jpg)
 
 ![MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt eullesteinsstrand Mot sør Skåebukta (Rocky coastline Archipelago Wind Waves Turbulent Sea splash pebbl.jpg](../assets/water/sea-surface/138841634-moutmarka-f-rder-nasjonalpark-t-nsbergfjorden.webp)
 

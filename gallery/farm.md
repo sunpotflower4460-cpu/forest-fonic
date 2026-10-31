@@ -12,6 +12,10 @@
 
 CSIRO ScienceImage 4483 Cattle grazing on lush pastures at Bega NSW 2002.jpg — Gregory Heath, CSIRO / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4483_Cattle_grazing_on_lush_pastures_at_Bega_NSW_2002.jpg)
 
+![Cattle grazing a marsh pasture - geograph.org.uk - 5546387.jpg](../assets/farm/pastures/138987882-cattle-grazing-a-marsh-pasture-geograph-org-u.webp)
+
+Cattle grazing a marsh pasture - geograph.org.uk - 5546387.jpg — Evelyn Simak / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Cattle_grazing_a_marsh_pasture_-_geograph.org.uk_-_5546387.jpg)
+
 ![Grazing cattle on a pasture in eastern New Mexico.jpg](../assets/farm/pastures/163897781-grazing-cattle-on-a-pasture-in-eastern-new-me.webp)
 
 Grazing cattle on a pasture in eastern New Mexico.jpg — Quintin Soloviev / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Grazing_cattle_on_a_pasture_in_eastern_New_Mexico.jpg)
@@ -21,6 +25,10 @@ Grazing cattle on a pasture in eastern New Mexico.jpg — Quintin Soloviev / [CC
 制作で見るところ：外壁の板張り、入口、屋根勾配、規模
 
 関連コード：`app/src/world/ranch-structures.js`
+
+![The Henry Miller Red Barn.jpg](../assets/farm/farm-barns/67620109-the-henry-miller-red-barn.webp)
+
+The Henry Miller Red Barn.jpg — The Miller Red Barn / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:The_Henry_Miller_Red_Barn.jpg)
 
 ![Barn in Färlev 5.jpg](../assets/farm/farm-barns/82102293-barn-in-f-rlev-5.webp)
 
@@ -54,9 +62,9 @@ Horses standing near a wooden fence in a rural area - Flickr - nenadstojkovicart
 
 関連コード：`app/src/world/ranch-structures.js`
 
-![Norland Scarecrow Festival- Old Macdonald had a Farm ... (21180029881).jpg](../assets/farm/farmyards/58447886-norland-scarecrow-festival-old-macdonald-had-.webp)
+![Malhostice - zemědělský dvůr 3.jpg](../assets/farm/farmyards/41803065-malhostice-zem-d-lsk-dv-r-3.webp)
 
-Norland Scarecrow Festival- Old Macdonald had a Farm ... (21180029881).jpg — Tim Green from Bradford / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Norland_Scarecrow_Festival-_Old_Macdonald_had_a_Farm_..._%2821180029881%29.jpg)
+Malhostice - zemědělský dvůr 3.jpg — Petr Kinšt / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Malhostice_-_zem%C4%9Bd%C4%9Blsk%C3%BD_dv%C5%AFr_3.jpg)
 
 ![Traditional farmyard at Gowbusk - geograph.org.uk - 3521585.jpg](../assets/farm/farmyards/117931232-traditional-farmyard-at-gowbusk-geograph-org-.webp)
 
@@ -75,6 +83,10 @@ Hay-bales-Hertfordshire-20050613-030.jpg — Gary Houston / [CC0](https://creati
 ![Hay bales on farm - Flickr - munchflemming.jpg](../assets/farm/hay-and-straw/93360138-hay-bales-on-farm-flickr-munchflemming.webp)
 
 Hay bales on farm - Flickr - munchflemming.jpg — Flemming Munch / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Hay_bales_on_farm_-_Flickr_-_munchflemming.jpg)
+
+![Wrapped hay bales, Afflington Farm - geograph.org.uk - 2076661.jpg](../assets/farm/hay-and-straw/106075842-wrapped-hay-bales-afflington-farm-geograph-or.webp)
+
+Wrapped hay bales, Afflington Farm - geograph.org.uk - 2076661.jpg — N Chadwick / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Wrapped_hay_bales%2C_Afflington_Farm_-_geograph.org.uk_-_2076661.jpg)
 
 ## 畑と野菜 — vegetable-fields
 
@@ -162,6 +174,10 @@ Old water pump - geograph.org.uk - 1084541.jpg — Hugh Venables / [CC BY-SA 2.0
 
 Rashillhouse Farm at Watermeetings. Old well and pump house. North Ayrshire.jpg — Rosser1954 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Rashillhouse_Farm_at_Watermeetings._Old_well_and_pump_house._North_Ayrshire.jpg)
 
+![Old water pump at Turnditch Farm - geograph.org.uk - 5515383.jpg](../assets/farm/water-pumps/138379683-old-water-pump-at-turnditch-farm-geograph-org.webp)
+
+Old water pump at Turnditch Farm - geograph.org.uk - 5515383.jpg — Ian Calderwood / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Old_water_pump_at_Turnditch_Farm_-_geograph.org.uk_-_5515383.jpg)
+
 ## 牧舎の内部 — barn-interiors
 
 制作で見るところ：柱・梁、寝床、入口の明暗と天井高さ
@@ -171,6 +187,10 @@ Rashillhouse Farm at Watermeetings. Old well and pump house. North Ayrshire.jpg 
 ![Blake Hall Essex listed barn interior 03.jpg](../assets/farm/barn-interiors/167431201-blake-hall-essex-listed-barn-interior-03.webp)
 
 Blake Hall Essex listed barn interior 03.jpg — Acabashi / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Blake_Hall_Essex_listed_barn_interior_03.jpg)
+
+![Blake Hall Essex listed barn interior 02.jpg](../assets/farm/barn-interiors/167431203-blake-hall-essex-listed-barn-interior-02.webp)
+
+Blake Hall Essex listed barn interior 02.jpg — Acabashi / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Blake_Hall_Essex_listed_barn_interior_02.jpg)
 
 ![Wooden Barn at Philip Foster Farm.jpg](../assets/farm/barn-interiors/187009007-wooden-barn-at-philip-foster-farm.webp)
 
@@ -182,5 +202,7 @@ Wooden Barn at Philip Foster Farm.jpg — Rick Obst / [CC BY 2.0](https://creati
 
 関連コード：`app/src/world/ranch-structures.js`
 
-現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
+![Woman with watering can, Dent de Man.jpg](../assets/farm/farm-tools/147882343-woman-with-watering-can-dent-de-man.webp)
+
+Woman with watering can, Dent de Man.jpg — FBilula / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Woman_with_watering_can%2C_Dent_de_Man.jpg)
 

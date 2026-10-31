@@ -8,6 +8,10 @@
 
 関連コード：`app/src/world/animal-meshes.js`、`app/src/world/ranch-meshes.js`
 
+![2019-07-07 Cow standing on the field.jpg](../assets/animals/cattle-shapes/88318972-2019-07-07-cow-standing-on-the-field.webp)
+
+2019-07-07 Cow standing on the field.jpg — Maksym Kozlenko / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:2019-07-07_Cow_standing_on_the_field.jpg)
+
 ![Cows at the side of The Glasson Branch - geograph.org.uk - 3997607.jpg](../assets/animals/cattle-shapes/125471283-cows-at-the-side-of-the-glasson-branch-geogra.webp)
 
 Cows at the side of The Glasson Branch - geograph.org.uk - 3997607.jpg — David Dixon / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Cows_at_the_side_of_The_Glasson_Branch_-_geograph.org.uk_-_3997607.jpg)
@@ -50,10 +54,6 @@ Horse in a meadow.jpg — BogTar201213 / [CC BY-SA 4.0](https://creativecommons.
 
 関連コード：`app/src/world/animal-meshes.js`、`app/src/world/ranch-meshes.js`
 
-![Goat house at The Animal Farm at Tannaghmore Gardens - geograph.org.uk - 504467.jpg](../assets/animals/goats/13028315-goat-house-at-the-animal-farm-at-tannaghmore-.webp)
-
-Goat house at The Animal Farm at Tannaghmore Gardens - geograph.org.uk - 504467.jpg — P Flannagan / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Goat_house_at_The_Animal_Farm_at_Tannaghmore_Gardens_-_geograph.org.uk_-_504467.jpg)
-
 ![Cedar Point animal farm baby goat (2995).jpg](../assets/animals/goats/40366180-cedar-point-animal-farm-baby-goat-2995.webp)
 
 Cedar Point animal farm baby goat (2995).jpg — Bobby Proffer / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Cedar_Point_animal_farm_baby_goat_%282995%29.jpg)
@@ -61,6 +61,10 @@ Cedar Point animal farm baby goat (2995).jpg — Bobby Proffer / [CC BY-SA 3.0](
 ![Cedar Point animal farm baby goat (3006).jpg](../assets/animals/goats/40366219-cedar-point-animal-farm-baby-goat-3006.webp)
 
 Cedar Point animal farm baby goat (3006).jpg — Bobby Proffer / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Cedar_Point_animal_farm_baby_goat_%283006%29.jpg)
+
+![Baby Goat Standing with Ears Out.jpg](../assets/animals/goats/146252690-baby-goat-standing-with-ears-out.webp)
+
+Baby Goat Standing with Ears Out.jpg — Eric Kilby / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Baby_Goat_Standing_with_Ears_Out.jpg)
 
 ## 牧場の犬 — farm-dogs
 
@@ -100,17 +104,13 @@ Cats at Houtong Cat Village February 2026.jpg — 4300streetcar / [CC BY 4.0](ht
 
 関連コード：`app/src/world/life-meshes.js`、`app/src/systems/animals.js`
 
-![Gateway to field with small woodland on SE side of road at Bird's Hill - geograph.org.uk - 7038162.jpg](../assets/animals/forest-birds/156325378-gateway-to-field-with-small-woodland-on-se-si.webp)
+![Small bird perching on a branch.jpg](../assets/animals/forest-birds/41275769-small-bird-perching-on-a-branch.webp)
 
-Gateway to field with small woodland on SE side of road at Bird's Hill - geograph.org.uk - 7038162.jpg — Roger Templeman / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Gateway_to_field_with_small_woodland_on_SE_side_of_road_at_Bird%27s_Hill_-_geograph.org.uk_-_7038162.jpg)
+Small bird perching on a branch.jpg — Laitche / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_bird_perching_on_a_branch.jpg)
 
 ![Grey-backed tailorbird.jpg](../assets/animals/forest-birds/196186271-grey-backed-tailorbird.webp)
 
 Grey-backed tailorbird.jpg — Micluna / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Grey-backed_tailorbird.jpg)
-
-![Azure Ember.png](../assets/animals/forest-birds/200642494-azure-ember.webp)
-
-Azure Ember.png — Srimathi Ashokkumar / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Azure_Ember.png)
 
 ## 蝶と蜂 — butterflies-and-bees
 
@@ -161,4 +161,8 @@ Green pond frog (Euphlyctis hexadactylus).jpg — Charles J. Sharp / [CC BY-SA 4
 ![Fish in Spirited Garden.jpg](../assets/animals/pond-life/144326444-fish-in-spirited-garden.webp)
 
 Fish in Spirited Garden.jpg — Bernard Gagnon / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Fish_in_Spirited_Garden.jpg)
+
+![Small frog near a pond (close up).jpg](../assets/animals/pond-life/201428808-small-frog-near-a-pond-close-up.webp)
+
+Small frog near a pond (close up).jpg — Cun Cun / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_frog_near_a_pond_%28close_up%29.jpg)
 

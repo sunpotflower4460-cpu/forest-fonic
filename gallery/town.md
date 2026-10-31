@@ -30,6 +30,10 @@ Village rural à Vakinankaratra Antsirabe.jpg — Anai171 / [CC BY-SA 4.0](https
 
 Timber framed cottage at Moreton - geograph.org.uk - 1277452.jpg — Trevor Rickard / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Timber_framed_cottage_at_Moreton_-_geograph.org.uk_-_1277452.jpg)
 
+![Timber-framed cottages - geograph.org.uk - 1408825.jpg](../assets/town/small-cottages/14150326-timber-framed-cottages-geograph-org-uk-140882.webp)
+
+Timber-framed cottages - geograph.org.uk - 1408825.jpg — Evelyn Simak / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Timber-framed_cottages_-_geograph.org.uk_-_1408825.jpg)
+
 ![Timber cottage near Kingsgate Farm - geograph.org.uk - 1742981.jpg](../assets/town/small-cottages/14477194-timber-cottage-near-kingsgate-farm-geograph-o.webp)
 
 Timber cottage near Kingsgate Farm - geograph.org.uk - 1742981.jpg — David Anstiss / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Timber_cottage_near_Kingsgate_Farm_-_geograph.org.uk_-_1742981.jpg)
@@ -58,9 +62,9 @@ Historic-half-timbered-house-allschwil-basel-landschaft-switzerland-1680-1700.jp
 
 関連コード：`app/src/world/town.js`
 
-![DZ3 0946 Nighttime street shrine and offerings beside a lit shopfront in Nong Pla Lai Pattaya City.jpg](../assets/town/shopfronts/199974421-dz3-0946-nighttime-street-shrine-and-offering.webp)
+![Legal hashish shop in Kathmandu, Nepal in 1973.jpg](../assets/town/shopfronts/351429-legal-hashish-shop-in-kathmandu-nepal-in-1973.webp)
 
-DZ3 0946 Nighttime street shrine and offerings beside a lit shopfront in Nong Pla Lai Pattaya City.jpg — PattayaPatrol / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:DZ3_0946_Nighttime_street_shrine_and_offerings_beside_a_lit_shopfront_in_Nong_Pla_Lai_Pattaya_City.jpg)
+Legal hashish shop in Kathmandu, Nepal in 1973.jpg — Roger McLassus. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [原典](https://commons.wikimedia.org/wiki/File:Legal_hashish_shop_in_Kathmandu%2C_Nepal_in_1973.jpg)
 
 ## 花屋の店先 — flower-shops
 
@@ -122,6 +126,10 @@ The Lane Memorial Fountain, Town Hall Square, Bexhill.jpg — Alexis Markwick / 
 
 関連コード：`app/src/world/town.js`
 
+![Kirkgate Market, Leeds - outdoor stalls (geograph 6777304).jpg](../assets/town/market-stalls/101596143-kirkgate-market-leeds-outdoor-stalls-geograph.webp)
+
+Kirkgate Market, Leeds - outdoor stalls (geograph 6777304).jpg — Stephen Craven / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Kirkgate_Market%2C_Leeds_-_outdoor_stalls_%28geograph_6777304%29.jpg)
+
 ![Outdoor Stalls Vilnius Market B.jpg](../assets/town/market-stalls/185493452-outdoor-stalls-vilnius-market-b.webp)
 
 Outdoor Stalls Vilnius Market B.jpg — Mojmir Churavy / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Outdoor_Stalls_Vilnius_Market_B.jpg)
@@ -140,6 +148,10 @@ Outdoor Stalls Vilnius Market A.jpg — Mojmir Churavy / [CC0](https://creativec
 
 Sedlec-Prčice, road to Záhoří.jpg — This file is available under Creative Commons BY-SA license. Basically: You can use this picture for any purpose, provided that you attribute it to Pavel Hrdlička, Wikipedia. You may distribute the resulting work under the same license. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Sedlec-Pr%C4%8Dice%2C_road_to_Z%C3%A1ho%C5%99%C3%AD.jpg)
 
+![Rural bus stop and shelter - geograph.org.uk - 4533627.jpg](../assets/town/bus-stops/129701607-rural-bus-stop-and-shelter-geograph-org-uk-45.webp)
+
+Rural bus stop and shelter - geograph.org.uk - 4533627.jpg — JThomas / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Rural_bus_stop_and_shelter_-_geograph.org.uk_-_4533627.jpg)
+
 ![Belarus, Homjel, Narovlja - Hrydni WMID4178728.jpg](../assets/town/bus-stops/194864460-belarus-homjel-narovlja-hrydni-wmid4178728.webp)
 
 Belarus, Homjel, Narovlja - Hrydni WMID4178728.jpg — nebo / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Belarus%2C_Homjel%2C_Narovlja_-_Hrydni_WMID4178728.jpg)
@@ -157,6 +169,10 @@ Stavropol Krai Countryside and Roadside with Bus.jpg — Thomas Taylor Hammond (
 ![Bus Zvenigorod-Surmino 2019-07.jpg](../assets/town/country-buses/80405583-bus-zvenigorod-surmino-2019-07.webp)
 
 Bus Zvenigorod-Surmino 2019-07.jpg — Svetlov Artem / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bus_Zvenigorod-Surmino_2019-07.jpg)
+
+![Bus stop on Swanmore Road with countryside behind - geograph.org.uk - 4202562.jpg](../assets/town/country-buses/127111120-bus-stop-on-swanmore-road-with-countryside-be.webp)
+
+Bus stop on Swanmore Road with countryside behind - geograph.org.uk - 4202562.jpg — Shazz / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Bus_stop_on_Swanmore_Road_with_countryside_behind_-_geograph.org.uk_-_4202562.jpg)
 
 ## 石橋 — stone-bridges
 
@@ -286,6 +302,10 @@ Craster is a small fishing village on the Northumbrian coast . It has a small ha
 
 Cobbled streets of Cascais (47956751563).jpg — Terry Kearney from liverpool, merseyside / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Cobbled_streets_of_Cascais_%2847956751563%29.jpg)
 
+![The B4417 east of the small coastal village of Pistyll - geograph.org.uk - 2120594.jpg](../assets/town/harbor-village/106311897-the-b4417-east-of-the-small-coastal-village-o.webp)
+
+The B4417 east of the small coastal village of Pistyll - geograph.org.uk - 2120594.jpg — Eric Jones / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:The_B4417_east_of_the_small_coastal_village_of_Pistyll_-_geograph.org.uk_-_2120594.jpg)
+
 ## 店先の花鉢と窓辺 — flowerpots-and-balconies
 
 制作で見るところ：生活の痕跡、外壁と植物の関係
@@ -295,6 +315,10 @@ Cobbled streets of Cascais (47956751563).jpg — Terry Kearney from liverpool, m
 ![Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg](../assets/town/flowerpots-and-balconies/141262397-flower-pots-day-nursery-prestwood-geograph-or.webp)
 
 Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg — David Hillas / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Flower_Pots_Day_Nursery%2C_Prestwood_-_geograph.org.uk_-_5789174.jpg)
+
+![Many colorful flowerpots in front of Bulguksa temple in Gyeongju South Korea.jpg](../assets/town/flowerpots-and-balconies/154951406-many-colorful-flowerpots-in-front-of-bulguksa.webp)
+
+Many colorful flowerpots in front of Bulguksa temple in Gyeongju South Korea.jpg — Basile Morin / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Many_colorful_flowerpots_in_front_of_Bulguksa_temple_in_Gyeongju_South_Korea.jpg)
 
 ## 自転車と路地 — bicycles-and-alleys
 
@@ -306,6 +330,10 @@ Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg — David Hil
 
 Tung Kok Wai 11.JPG — Underwaterbuffalo / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Tung_Kok_Wai_11.JPG)
 
+![Rusty bicycle leaning against the wall of the Statarlängan house, Skansen, Stockholm, Sweden julesvernex2.jpg](../assets/town/bicycles-and-alleys/145743978-rusty-bicycle-leaning-against-the-wall-of-the.webp)
+
+Rusty bicycle leaning against the wall of the Statarlängan house, Skansen, Stockholm, Sweden julesvernex2.jpg — Jules Verne Times Two / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Rusty_bicycle_leaning_against_the_wall_of_the_Statarl%C3%A4ngan_house%2C_Skansen%2C_Stockholm%2C_Sweden_julesvernex2.jpg)
+
 ## 縁側・ポーチ — porches-and-verandas
 
 制作で見るところ：床と地面の段差、柱・屋根、座る場所
@@ -316,6 +344,10 @@ Tung Kok Wai 11.JPG — Underwaterbuffalo / [CC BY-SA 3.0](https://creativecommo
 
 Oppdalsmuseet Bygdemuseum Skjørstad-stuggu Laft tømmerhus 17c.–19c. Log house cottage Tram Inngangsparti Porch Dør Door Solur Sundial Skifer Slate etc Oppdal Trøndelag Norway 2019-04-10 3415.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Oppdalsmuseet_Bygdemuseum_Skj%C3%B8rstad-stuggu_Laft_t%C3%B8mmerhus_17c.%E2%80%9319c._Log_house_cottage_Tram_Inngangsparti_Porch_D%C3%B8r_Door_Solur_Sundial_Skifer_Slate_etc_Oppdal_Tr%C3%B8ndelag_Norway_2019-04-10_3415.jpg)
 
+![Oppdalsmuseet Bygdemuseum Skjørstad-stuggu Laft tømmerhus 17c.–19c. Log house cottage Tram Inngangsparti Porch Dør Door Solur Sundial Skifer Slate Vår Spring etc Oppdal Trøndelag Norway 2019-04-25 5282.jpg](../assets/town/porches-and-verandas/86293431-oppdalsmuseet-bygdemuseum-skj-rstad-stuggu-la.webp)
+
+Oppdalsmuseet Bygdemuseum Skjørstad-stuggu Laft tømmerhus 17c.–19c. Log house cottage Tram Inngangsparti Porch Dør Door Solur Sundial Skifer Slate Vår Spring etc Oppdal Trøndelag Norway 2019-04-25 5282.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Oppdalsmuseet_Bygdemuseum_Skj%C3%B8rstad-stuggu_Laft_t%C3%B8mmerhus_17c.%E2%80%9319c._Log_house_cottage_Tram_Inngangsparti_Porch_D%C3%B8r_Door_Solur_Sundial_Skifer_Slate_V%C3%A5r_Spring_etc_Oppdal_Tr%C3%B8ndelag_Norway_2019-04-25_5282.jpg)
+
 ![Oppdalsmuseet Bygdemuseum Hoksengstuggu Laft tømmerhus Log cottage house Gammelt treverk kledning Old weathered wood planks Trapp tram Porch Skifer Slate stone Vår Spring etc Oppdal Norway 2019-04-25 3409.jpg](../assets/town/porches-and-verandas/86328790-oppdalsmuseet-bygdemuseum-hoksengstuggu-laft-.webp)
 
 Oppdalsmuseet Bygdemuseum Hoksengstuggu Laft tømmerhus Log cottage house Gammelt treverk kledning Old weathered wood planks Trapp tram Porch Skifer Slate stone Vår Spring etc Oppdal Norway 2019-04-25 3409.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Oppdalsmuseet_Bygdemuseum_Hoksengstuggu_Laft_t%C3%B8mmerhus_Log_cottage_house_Gammelt_treverk_kledning_Old_weathered_wood_planks_Trapp_tram_Porch_Skifer_Slate_stone_V%C3%A5r_Spring_etc_Oppdal_Norway_2019-04-25_3409.jpg)
@@ -325,6 +357,10 @@ Oppdalsmuseet Bygdemuseum Hoksengstuggu Laft tømmerhus Log cottage house Gammel
 制作で見るところ：段差の寸法、石の欠けと植物の隙間
 
 関連コード：`app/src/world/town.js`、`app/src/world/park.js`
+
+![Stone Steps - geograph.org.uk - 706766.jpg](../assets/town/stone-stairs/13373891-stone-steps-geograph-org-uk-706766.webp)
+
+Stone Steps - geograph.org.uk - 706766.jpg — Matthew Hatton / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Stone_Steps_-_geograph.org.uk_-_706766.jpg)
 
 ![Stone steps, Dawyck Botanic Garden - geograph.org.uk - 5789793.jpg](../assets/town/stone-stairs/141265043-stone-steps-dawyck-botanic-garden-geograph-or.webp)
 
