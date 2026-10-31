@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-31T19:31:24+00:00",
-  "total": 393,
+  "generated_utc": "2026-10-31T19:32:50+00:00",
+  "total": 392,
   "images": [
     {
       "pageid": 148340191,
@@ -6464,6 +6464,33 @@
       "visual_review": "pending"
     },
     {
+      "pageid": 14323180,
+      "title": "Alderholt, a clearing in Telegraph Plantation - geograph.org.uk - 1575171.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Alderholt%2C_a_clearing_in_Telegraph_Plantation_-_geograph.org.uk_-_1575171.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Alderholt%2C_a_clearing_in_Telegraph_Plantation_-_geograph.org.uk_-_1575171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Chris Downer",
+      "source_width": 640,
+      "source_height": 480,
+      "path": "assets/forest-layout/aerial-forest-clusters/14323180-alderholt-a-clearing-in-telegraph-plantation-.webp",
+      "group": "forest-layout",
+      "topic": "aerial-forest-clusters",
+      "topic_label": "空撮：林のかたまりと空間",
+      "study_focus": "林分の集団・非均一な密度・草地や水との境界・小さな開放域",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js",
+        "app/src/world/terrain-height.js"
+      ],
+      "width": 640,
+      "height": 480,
+      "bytes": 38592,
+      "sha256": "01e4a6e53b1acb90f65862446ae80cce5bb551369d4b0d708acaa425003d495c",
+      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
+      "visual_review": "pending"
+    },
+    {
       "pageid": 35484495,
       "title": "CSIRO ScienceImage 4703 Aerial view of Lester State Forest and wheat farms near Coolamon NSW 1999.jpg",
       "source_page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4703_Aerial_view_of_Lester_State_Forest_and_wheat_farms_near_Coolamon_NSW_1999.jpg",
@@ -6487,33 +6514,6 @@
       "height": 830,
       "bytes": 220440,
       "sha256": "6581a3d4048cf91c43b5ddf82e1bfa38fa2b9c771cd1a2f43af000e33b474762",
-      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
-      "visual_review": "pending"
-    },
-    {
-      "pageid": 64195791,
-      "title": "Aerial photographs of North Rhine-Westphalia 2013 14.jpg",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_North_Rhine-Westphalia_2013_14.jpg",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Aerial_photographs_of_North_Rhine-Westphalia_2013_14.jpg/1280px-Aerial_photographs_of_North_Rhine-Westphalia_2013_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "license": "CC BY 2.0",
-      "license_url": "https://creativecommons.org/licenses/by/2.0",
-      "artist": "flightlog",
-      "source_width": 3872,
-      "source_height": 2592,
-      "path": "assets/forest-layout/aerial-forest-clusters/64195791-aerial-photographs-of-north-rhine-westphalia-.webp",
-      "group": "forest-layout",
-      "topic": "aerial-forest-clusters",
-      "topic_label": "空撮：林のかたまりと空間",
-      "study_focus": "林分の集団・非均一な密度・草地や水との境界・小さな開放域",
-      "related_code": [
-        "app/src/world/nature.js",
-        "app/src/world/landscape.js",
-        "app/src/world/terrain-height.js"
-      ],
-      "width": 1280,
-      "height": 857,
-      "bytes": 210878,
-      "sha256": "ab9212d521f53ff2c7e1a4bed55c8948e0553718cb3fa4c7f483cb2d6ab49ead",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },
@@ -6622,33 +6622,6 @@
       "height": 1280,
       "bytes": 419296,
       "sha256": "f5c11136aef15b175b49bc806f054c409b35164f91a7b9297674b5c7bbe7f8c8",
-      "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
-      "visual_review": "pending"
-    },
-    {
-      "pageid": 9289284,
-      "title": "Mill Lane crossing the Lymington River east of Brockenhurst, New Forest - geograph.org.uk - 170820.jpg",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Mill_Lane_crossing_the_Lymington_River_east_of_Brockenhurst%2C_New_Forest_-_geograph.org.uk_-_170820.jpg",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mill_Lane_crossing_the_Lymington_River_east_of_Brockenhurst%2C_New_Forest_-_geograph.org.uk_-_170820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "license": "CC BY-SA 2.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "artist": "Jim Champion",
-      "source_width": 480,
-      "source_height": 640,
-      "path": "assets/forest-layout/uneven-age-stands/9289284-mill-lane-crossing-the-lymington-river-east-o.webp",
-      "group": "forest-layout",
-      "topic": "uneven-age-stands",
-      "topic_label": "太さと高さが異なる木の混在",
-      "study_focus": "高木・中木・若木が混じる自然林で、幹径と樹高のばらつきを観察",
-      "related_code": [
-        "app/src/world/nature.js",
-        "app/src/world/landscape.js",
-        "app/src/world/terrain-height.js"
-      ],
-      "width": 480,
-      "height": 640,
-      "bytes": 83400,
-      "sha256": "5e37d6b1cb431d709ba2eae514aba1c7bf424776ccd61c1315430f9225a8575a",
       "conversion": "Wikimedia thumbnail scaled to <=1280px; WebP quality 75; EXIF stripped",
       "visual_review": "pending"
     },

@@ -26,13 +26,13 @@ Gunung Nuang summit forest canopy aerial view.webp — Kay Du / [CC BY-SA 4.0](h
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
 
+![Alderholt, a clearing in Telegraph Plantation - geograph.org.uk - 1575171.jpg](../assets/forest-layout/aerial-forest-clusters/14323180-alderholt-a-clearing-in-telegraph-plantation-.webp)
+
+Alderholt, a clearing in Telegraph Plantation - geograph.org.uk - 1575171.jpg — Chris Downer / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Alderholt%2C_a_clearing_in_Telegraph_Plantation_-_geograph.org.uk_-_1575171.jpg)
+
 ![CSIRO ScienceImage 4703 Aerial view of Lester State Forest and wheat farms near Coolamon NSW 1999.jpg](../assets/forest-layout/aerial-forest-clusters/35484495-csiro-scienceimage-4703-aerial-view-of-lester.webp)
 
 CSIRO ScienceImage 4703 Aerial view of Lester State Forest and wheat farms near Coolamon NSW 1999.jpg — Gregory Heath, CSIRO / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4703_Aerial_view_of_Lester_State_Forest_and_wheat_farms_near_Coolamon_NSW_1999.jpg)
-
-![Aerial photographs of North Rhine-Westphalia 2013 14.jpg](../assets/forest-layout/aerial-forest-clusters/64195791-aerial-photographs-of-north-rhine-westphalia-.webp)
-
-Aerial photographs of North Rhine-Westphalia 2013 14.jpg — flightlog / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_North_Rhine-Westphalia_2013_14.jpg)
 
 ![Brandelhow Point and Western Shoreline of Derwent Water from Catbells - May 2025.jpg](../assets/forest-layout/aerial-forest-clusters/169979325-brandelhow-point-and-western-shoreline-of-der.webp)
 
@@ -61,10 +61,6 @@ Looking up into a dense green forest canopy.jpg — Krishna k. sahh / [CC0](http
 制作で見るところ：高木・中木・若木が混じる自然林で、幹径と樹高のばらつきを観察
 
 関連コード：`app/src/world/nature.js`、`app/src/world/landscape.js`、`app/src/world/terrain-height.js`
-
-![Mill Lane crossing the Lymington River east of Brockenhurst, New Forest - geograph.org.uk - 170820.jpg](../assets/forest-layout/uneven-age-stands/9289284-mill-lane-crossing-the-lymington-river-east-o.webp)
-
-Mill Lane crossing the Lymington River east of Brockenhurst, New Forest - geograph.org.uk - 170820.jpg — Jim Champion / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Mill_Lane_crossing_the_Lymington_River_east_of_Brockenhurst%2C_New_Forest_-_geograph.org.uk_-_170820.jpg)
 
 ![Mixed woodland - geograph.org.uk - 860591.jpg](../assets/forest-layout/uneven-age-stands/13549916-mixed-woodland-geograph-org-uk-860591.webp)
 
