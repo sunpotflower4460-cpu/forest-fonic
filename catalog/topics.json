@@ -382,8 +382,9 @@
         "app/src/world/ranch-structures.js"
       ],
       "queries": [
-        "traditional farmyard",
-        "farm courtyard barn"
+        "farmyard",
+        "farm buildings courtyard",
+        "farmyard barn"
       ]
     },
     {
@@ -518,8 +519,9 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "small shopfront street",
-        "traditional storefront"
+        "shop front",
+        "shopfront",
+        "small shops street"
       ]
     },
     {
@@ -791,8 +793,9 @@
         "app/src/world/sky-restaurant.js"
       ],
       "queries": [
-        "warm lantern village night",
-        "lanterns evening street"
+        "lanterns night street",
+        "warm lantern outdoor",
+        "village lanterns night"
       ]
     },
     {
@@ -902,8 +905,9 @@
         "app/src/world/ranch-meshes.js"
       ],
       "queries": [
-        "cow side view pasture",
-        "cattle standing grass"
+        "cow standing",
+        "cows grazing",
+        "cattle farm"
       ]
     },
     {
@@ -944,8 +948,9 @@
         "app/src/world/ranch-meshes.js"
       ],
       "queries": [
-        "goat farm animal",
-        "goats pasture"
+        "goat standing",
+        "goats grazing field",
+        "goat horns"
       ]
     },
     {
@@ -986,8 +991,9 @@
         "app/src/systems/animals.js"
       ],
       "queries": [
-        "songbird perched branch",
-        "small bird woodland"
+        "bird perched branch",
+        "songbird on branch",
+        "sparrow perched"
       ]
     },
     {
@@ -1054,8 +1060,9 @@
         "app/src/world/ranch-structures.js"
       ],
       "queries": [
-        "farm water trough",
-        "garden watering can farm"
+        "watering can",
+        "farm tools",
+        "water trough"
       ]
     },
     {
@@ -1067,8 +1074,9 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "flower pots village street",
-        "flowers window box old town"
+        "flower pots",
+        "flower window boxes",
+        "flowers balcony"
       ]
     },
     {
@@ -1081,8 +1089,9 @@
         "app/src/world/town.js"
       ],
       "queries": [
-        "bicycle parked village wall",
-        "bicycle in cobblestone alley"
+        "bicycle leaning wall",
+        "bicycle parked street",
+        "bicycle cobblestone"
       ]
     },
     {

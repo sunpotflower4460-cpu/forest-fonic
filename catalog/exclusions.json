@@ -2,6 +2,11 @@
   "schema_version": 1,
   "description": "Human-reviewed title/source mismatches in the first automated photo batch. Generated copies only; re-select alternatives.",
   "excluded": {
+    "13028315": {
+      "topic": "goats",
+      "title": "Goat house at The Animal Farm at Tannaghmore Gardens - geograph.org.uk - 504467.jpg",
+      "reason": "Title/source mismatch: not a direct reference photo for this topic"
+    },
     "21920479": {
       "topic": "river-stones",
       "title": "The Holy Water Collection Basin in the Church at the Monastery of Na’akuto La’ab (3422175620).jpg",
@@ -16,6 +21,11 @@
       "topic": "winter-trees",
       "title": "元 佚名 古木寒鴉圖 團扇-Crows and Bare Trees in Winter MET DP153531.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
+    },
+    "58447886": {
+      "topic": "farmyards",
+      "title": "Norland Scarecrow Festival- Old Macdonald had a Farm ... (21180029881).jpg",
+      "reason": "Title/source mismatch: not a direct reference photo for this topic"
     },
     "74886679": {
       "topic": "flower-shops",
@@ -87,6 +97,11 @@
       "title": "A depiction of a traditional Meitei thatched roofed house of Ancient Kangleipak civilisation (early Manipur realm) 01.jpg",
       "reason": "Artwork or illustration; not an architectural/nature photograph"
     },
+    "156325378": {
+      "topic": "forest-birds",
+      "title": "Gateway to field with small woodland on SE side of road at Bird's Hill - geograph.org.uk - 7038162.jpg",
+      "reason": "Title/source mismatch: not a direct reference photo for this topic"
+    },
     "170300276": {
       "topic": "shopfronts",
       "title": "Aerial view of Chatham Town Centre (High Street).jpg",
@@ -96,6 +111,16 @@
       "topic": "cafes-and-bakeries",
       "title": "ECB Storefront.jpg",
       "reason": "Not sufficiently relevant or duplicate preview for this topic"
+    },
+    "199974421": {
+      "topic": "shopfronts",
+      "title": "DZ3 0946 Nighttime street shrine and offerings beside a lit shopfront in Nong Pla Lai Pattaya City.jpg",
+      "reason": "Title/source mismatch: not a direct reference photo for this topic"
+    },
+    "200642494": {
+      "topic": "forest-birds",
+      "title": "Azure Ember.png",
+      "reason": "Title/source mismatch: not a direct reference photo for this topic"
     }
   }
 }
