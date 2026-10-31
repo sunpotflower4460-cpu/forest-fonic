@@ -1,0 +1,1157 @@
+{
+  "schema_version": 1,
+  "description": "Nature, animals, life and town reference topics for Kokoro-no-ehon",
+  "topics": [
+    {
+      "group": "forest",
+      "slug": "forest-trails",
+      "label": "森の小道・土の起伏",
+      "focus": "木々の間隔、道幅、落葉、足元の連続性",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/landscape.js"
+      ],
+      "queries": [
+        "forest trail",
+        "woodland path"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "tree-canopies",
+      "label": "樹冠・枝と葉の重なり",
+      "focus": "樹冠の外形、葉群の隙間、枝の付き方",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/lab/trees.js"
+      ],
+      "queries": [
+        "deciduous tree canopy",
+        "tree branches leaves"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "bark-and-roots",
+      "label": "樹皮と根",
+      "focus": "樹皮の縦方向の凹凸、地表に出る根",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/textures.js"
+      ],
+      "queries": [
+        "tree bark closeup",
+        "exposed tree roots"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "moss-and-ferns",
+      "label": "苔とシダ",
+      "focus": "低層植生の密度と葉の重なり",
+      "related_code": [
+        "app/src/world/nature.js"
+      ],
+      "queries": [
+        "moss forest floor",
+        "fern woodland"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "bamboo-groves",
+      "label": "竹林",
+      "focus": "節と幹の細さ、葉群、林内の光",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "bamboo grove",
+        "bamboo forest path"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "forest-edge",
+      "label": "森と草原の境目",
+      "focus": "樹木密度の遷移、低木と草の階層",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/meadow.js"
+      ],
+      "queries": [
+        "forest edge meadow",
+        "woodland clearing"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "hedges-and-shrubs",
+      "label": "生垣と低木",
+      "focus": "剪定形と自然形、葉の密集・透け",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "garden hedge bushes",
+        "hedgerow countryside"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "autumn-trees",
+      "label": "秋の木々",
+      "focus": "樹種ごとの落葉と紅葉の偏り",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/lab/seasons.js"
+      ],
+      "queries": [
+        "autumn woodland trees",
+        "autumn tree branches"
+      ]
+    },
+    {
+      "group": "forest",
+      "slug": "winter-trees",
+      "label": "冬の樹形",
+      "focus": "葉が落ちた枝の分岐・雪の乗り方",
+      "related_code": [
+        "app/src/world/nature.js",
+        "app/src/lab/seasons.js"
+      ],
+      "queries": [
+        "bare winter tree",
+        "snow on tree branches"
+      ]
+    },
+    {
+      "group": "meadow",
+      "slug": "grassland",
+      "label": "草原と風",
+      "focus": "草丈・群落の斑・風向の見え方",
+      "related_code": [
+        "app/src/world/meadow.js",
+        "app/src/world/nature.js"
+      ],
+      "queries": [
+        "wild grassland meadow",
+        "green meadow landscape"
+      ]
+    },
+    {
+      "group": "meadow",
+      "slug": "wildflowers",
+      "label": "野花の群生",
+      "focus": "色の偏り・株間・開花高さ",
+      "related_code": [
+        "app/src/world/plant-meshes.js",
+        "app/src/world/meadow.js"
+      ],
+      "queries": [
+        "wildflower meadow",
+        "meadow flowers"
+      ]
+    },
+    {
+      "group": "meadow",
+      "slug": "garden-beds",
+      "label": "庭の花壇",
+      "focus": "植え分け、道端の小花、土との境界",
+      "related_code": [
+        "app/src/world/plant-meshes.js",
+        "app/src/systems/garden-view.js"
+      ],
+      "queries": [
+        "cottage flower garden",
+        "flower bed garden"
+      ]
+    },
+    {
+      "group": "meadow",
+      "slug": "orchards",
+      "label": "果樹園",
+      "focus": "樹間、幹の高さ、花・実の位置",
+      "related_code": [
+        "app/src/world/road.js",
+        "app/src/world/farm-meshes.js"
+      ],
+      "queries": [
+        "apple orchard trees",
+        "fruit orchard spring"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "small-streams",
+      "label": "小川と泉",
+      "focus": "水の透明度、曲がり、川縁の植生",
+      "related_code": [
+        "app/src/world/landscape.js",
+        "app/src/lab/stream.js"
+      ],
+      "queries": [
+        "small woodland stream",
+        "spring stream rocks"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "riverbanks",
+      "label": "河岸と水辺の草",
+      "focus": "水位線、土の浸食、岸辺の草",
+      "related_code": [
+        "app/src/world/landscape.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "riverbank vegetation",
+        "small river countryside"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "river-stones",
+      "label": "川石と浅瀬",
+      "focus": "水中の石の丸さ、濡れた面の反射",
+      "related_code": [
+        "app/src/world/landscape.js",
+        "app/src/world/nature.js"
+      ],
+      "queries": [
+        "river stones shallow water",
+        "pebbles creek bed"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "lake-shores",
+      "label": "湖畔",
+      "focus": "水面と岸の接続、葦・砂利・反射",
+      "related_code": [
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "calm lake shore",
+        "lakeside reeds"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "waterfalls",
+      "label": "滝と水しぶき",
+      "focus": "流れの分岐、岩との接触、霧",
+      "related_code": [
+        "app/src/world/landscape.js"
+      ],
+      "queries": [
+        "small waterfall forest",
+        "waterfall rocks"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "wetlands",
+      "label": "湿地と葦",
+      "focus": "水面の細分化、植物の密度",
+      "related_code": [
+        "app/src/world/landscape.js"
+      ],
+      "queries": [
+        "wetland reeds",
+        "marsh pond vegetation"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "seashores",
+      "label": "海岸と入り江",
+      "focus": "砂・岩・水面、遠景の色の層",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/sky-restaurant.js"
+      ],
+      "queries": [
+        "coastline quiet bay",
+        "rocky seashore"
+      ]
+    },
+    {
+      "group": "terrain",
+      "slug": "rolling-hills",
+      "label": "丘と谷",
+      "focus": "尾根のうねり、斜面の植生・遠景",
+      "related_code": [
+        "app/src/world/terrain-height.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "rolling green hills",
+        "grass hillside landscape"
+      ]
+    },
+    {
+      "group": "terrain",
+      "slug": "distant-mountains",
+      "label": "山並みと遠景",
+      "focus": "山の重なりと空気遠近法",
+      "related_code": [
+        "app/src/world/terrain-height.js",
+        "app/src/world/sky-restaurant.js"
+      ],
+      "queries": [
+        "mountain valley panorama",
+        "distant mountains landscape"
+      ]
+    },
+    {
+      "group": "terrain",
+      "slug": "mossy-rocks",
+      "label": "苔のある岩",
+      "focus": "岩の割れ方、苔の付く面、地面への埋まり",
+      "related_code": [
+        "app/src/world/nature.js"
+      ],
+      "queries": [
+        "mossy forest rocks",
+        "lichen boulder"
+      ]
+    },
+    {
+      "group": "terrain",
+      "slug": "earth-paths",
+      "label": "土道と砂利",
+      "focus": "踏み固め、轍、水はけ、端の草",
+      "related_code": [
+        "app/src/world/landscape.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "gravel country path",
+        "earth dirt road rural"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "pastures",
+      "label": "牧草地",
+      "focus": "柵・動物・傾斜・草丈の組み合わせ",
+      "related_code": [
+        "app/src/world/ranch-meshes.js",
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "cattle grazing pasture",
+        "sheep green pasture"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "farm-barns",
+      "label": "納屋と牧舎",
+      "focus": "外壁の板張り、入口、屋根勾配、規模",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "red wooden barn",
+        "traditional wooden farm barn"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "farm-fences",
+      "label": "牧場の木柵",
+      "focus": "柱間隔、横木の数、足元の地形との接続",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "wooden pasture fence",
+        "wooden ranch fence"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "farmyards",
+      "label": "農家の庭先",
+      "focus": "建物と道具の配置、泥・砂利・干し草",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "farmyard",
+        "farm buildings courtyard",
+        "farmyard barn"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "hay-and-straw",
+      "label": "干し草と藁",
+      "focus": "束の密度、干し草の表面と積み方",
+      "related_code": [
+        "app/src/world/ranch-structures.js",
+        "app/src/world/textures.js"
+      ],
+      "queries": [
+        "hay bales farm",
+        "straw hay closeup"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "vegetable-fields",
+      "label": "畑と野菜",
+      "focus": "畝、株間、季節による葉・土の見え方",
+      "related_code": [
+        "app/src/world/plant-meshes.js",
+        "app/src/world/farm-meshes.js"
+      ],
+      "queries": [
+        "vegetable garden rows",
+        "vegetable farm field"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "rice-paddies",
+      "label": "水田",
+      "focus": "畦、水平な水面、稲の密度と高さ",
+      "related_code": [
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "rice paddy rural landscape",
+        "green rice fields"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "greenhouses",
+      "label": "温室と育苗",
+      "focus": "骨組・透明素材の反射、内部の列",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "garden greenhouse",
+        "small farm greenhouse"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "farmhouses",
+      "label": "田舎の農家",
+      "focus": "屋根形状と生活道具、庭と道の接続",
+      "related_code": [
+        "app/src/world/road.js",
+        "app/src/world/house.js"
+      ],
+      "queries": [
+        "rural farmhouse exterior",
+        "traditional country farmhouse"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "water-pumps",
+      "label": "井戸と水汲み",
+      "focus": "水道具の大きさ、木桶や給水槽との関係",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "old farm water pump",
+        "village well water"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "village-lanes",
+      "label": "集落の細道",
+      "focus": "街路幅、敷地境界、家と自然の混在",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "rural village street",
+        "old village lane"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "small-cottages",
+      "label": "小さな家",
+      "focus": "開口部比率・屋根勾配・庭とのつながり",
+      "related_code": [
+        "app/src/world/cottage.js",
+        "app/src/world/house.js"
+      ],
+      "queries": [
+        "country cottage exterior",
+        "small timber cottage"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "timber-facades",
+      "label": "木骨と漆喰の外壁",
+      "focus": "柱・梁・窓の配置、素材の境界",
+      "related_code": [
+        "app/src/world/house.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "half timbered house facade",
+        "timber frame cottage"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "shopfronts",
+      "label": "商店の店先",
+      "focus": "商品・日除け・看板・開口部の奥行き",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "traditional shopfront",
+        "bakery shopfront",
+        "small shops exterior",
+        "shops old town street"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "flower-shops",
+      "label": "花屋の店先",
+      "focus": "鉢植え、花桶、歩道へのにじみ出し",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "flower shop exterior",
+        "florist shop storefront"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "cafes-and-bakeries",
+      "label": "喫茶店とパン屋",
+      "focus": "日除け、ガラス窓、テラスと暖かな光",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "cozy cafe exterior street",
+        "bakery storefront"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "town-plazas",
+      "label": "町の広場",
+      "focus": "噴水・樹木・ベンチと人の動線",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "small town square fountain",
+        "village square plaza"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "market-stalls",
+      "label": "市と屋台",
+      "focus": "屋根布の張り方、棚と通路、生活感",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "outdoor market stalls",
+        "village market street"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "bus-stops",
+      "label": "バス停と待合所",
+      "focus": "屋根・ベンチ・標識と道路の位置関係",
+      "related_code": [
+        "app/src/world/bus-stop.js",
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "rural bus stop shelter",
+        "wooden bus stop"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "country-buses",
+      "label": "田舎のバス",
+      "focus": "車体比率、窓の連続、道との大きさ関係",
+      "related_code": [
+        "app/src/world/vehicles.js",
+        "app/src/systems/bus.js"
+      ],
+      "queries": [
+        "countryside bus",
+        "vintage country bus"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "stone-bridges",
+      "label": "石橋",
+      "focus": "アーチ・欄干・橋台と川岸の接続",
+      "related_code": [
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "stone arch bridge river",
+        "old stone pedestrian bridge"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "cobblestone-streets",
+      "label": "石畳の道",
+      "focus": "敷石の寸法、継ぎ目、色ムラ",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/textures.js"
+      ],
+      "queries": [
+        "cobblestone old street",
+        "stone paving village"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "street-lights",
+      "label": "街灯と行灯",
+      "focus": "柱・灯具の比率、地面の明かり",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "old street lamp",
+        "village lantern street"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "park-benches",
+      "label": "公園のベンチ",
+      "focus": "木陰と休憩場所、低い柵・小径",
+      "related_code": [
+        "app/src/world/park.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "park bench under tree",
+        "village park bench"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "stone-walls",
+      "label": "石積みと塀",
+      "focus": "積み目・隙間の植生・高さの変化",
+      "related_code": [
+        "app/src/world/road.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "dry stone wall countryside",
+        "old stone garden wall"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "windows-and-doors",
+      "label": "窓と扉",
+      "focus": "枠の厚み、雨戸、庇、階段との取り合い",
+      "related_code": [
+        "app/src/world/house.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "wooden cottage window shutters",
+        "cottage front door"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "roofs-and-eaves",
+      "label": "屋根と軒先",
+      "focus": "勾配・軒の出・瓦や板の重なり",
+      "related_code": [
+        "app/src/world/house.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "cottage roof eaves",
+        "roof tiles old village"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "harbor-village",
+      "label": "海辺の町",
+      "focus": "海岸と建物の高さ、道の終わり方",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "small coastal village street",
+        "fishing harbor village"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "forest-sunbeams",
+      "label": "木漏れ日",
+      "focus": "影の輪郭、葉群による光の切れ方",
+      "related_code": [
+        "app/src/lab/light.js",
+        "app/src/world/materials.js"
+      ],
+      "queries": [
+        "sunbeams forest trees",
+        "dappled sunlight woodland"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "morning-mist",
+      "label": "朝靄",
+      "focus": "奥行きの消え方、低い位置の霧",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/world/landscape.js"
+      ],
+      "queries": [
+        "morning fog meadow",
+        "misty village morning"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "golden-hour",
+      "label": "夕暮れの色",
+      "focus": "低い太陽、暖色の縁、長い影",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/lab/light.js"
+      ],
+      "queries": [
+        "golden hour countryside",
+        "sunset rural landscape"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "rainy-streets",
+      "label": "雨上がりの街",
+      "focus": "濡れた路面の反射・空気色",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/lab/light.js"
+      ],
+      "queries": [
+        "rain wet cobblestone street",
+        "rainy village road"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "cloud-skies",
+      "label": "雲と空",
+      "focus": "雲層、地平線近くの明るさ、陰影",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/world/sky-restaurant.js"
+      ],
+      "queries": [
+        "cumulus clouds landscape",
+        "cloud layers sky"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "night-lanterns",
+      "label": "夜のあかり",
+      "focus": "光源周囲の減衰、窓明かり、静けさ",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/sky-restaurant.js"
+      ],
+      "queries": [
+        "lanterns night street",
+        "warm lantern outdoor",
+        "village lanterns night"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "snow-village",
+      "label": "雪の町",
+      "focus": "屋根・塀・道の積雪と薄い反射光",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/lab/seasons.js"
+      ],
+      "queries": [
+        "snow covered village street",
+        "winter town houses"
+      ]
+    },
+    {
+      "group": "materials",
+      "slug": "weathered-wood",
+      "label": "木材の経年変化",
+      "focus": "木目・節・塗装の剥がれと風雨",
+      "related_code": [
+        "app/src/world/textures.js",
+        "app/src/lab/surface.js"
+      ],
+      "queries": [
+        "weathered wood planks closeup",
+        "old timber texture"
+      ]
+    },
+    {
+      "group": "materials",
+      "slug": "stone-surfaces",
+      "label": "岩と石の質感",
+      "focus": "割れ目・層・苔の定着",
+      "related_code": [
+        "app/src/world/textures.js",
+        "app/src/lab/surface.js"
+      ],
+      "queries": [
+        "rough stone surface closeup",
+        "granite stone texture"
+      ]
+    },
+    {
+      "group": "materials",
+      "slug": "roof-materials",
+      "label": "瓦と屋根材",
+      "focus": "連続模様・重なり・端部の納まり",
+      "related_code": [
+        "app/src/world/textures.js",
+        "app/src/world/house.js"
+      ],
+      "queries": [
+        "roof tiles closeup",
+        "shingle roof closeup"
+      ]
+    },
+    {
+      "group": "materials",
+      "slug": "plaster-and-clay",
+      "label": "漆喰と土壁",
+      "focus": "コテ跡・表面ムラ・角の欠け",
+      "related_code": [
+        "app/src/world/textures.js",
+        "app/src/world/house.js"
+      ],
+      "queries": [
+        "old plaster wall texture",
+        "clay wall texture"
+      ]
+    },
+    {
+      "group": "materials",
+      "slug": "thatch",
+      "label": "茅葺きと藁葺き",
+      "focus": "茅の層・軒先の厚み・耐候の色",
+      "related_code": [
+        "app/src/world/road.js"
+      ],
+      "queries": [
+        "thatched roof closeup",
+        "traditional thatched cottage"
+      ]
+    },
+    {
+      "group": "materials",
+      "slug": "pebbles-and-gravel",
+      "label": "小石と砂利",
+      "focus": "粒度分布・土との混ざり・踏み跡",
+      "related_code": [
+        "app/src/world/landscape.js",
+        "app/src/world/textures.js"
+      ],
+      "queries": [
+        "gravel stones closeup",
+        "pebbles ground texture"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "cattle-shapes",
+      "label": "牛の体形・毛・蹄",
+      "focus": "胴体と頭部比、角、脚・蹄、毛色の分かれ目",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "cow standing",
+        "cows grazing",
+        "cattle farm"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "sheep-fleece",
+      "label": "羊と毛並み",
+      "focus": "丸い胴体と細い脚、羊毛のかたまり",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "sheep grazing field",
+        "sheep wool closeup"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "horses",
+      "label": "馬の立ち姿",
+      "focus": "首から背への曲線、足関節、たてがみ",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "horse standing pasture",
+        "horse mane closeup"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "goats",
+      "label": "ヤギの顔と角",
+      "focus": "顔の比率、角・耳の方向、脚の細さ",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "goat standing",
+        "goats grazing field",
+        "goat horns"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "farm-dogs",
+      "label": "牧場の犬",
+      "focus": "歩行姿勢・耳・毛並み・周囲との距離感",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/world/ranch-meshes.js"
+      ],
+      "queries": [
+        "farm dog outdoors",
+        "sheepdog on farm"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "village-cats",
+      "label": "町と庭の猫",
+      "focus": "姿勢、足の置き方、壁・道端での居場所",
+      "related_code": [
+        "app/src/world/animal-meshes.js",
+        "app/src/systems/cat.js"
+      ],
+      "queries": [
+        "cat in garden outdoors",
+        "cat village street"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "forest-birds",
+      "label": "樹木と小鳥",
+      "focus": "止まり木の太さと足、くちばし・羽の重なり",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/systems/animals.js"
+      ],
+      "queries": [
+        "bird perched branch",
+        "songbird on branch",
+        "sparrow perched"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "butterflies-and-bees",
+      "label": "蝶と蜂",
+      "focus": "羽の姿勢、花との大きさ関係・止まり方",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/world/plant-meshes.js"
+      ],
+      "queries": [
+        "butterfly wildflower closeup",
+        "bumblebee on flower"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "woodland-wildlife",
+      "label": "森の動物",
+      "focus": "森の中にいる時の輪郭、隠れ方、足元",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/systems/forest-life.js"
+      ],
+      "queries": [
+        "deer woodland clearing",
+        "red fox forest"
+      ]
+    },
+    {
+      "group": "animals",
+      "slug": "pond-life",
+      "label": "池と川の生き物",
+      "focus": "浅い水中の姿・水面との関係・水草",
+      "related_code": [
+        "app/src/world/life-meshes.js",
+        "app/src/systems/stream-life.js"
+      ],
+      "queries": [
+        "freshwater fish pond",
+        "frog near pond"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "barn-interiors",
+      "label": "牧舎の内部",
+      "focus": "柱・梁、寝床、入口の明暗と天井高さ",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "wooden barn interior",
+        "horse stable interior"
+      ]
+    },
+    {
+      "group": "farm",
+      "slug": "farm-tools",
+      "label": "農場の道具",
+      "focus": "飼葉桶・水桶・農具の大きさと置き方",
+      "related_code": [
+        "app/src/world/ranch-structures.js"
+      ],
+      "queries": [
+        "farm implements",
+        "old farm tools",
+        "garden tools closeup",
+        "watering can closeup"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "flowerpots-and-balconies",
+      "label": "店先の花鉢と窓辺",
+      "focus": "生活の痕跡、外壁と植物の関係",
+      "related_code": [
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "flowerpots garden",
+        "flower pots house exterior",
+        "window box flower balcony",
+        "flowers pots outside house"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "bicycles-and-alleys",
+      "label": "自転車と路地",
+      "focus": "車輪と壁・道幅の尺度感、停め方",
+      "related_code": [
+        "app/src/world/bicycle.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "bicycle leaning wall",
+        "bicycle parked street",
+        "bicycle cobblestone"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "porches-and-verandas",
+      "label": "縁側・ポーチ",
+      "focus": "床と地面の段差、柱・屋根、座る場所",
+      "related_code": [
+        "app/src/world/house.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "wooden cottage porch",
+        "farmhouse veranda"
+      ]
+    },
+    {
+      "group": "town",
+      "slug": "stone-stairs",
+      "label": "石段と庭の小道",
+      "focus": "段差の寸法、石の欠けと植物の隙間",
+      "related_code": [
+        "app/src/world/town.js",
+        "app/src/world/park.js"
+      ],
+      "queries": [
+        "stone garden steps",
+        "old outdoor stone staircase"
+      ]
+    },
+    {
+      "group": "light",
+      "slug": "twilight",
+      "label": "薄暮と青い時間",
+      "focus": "温かい窓明かりと青い空気色の釣り合い",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/lab/light.js"
+      ],
+      "queries": [
+        "blue hour village landscape",
+        "twilight countryside sky"
+      ]
+    },
+    {
+      "group": "water",
+      "slug": "sea-surface",
+      "label": "海面と波",
+      "focus": "細かな波・遠景の反射、海色の層",
+      "related_code": [
+        "app/src/world/sky.js",
+        "app/src/world/town.js"
+      ],
+      "queries": [
+        "gentle sea waves coastline",
+        "calm sea surface"
+      ]
+    }
+  ]
+}
