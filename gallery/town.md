@@ -66,6 +66,14 @@ Historic-half-timbered-house-allschwil-basel-landschaft-switzerland-1680-1700.jp
 
 Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg — Basile Morin / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg)
 
+![Traditional Irish Shopfront Ballina.jpg](../assets/town/shopfronts/98915298-traditional-irish-shopfront-ballina.webp)
+
+Traditional Irish Shopfront Ballina.jpg — RyanIRL / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Traditional_Irish_Shopfront_Ballina.jpg)
+
+![Traditional, but vacant shopfront on Newgate Street - geograph.org.uk - 6980584.jpg](../assets/town/shopfronts/155323313-traditional-but-vacant-shopfront-on-newgate-s.webp)
+
+Traditional, but vacant shopfront on Newgate Street - geograph.org.uk - 6980584.jpg — Roger Cornfoot / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Traditional%2C_but_vacant_shopfront_on_Newgate_Street_-_geograph.org.uk_-_6980584.jpg)
+
 ## 花屋の店先 — flower-shops
 
 制作で見るところ：鉢植え、花桶、歩道へのにじみ出し
@@ -324,6 +332,14 @@ The B4417 east of the small coastal village of Pistyll - geograph.org.uk - 21205
 
 関連コード：`app/src/world/town.js`
 
+![Tires as flowerpots in the school garden, 2019 Devecser.jpg](../assets/town/flowerpots-and-balconies/81526509-tires-as-flowerpots-in-the-school-garden-2019.webp)
+
+Tires as flowerpots in the school garden, 2019 Devecser.jpg — Globetrotter19 / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Tires_as_flowerpots_in_the_school_garden%2C_2019_Devecser.jpg)
+
+![Flowerpots, Kew Gardens - geograph.org.uk - 3196479.jpg](../assets/town/flowerpots-and-balconies/115052127-flowerpots-kew-gardens-geograph-org-uk-319647.webp)
+
+Flowerpots, Kew Gardens - geograph.org.uk - 3196479.jpg — Christine Matthews / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Flowerpots%2C_Kew_Gardens_-_geograph.org.uk_-_3196479.jpg)
+
 ![Many colorful flowerpots in front of Bulguksa temple in Gyeongju South Korea.jpg](../assets/town/flowerpots-and-balconies/154951406-many-colorful-flowerpots-in-front-of-bulguksa.webp)
 
 Many colorful flowerpots in front of Bulguksa temple in Gyeongju South Korea.jpg — Basile Morin / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Many_colorful_flowerpots_in_front_of_Bulguksa_temple_in_Gyeongju_South_Korea.jpg)
@@ -341,6 +357,10 @@ Tung Kok Wai 11.JPG — Underwaterbuffalo / [CC BY-SA 3.0](https://creativecommo
 ![Rusty bicycle leaning against the wall of the Statarlängan house, Skansen, Stockholm, Sweden julesvernex2.jpg](../assets/town/bicycles-and-alleys/145743978-rusty-bicycle-leaning-against-the-wall-of-the.webp)
 
 Rusty bicycle leaning against the wall of the Statarlängan house, Skansen, Stockholm, Sweden julesvernex2.jpg — Jules Verne Times Two / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Rusty_bicycle_leaning_against_the_wall_of_the_Statarl%C3%A4ngan_house%2C_Skansen%2C_Stockholm%2C_Sweden_julesvernex2.jpg)
+
+![Old Bicycle Leaning on Wall.jpg](../assets/town/bicycles-and-alleys/162891769-old-bicycle-leaning-on-wall.webp)
+
+Old Bicycle Leaning on Wall.jpg — TopmanJnr1 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Old_Bicycle_Leaning_on_Wall.jpg)
 
 ## 縁側・ポーチ — porches-and-verandas
 

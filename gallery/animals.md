@@ -88,6 +88,10 @@ Border Collie sheepdog trial.jpg — Scot Campbell / [CC BY-SA 2.0](https://crea
 
 Sheepdog working Sheep Swaythorpe - geograph.org.uk - 1128045.jpg — martin dawes / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sheepdog_working_Sheep_Swaythorpe_-_geograph.org.uk_-_1128045.jpg)
 
+![Sheepdog weather vane on Pillmawr Road farm building, Newport - geograph.org.uk - 1711339.jpg](../assets/animals/farm-dogs/14438356-sheepdog-weather-vane-on-pillmawr-road-farm-b.webp)
+
+Sheepdog weather vane on Pillmawr Road farm building, Newport - geograph.org.uk - 1711339.jpg — John Grayson / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Sheepdog_weather_vane_on_Pillmawr_Road_farm_building%2C_Newport_-_geograph.org.uk_-_1711339.jpg)
+
 ## 町と庭の猫 — village-cats
 
 制作で見るところ：姿勢、足の置き方、壁・道端での居場所
@@ -115,6 +119,10 @@ Cats at Houtong Cat Village February 2026.jpg — 4300streetcar / [CC BY 4.0](ht
 ![Small bird perching on a branch.jpg](../assets/animals/forest-birds/41275769-small-bird-perching-on-a-branch.webp)
 
 Small bird perching on a branch.jpg — Laitche / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_bird_perching_on_a_branch.jpg)
+
+![Mourning dove perched (61179).jpg](../assets/animals/forest-birds/131684978-mourning-dove-perched-61179.webp)
+
+Mourning dove perched (61179).jpg — Rhododendrites / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Mourning_dove_perched_%2861179%29.jpg)
 
 ![Grey-backed tailorbird.jpg](../assets/animals/forest-birds/196186271-grey-backed-tailorbird.webp)
 
