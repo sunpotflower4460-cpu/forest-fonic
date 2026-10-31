@@ -9,6 +9,7 @@ on:
       - .github/workflows/collect-commons.yml
       - scripts/collect_commons.py
       - catalog/topics.json
+      - catalog/exclusions.json
   workflow_dispatch:
 
 permissions:
