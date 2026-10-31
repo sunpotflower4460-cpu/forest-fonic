@@ -12,6 +12,10 @@
 
 Small woodland stream - geograph.org.uk - 121892.jpg — Nigel Chadwick / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_woodland_stream_-_geograph.org.uk_-_121892.jpg)
 
+![Small woodland stream - geograph.org.uk - 6509713.jpg](../assets/water/small-streams/150571188-small-woodland-stream-geograph-org-uk-6509713.webp)
+
+Small woodland stream - geograph.org.uk - 6509713.jpg — N Chadwick / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_woodland_stream_-_geograph.org.uk_-_6509713.jpg)
+
 ![Small woodland stream - geograph.org.uk - 6729045.jpg](../assets/water/small-streams/152819185-small-woodland-stream-geograph-org-uk-6729045.webp)
 
 Small woodland stream - geograph.org.uk - 6729045.jpg — N Chadwick / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_woodland_stream_-_geograph.org.uk_-_6729045.jpg)
@@ -26,6 +30,10 @@ Small woodland stream - geograph.org.uk - 6729045.jpg — N Chadwick / [CC BY-SA
 
 Low riverbank vegetation in Krupanj-March 2026.jpg — Ljiljana Krupanj / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Low_riverbank_vegetation_in_Krupanj-March_2026.jpg)
 
+![Riverbank with Palm Vegetation and Wooden Canoes, Okoroutip, Ibeno, Akwa Ibom Nigeria.jpg](../assets/water/riverbanks/194902417-riverbank-with-palm-vegetation-and-wooden-can.webp)
+
+Riverbank with Palm Vegetation and Wooden Canoes, Okoroutip, Ibeno, Akwa Ibom Nigeria.jpg — GodswillSE / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Riverbank_with_Palm_Vegetation_and_Wooden_Canoes%2C_Okoroutip%2C_Ibeno%2C_Akwa_Ibom_Nigeria.jpg)
+
 ![Riverbank with Palm Vegetation and Wooden Canoes in Ibeno, Akwa Ibom, Nigeria.jpg](../assets/water/riverbanks/194903160-riverbank-with-palm-vegetation-and-wooden-can.webp)
 
 Riverbank with Palm Vegetation and Wooden Canoes in Ibeno, Akwa Ibom, Nigeria.jpg — GodswillSE / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Riverbank_with_Palm_Vegetation_and_Wooden_Canoes_in_Ibeno%2C_Akwa_Ibom%2C_Nigeria.jpg)
@@ -36,9 +44,9 @@ Riverbank with Palm Vegetation and Wooden Canoes in Ibeno, Akwa Ibom, Nigeria.jp
 
 関連コード：`app/src/world/landscape.js`、`app/src/world/nature.js`
 
-![The Holy Water Collection Basin in the Church at the Monastery of Na’akuto La’ab (3422175620).jpg](../assets/water/river-stones/21920479-the-holy-water-collection-basin-in-the-church.webp)
+![View south along an old fish yair - geograph.org.uk - 1055008.jpg](../assets/water/river-stones/13764280-view-south-along-an-old-fish-yair-geograph-or.webp)
 
-The Holy Water Collection Basin in the Church at the Monastery of Na’akuto La’ab (3422175620).jpg — A. Davey from Where I Live Now: Pacific Northwest / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:The_Holy_Water_Collection_Basin_in_the_Church_at_the_Monastery_of_Na%E2%80%99akuto_La%E2%80%99ab_%283422175620%29.jpg)
+View south along an old fish yair - geograph.org.uk - 1055008.jpg — Lairich Rig / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:View_south_along_an_old_fish_yair_-_geograph.org.uk_-_1055008.jpg)
 
 ![Watching the McKenzie River Flow.jpg](../assets/water/river-stones/189193275-watching-the-mckenzie-river-flow.webp)
 
@@ -58,19 +66,27 @@ A Calm Rainy Morning in Late Autumn at Browne Lake Provincial Park.JPG — Extem
 
 Calm Winter Afternoon at Okanagan Mountain Provincial Park.JPG — Extemporalist / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Calm_Winter_Afternoon_at_Okanagan_Mountain_Provincial_Park.JPG)
 
+![A calm lake side.jpg](../assets/water/lake-shores/130363515-a-calm-lake-side.webp)
+
+A calm lake side.jpg — Atyang344 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:A_calm_lake_side.jpg)
+
 ## 滝と水しぶき — waterfalls
 
 制作で見るところ：流れの分岐、岩との接触、霧
 
 関連コード：`app/src/world/landscape.js`
 
+![Small Waterfall in Strathyre Forest - geograph.org.uk - 866206.jpg](../assets/water/waterfalls/13551962-small-waterfall-in-strathyre-forest-geograph-.webp)
+
+Small Waterfall in Strathyre Forest - geograph.org.uk - 866206.jpg — Iain Thompson / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_Waterfall_in_Strathyre_Forest_-_geograph.org.uk_-_866206.jpg)
+
 ![Small waterfall in a forest (Unsplash).jpg](../assets/water/waterfalls/61885368-small-waterfall-in-a-forest-unsplash.webp)
 
 Small waterfall in a forest (Unsplash).jpg — Mark Basarab ignitedit / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Small_waterfall_in_a_forest_%28Unsplash%29.jpg)
 
-![Thomas Sully - Small Waterfall in Forest - B1981.25.2756 - Yale Center for British Art.jpg](../assets/water/waterfalls/113224965-thomas-sully-small-waterfall-in-forest-b1981-.webp)
+![Small waterfall in Grizedale Forest - geograph.org.uk - 7567828.jpg](../assets/water/waterfalls/163985100-small-waterfall-in-grizedale-forest-geograph-.webp)
 
-Thomas Sully - Small Waterfall in Forest - B1981.25.2756 - Yale Center for British Art.jpg — Thomas Sully / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Thomas_Sully_-_Small_Waterfall_in_Forest_-_B1981.25.2756_-_Yale_Center_for_British_Art.jpg)
+Small waterfall in Grizedale Forest - geograph.org.uk - 7567828.jpg — Graham Hogg / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_waterfall_in_Grizedale_Forest_-_geograph.org.uk_-_7567828.jpg)
 
 ## 湿地と葦 — wetlands
 
@@ -81,6 +97,10 @@ Thomas Sully - Small Waterfall in Forest - B1981.25.2756 - Yale Center for Briti
 ![View of Severn Estuary Through Reeds From Newport Wetlands RSPB Reserve.JPG](../assets/water/wetlands/39524360-view-of-severn-estuary-through-reeds-from-new.webp)
 
 View of Severn Estuary Through Reeds From Newport Wetlands RSPB Reserve.JPG — Imagesincommons / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:View_of_Severn_Estuary_Through_Reeds_From_Newport_Wetlands_RSPB_Reserve.JPG)
+
+![Common reeds at Pollardstown Fen.jpg](../assets/water/wetlands/119370774-common-reeds-at-pollardstown-fen.webp)
+
+Common reeds at Pollardstown Fen.jpg — WillingCatSlave / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Common_reeds_at_Pollardstown_Fen.jpg)
 
 ![Reedbed of the subassociation Typho-Phragmitetum thelypteridetosum.jpg](../assets/water/wetlands/128565444-reedbed-of-the-subassociation-typho-phragmite.webp)
 
@@ -99,4 +119,22 @@ Ilha de Paquetá - Rio de Janeiro 07.JPG — VinyNeto / [CC BY-SA 3.0](https://c
 ![Maalaea Bay Harbor on Maui - James Brennan Molokai Hawaii - panoramio.jpg](../assets/water/seashores/57745997-maalaea-bay-harbor-on-maui-james-brennan-molo.webp)
 
 Maalaea Bay Harbor on Maui - James Brennan Molokai Hawaii - panoramio.jpg — James Brennan Moloka… / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Maalaea_Bay_Harbor_on_Maui_-_James_Brennan_Molokai_Hawaii_-_panoramio.jpg)
+
+![Mapoutahi Pa (Goat Island Blueskin Bay) (4506262890).jpg](../assets/water/seashores/89245284-mapoutahi-pa-goat-island-blueskin-bay-4506262.webp)
+
+Mapoutahi Pa (Goat Island Blueskin Bay) (4506262890).jpg — Alistair Paterson from Dunedin, New Zealand / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Mapoutahi_Pa_%28Goat_Island_Blueskin_Bay%29_%284506262890%29.jpg)
+
+## 海面と波 — sea-surface
+
+制作で見るところ：細かな波・遠景の反射、海色の層
+
+関連コード：`app/src/world/sky.js`、`app/src/world/town.js`
+
+![MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt Mot sør Kveldssol Skåetangen Oskjær (Rocky coastline Archipelago Wind Waves Turbulent Sea spray spla.jpg](../assets/water/sea-surface/138841621-moutmarka-f-rder-nasjonalpark-t-nsbergfjorden.webp)
+
+MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt Mot sør Kveldssol Skåetangen Oskjær (Rocky coastline Archipelago Wind Waves Turbulent Sea spray spla.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:MOUTMARKA_F%C3%A6rder_nasjonalpark_T%C3%B8nsbergfjorden_2023-10-11_%28Tj%C3%B8me_Oslofjorden_Norway%29_Svaberg_Fj%C3%A6re_Hav_Vind_B%C3%B8lger_Sj%C3%B8spr%C3%B8yt_Mot_s%C3%B8r_Kveldssol_Sk%C3%A5etangen_Oskj%C3%A6r_%28Rocky_coastline_Archipelago_Wind_Waves_Turbulent_Sea_spray_spla.jpg)
+
+![MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt eullesteinsstrand Mot sør Skåebukta (Rocky coastline Archipelago Wind Waves Turbulent Sea splash pebbl.jpg](../assets/water/sea-surface/138841634-moutmarka-f-rder-nasjonalpark-t-nsbergfjorden.webp)
+
+MOUTMARKA Færder nasjonalpark Tønsbergfjorden 2023-10-11 (Tjøme Oslofjorden Norway) Svaberg Fjære Hav Vind Bølger Sjøsprøyt eullesteinsstrand Mot sør Skåebukta (Rocky coastline Archipelago Wind Waves Turbulent Sea splash pebbl.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:MOUTMARKA_F%C3%A6rder_nasjonalpark_T%C3%B8nsbergfjorden_2023-10-11_%28Tj%C3%B8me_Oslofjorden_Norway%29_Svaberg_Fj%C3%A6re_Hav_Vind_B%C3%B8lger_Sj%C3%B8spr%C3%B8yt_eullesteinsstrand_Mot_s%C3%B8r_Sk%C3%A5ebukta_%28Rocky_coastline_Archipelago_Wind_Waves_Turbulent_Sea_splash_pebbl.jpg)
 

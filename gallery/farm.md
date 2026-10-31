@@ -40,6 +40,10 @@ Window on a barn in Färlev.jpg — W.carter / [CC0](https://creativecommons.org
 
 Pasture on Old Billerica Road, Bedford Springs MA.jpg — John Phelan / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Pasture_on_Old_Billerica_Road%2C_Bedford_Springs_MA.jpg)
 
+![Wooden fence and sheep pasture east of Warkton - geograph.org.uk - 5355535.jpg](../assets/farm/farm-fences/136652996-wooden-fence-and-sheep-pasture-east-of-warkto.webp)
+
+Wooden fence and sheep pasture east of Warkton - geograph.org.uk - 5355535.jpg — Richard Humphrey / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Wooden_fence_and_sheep_pasture_east_of_Warkton_-_geograph.org.uk_-_5355535.jpg)
+
 ![Horses standing near a wooden fence in a rural area - Flickr - nenadstojkovicart.jpg](../assets/farm/farm-fences/168402456-horses-standing-near-a-wooden-fence-in-a-rura.webp)
 
 Horses standing near a wooden fence in a rural area - Flickr - nenadstojkovicart.jpg — Nenad Stojkovic / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Horses_standing_near_a_wooden_fence_in_a_rural_area_-_Flickr_-_nenadstojkovicart.jpg)
@@ -50,13 +54,13 @@ Horses standing near a wooden fence in a rural area - Flickr - nenadstojkovicart
 
 関連コード：`app/src/world/ranch-structures.js`
 
-![Bradshaw ^ Blacklock - The Farmer^s Boy ^ The Rustic Angler - B1977.14.10650 - Yale Center for British Art.jpg](../assets/farm/farmyards/114727229-bradshaw-blacklock-the-farmer-s-boy-the-rusti.webp)
+![Norland Scarecrow Festival- Old Macdonald had a Farm ... (21180029881).jpg](../assets/farm/farmyards/58447886-norland-scarecrow-festival-old-macdonald-had-.webp)
 
-Bradshaw ^ Blacklock - The Farmer^s Boy ^ The Rustic Angler - B1977.14.10650 - Yale Center for British Art.jpg — Bradshaw & Blacklock / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bradshaw_%5E_Blacklock_-_The_Farmer%5Es_Boy_%5E_The_Rustic_Angler_-_B1977.14.10650_-_Yale_Center_for_British_Art.jpg)
+Norland Scarecrow Festival- Old Macdonald had a Farm ... (21180029881).jpg — Tim Green from Bradford / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Norland_Scarecrow_Festival-_Old_Macdonald_had_a_Farm_..._%2821180029881%29.jpg)
 
-![Alfred W Cooper - The Farmer^s Boy - B1977.14.20947 - Yale Center for British Art.jpg](../assets/farm/farmyards/114743653-alfred-w-cooper-the-farmer-s-boy-b1977-14-209.webp)
+![Traditional farmyard at Gowbusk - geograph.org.uk - 3521585.jpg](../assets/farm/farmyards/117931232-traditional-farmyard-at-gowbusk-geograph-org-.webp)
 
-Alfred W Cooper - The Farmer^s Boy - B1977.14.20947 - Yale Center for British Art.jpg — Alfred W. Cooper / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Alfred_W_Cooper_-_The_Farmer%5Es_Boy_-_B1977.14.20947_-_Yale_Center_for_British_Art.jpg)
+Traditional farmyard at Gowbusk - geograph.org.uk - 3521585.jpg — Bill Boaden / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Traditional_farmyard_at_Gowbusk_-_geograph.org.uk_-_3521585.jpg)
 
 ## 干し草と藁 — hay-and-straw
 
@@ -86,6 +90,10 @@ Hay bales on farm - Flickr - munchflemming.jpg — Flemming Munch / [CC BY 2.0](
 
 2442Grasslands, trees, paddy vegetable fields 01.jpg — Judgefloro / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:2442Grasslands%2C_trees%2C_paddy_vegetable_fields_01.jpg)
 
+![Chiswick House Kitchen Garden - vegetable beds.jpg](../assets/farm/vegetable-fields/146986189-chiswick-house-kitchen-garden-vegetable-beds.webp)
+
+Chiswick House Kitchen Garden - vegetable beds.jpg — Chiswick Chap / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Chiswick_House_Kitchen_Garden_-_vegetable_beds.jpg)
+
 ## 水田 — rice-paddies
 
 制作で見るところ：畦、水平な水面、稲の密度と高さ
@@ -96,6 +104,10 @@ Hay bales on farm - Flickr - munchflemming.jpg — Flemming Munch / [CC BY 2.0](
 
 Shan Hills, Myanmar, Rice paddies in rural Myanmar between Inle lake and Kalaw mountain range.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Shan_Hills%2C_Myanmar%2C_Rice_paddies_in_rural_Myanmar_between_Inle_lake_and_Kalaw_mountain_range.jpg)
 
+![Shan Hills, Myanmar, Panoramic landscape with trees and paddy fields, remote and rural Myanmar, Karen Hills.jpg](../assets/farm/rice-paddies/98724013-shan-hills-myanmar-panoramic-landscape-with-t.webp)
+
+Shan Hills, Myanmar, Panoramic landscape with trees and paddy fields, remote and rural Myanmar, Karen Hills.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Shan_Hills%2C_Myanmar%2C_Panoramic_landscape_with_trees_and_paddy_fields%2C_remote_and_rural_Myanmar%2C_Karen_Hills.jpg)
+
 ![Rizieres et village à Madagascar.jpg](../assets/farm/rice-paddies/181555446-rizieres-et-village-madagascar.webp)
 
 Rizieres et village à Madagascar.jpg — Mammysou17 / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Rizieres_et_village_%C3%A0_Madagascar.jpg)
@@ -105,6 +117,10 @@ Rizieres et village à Madagascar.jpg — Mammysou17 / [CC0](https://creativecom
 制作で見るところ：骨組・透明素材の反射、内部の列
 
 関連コード：`app/src/world/ranch-structures.js`
+
+![Estufa principal do Jardim Botânico de Curitiba 02.jpg](../assets/farm/greenhouses/41929523-estufa-principal-do-jardim-bot-nico-de-curiti.webp)
+
+Estufa principal do Jardim Botânico de Curitiba 02.jpg — Rodrigo.Argenton / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Estufa_principal_do_Jardim_Bot%C3%A2nico_de_Curitiba_02.jpg)
 
 ![Oamaru Public Gardens - Display House.jpg](../assets/farm/greenhouses/78268724-oamaru-public-gardens-display-house.webp)
 
@@ -124,6 +140,10 @@ Oamaru Public Gardens - Display House.jpg — David Nind / [CC0](https://creativ
 
 Rural Farmhouse, Mykonos, Greece (53496485676).jpg — Warren LeMay from Chicago, IL, United States / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Rural_Farmhouse%2C_Mykonos%2C_Greece_%2853496485676%29.jpg)
 
+![Rural Farmhouse, Mykonos, Greece (53496485591).jpg](../assets/farm/farmhouses/153430209-rural-farmhouse-mykonos-greece-53496485591.webp)
+
+Rural Farmhouse, Mykonos, Greece (53496485591).jpg — Warren LeMay from Chicago, IL, United States / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Rural_Farmhouse%2C_Mykonos%2C_Greece_%2853496485591%29.jpg)
+
 ![Skansen w Maurzycach, Łowicki Park Etnograficzny w Maurzycach, 2025, SOULinPIX, KsP 212.jpg](../assets/farm/farmhouses/177583163-skansen-w-maurzycach-owicki-park-etnograficzn.webp)
 
 Skansen w Maurzycach, Łowicki Park Etnograficzny w Maurzycach, 2025, SOULinPIX, KsP 212.jpg — Krzysztof Popławski / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Skansen_w_Maurzycach%2C_%C5%81owicki_Park_Etnograficzny_w_Maurzycach%2C_2025%2C_SOULinPIX%2C_KsP_212.jpg)
@@ -134,11 +154,33 @@ Skansen w Maurzycach, Łowicki Park Etnograficzny w Maurzycach, 2025, SOULinPIX,
 
 関連コード：`app/src/world/ranch-structures.js`
 
-![An American farm boy drinking unsafe water Wellcome L0069829.jpg](../assets/farm/water-pumps/36264220-an-american-farm-boy-drinking-unsafe-water-we.webp)
+![Old water pump - geograph.org.uk - 1084541.jpg](../assets/farm/water-pumps/13792245-old-water-pump-geograph-org-uk-1084541.webp)
 
-An American farm boy drinking unsafe water Wellcome L0069829.jpg — See source file page / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:An_American_farm_boy_drinking_unsafe_water_Wellcome_L0069829.jpg)
+Old water pump - geograph.org.uk - 1084541.jpg — Hugh Venables / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Old_water_pump_-_geograph.org.uk_-_1084541.jpg)
 
 ![Rashillhouse Farm at Watermeetings. Old well and pump house. North Ayrshire.jpg](../assets/farm/water-pumps/117744371-rashillhouse-farm-at-watermeetings-old-well-a.webp)
 
 Rashillhouse Farm at Watermeetings. Old well and pump house. North Ayrshire.jpg — Rosser1954 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Rashillhouse_Farm_at_Watermeetings._Old_well_and_pump_house._North_Ayrshire.jpg)
+
+## 牧舎の内部 — barn-interiors
+
+制作で見るところ：柱・梁、寝床、入口の明暗と天井高さ
+
+関連コード：`app/src/world/ranch-structures.js`
+
+![Blake Hall Essex listed barn interior 03.jpg](../assets/farm/barn-interiors/167431201-blake-hall-essex-listed-barn-interior-03.webp)
+
+Blake Hall Essex listed barn interior 03.jpg — Acabashi / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Blake_Hall_Essex_listed_barn_interior_03.jpg)
+
+![Wooden Barn at Philip Foster Farm.jpg](../assets/farm/barn-interiors/187009007-wooden-barn-at-philip-foster-farm.webp)
+
+Wooden Barn at Philip Foster Farm.jpg — Rick Obst / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Wooden_Barn_at_Philip_Foster_Farm.jpg)
+
+## 農場の道具 — farm-tools
+
+制作で見るところ：飼葉桶・水桶・農具の大きさと置き方
+
+関連コード：`app/src/world/ranch-structures.js`
+
+現時点でライセンス・画像条件を満たす写真なし（今後の収集対象）。
 

@@ -16,6 +16,10 @@ Trail in beech forest, Orlen.jpg — Gerda Arendt / [CC0](https://creativecommon
 
 Forest trail, Oberlibbach.jpg — Gerda Arendt / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Forest_trail%2C_Oberlibbach.jpg)
 
+![Bamboo-Lined Forest Trail in Tadoba Andhari National Park.jpg](../assets/forest/forest-trails/196374668-bamboo-lined-forest-trail-in-tadoba-andhari-n.webp)
+
+Bamboo-Lined Forest Trail in Tadoba Andhari National Park.jpg — Rohit Sharma / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Bamboo-Lined_Forest_Trail_in_Tadoba_Andhari_National_Park.jpg)
+
 ## 樹冠・枝と葉の重なり — tree-canopies
 
 制作で見るところ：樹冠の外形、葉群の隙間、枝の付き方
@@ -26,6 +30,10 @@ Forest trail, Oberlibbach.jpg — Gerda Arendt / [CC0](https://creativecommons.o
 
 Huron National Forest Big Trees MI.jpg — Zapatosunidos / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Huron_National_Forest_Big_Trees_MI.jpg)
 
+![Deciduous tree canopy - geograph.org.uk - 8303760.jpg](../assets/forest/tree-canopies/192839245-deciduous-tree-canopy-geograph-org-uk-8303760.webp)
+
+Deciduous tree canopy - geograph.org.uk - 8303760.jpg — Mr Ignavy / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Deciduous_tree_canopy_-_geograph.org.uk_-_8303760.jpg)
+
 ![Ohara - Ohara6634.jpg](../assets/forest/tree-canopies/196122019-ohara-ohara6634.webp)
 
 Ohara - Ohara6634.jpg — lumoplank / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Ohara_-_Ohara6634.jpg)
@@ -35,6 +43,10 @@ Ohara - Ohara6634.jpg — lumoplank / [CC0](https://creativecommons.org/publicdo
 制作で見るところ：樹皮の縦方向の凹凸、地表に出る根
 
 関連コード：`app/src/world/nature.js`、`app/src/world/textures.js`
+
+![Paperbark Maple Acer griseum Bark Closeup 3008px.jpg](../assets/forest/bark-and-roots/1996016-paperbark-maple-acer-griseum-bark-closeup-300.webp)
+
+Paperbark Maple Acer griseum Bark Closeup 3008px.jpg — Photo by and (c)2007 Derek Ramsey (Ram-Man). Co-attribution must be given to the Chanticleer Garden. / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [原典](https://commons.wikimedia.org/wiki/File:Paperbark_Maple_Acer_griseum_Bark_Closeup_3008px.jpg)
 
 ![Swamp White Oak Quercus bicolor Bark Closeup Vertical.JPG](../assets/forest/bark-and-roots/47846485-swamp-white-oak-quercus-bicolor-bark-closeup-.webp)
 
@@ -54,6 +66,10 @@ Swamp White Oak Quercus bicolor Bark Closeup Horizontal.JPG — Photo by and (c)
 
 Mosses, Lichens, and Grasses sparkle on the forest floor in Lac La Hache Provincial Park.png — Extemporalist / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Mosses%2C_Lichens%2C_and_Grasses_sparkle_on_the_forest_floor_in_Lac_La_Hache_Provincial_Park.png)
 
+![Moss (Bryophyta) on the forest floor in Broken Bow, Oklahoma.jpg](../assets/forest/moss-and-ferns/124346842-moss-bryophyta-on-the-forest-floor-in-broken-.webp)
+
+Moss (Bryophyta) on the forest floor in Broken Bow, Oklahoma.jpg — Matthew T Rader / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Moss_%28Bryophyta%29_on_the_forest_floor_in_Broken_Bow%2C_Oklahoma.jpg)
+
 ![Moss-covered boulder and ferns on a forest floor.png](../assets/forest/moss-and-ferns/192981737-moss-covered-boulder-and-ferns-on-a-forest-fl.webp)
 
 Moss-covered boulder and ferns on a forest floor.png — Krishna k. sahh / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Moss-covered_boulder_and_ferns_on_a_forest_floor.png)
@@ -68,6 +84,10 @@ Moss-covered boulder and ferns on a forest floor.png — Krishna k. sahh / [CC0]
 
 Bamboo grove - Eishō-ji - Kamakura, Kanagawa, Japan - DSC08147.JPG — Daderot / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bamboo_grove_-_Eish%C5%8D-ji_-_Kamakura%2C_Kanagawa%2C_Japan_-_DSC08147.JPG)
 
+![Bamboo grove (phyllostachys viridiglaucescens) in the Botanical Garden of the University of Vienna in Vienna, Austria-stems PNr°1051.jpg](../assets/forest/bamboo-groves/136234240-bamboo-grove-phyllostachys-viridiglaucescens-.webp)
+
+Bamboo grove (phyllostachys viridiglaucescens) in the Botanical Garden of the University of Vienna in Vienna, Austria-stems PNr°1051.jpg — D-Kuru / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Bamboo_grove_%28phyllostachys_viridiglaucescens%29_in_the_Botanical_Garden_of_the_University_of_Vienna_in_Vienna%2C_Austria-stems_PNr%C2%B01051.jpg)
+
 ![Bamboo Grove Image.jpg](../assets/forest/bamboo-groves/153871864-bamboo-grove-image.webp)
 
 Bamboo Grove Image.jpg — Anonymous0006 / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bamboo_Grove_Image.jpg)
@@ -78,9 +98,13 @@ Bamboo Grove Image.jpg — Anonymous0006 / [CC0](https://creativecommons.org/pub
 
 関連コード：`app/src/world/nature.js`、`app/src/world/meadow.js`
 
-![Carl Wagner, A Meadow with a Shepherd and Goats at the Edge of a Forest, 1861, NGA 155693.jpg](../assets/forest/forest-edge/81415395-carl-wagner-a-meadow-with-a-shepherd-and-goat.webp)
+![Edge of Meadow Close Copse - geograph.org.uk - 132018.jpg](../assets/forest/forest-edge/9233471-edge-of-meadow-close-copse-geograph-org-uk-13.webp)
 
-Carl Wagner, A Meadow with a Shepherd and Goats at the Edge of a Forest, 1861, NGA 155693.jpg — Carl Wagner / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Carl_Wagner%2C_A_Meadow_with_a_Shepherd_and_Goats_at_the_Edge_of_a_Forest%2C_1861%2C_NGA_155693.jpg)
+Edge of Meadow Close Copse - geograph.org.uk - 132018.jpg — Footprints / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Edge_of_Meadow_Close_Copse_-_geograph.org.uk_-_132018.jpg)
+
+![Hay meadow and forest edge above Dol-frwynog - geograph.org.uk - 501208.jpg](../assets/forest/forest-edge/13028603-hay-meadow-and-forest-edge-above-dol-frwynog-.webp)
+
+Hay meadow and forest edge above Dol-frwynog - geograph.org.uk - 501208.jpg — Eric Jones / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Hay_meadow_and_forest_edge_above_Dol-frwynog_-_geograph.org.uk_-_501208.jpg)
 
 ![Footpath through a grassy meadow toward the forest edge, Potawatomi State Park, Wisconsin.jpg](../assets/forest/forest-edge/201508753-footpath-through-a-grassy-meadow-toward-the-f.webp)
 
@@ -95,6 +119,10 @@ Footpath through a grassy meadow toward the forest edge, Potawatomi State Park, 
 ![Hedge-891354 1920.jpg](../assets/forest/hedges-and-shrubs/45328984-hedge-891354-1920.webp)
 
 Hedge-891354 1920.jpg — juliacasado1 / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Hedge-891354_1920.jpg)
+
+![Lush row of bushes in the Kakching Garden in Kangleipak.jpg](../assets/forest/hedges-and-shrubs/140163530-lush-row-of-bushes-in-the-kakching-garden-in-.webp)
+
+Lush row of bushes in the Kakching Garden in Kangleipak.jpg — Haoreima / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Lush_row_of_bushes_in_the_Kakching_Garden_in_Kangleipak.jpg)
 
 ![Duranta hedge shrubs and other flowering plants in Kakching Garden, Uyok Ching hills, Kakching district, Kangleipak.jpg](../assets/forest/hedges-and-shrubs/140227683-duranta-hedge-shrubs-and-other-flowering-plan.webp)
 
@@ -114,15 +142,19 @@ Silver Birch Woodland in Autumn.jpg — Zakhx150 / [CC BY-SA 4.0](https://creati
 
 Blaen Bran Woodland Autumn.jpg — WelshDave / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Blaen_Bran_Woodland_Autumn.jpg)
 
+![Autumn Woodland - geograph.org.uk - 7017805.jpg](../assets/forest/autumn-trees/155681247-autumn-woodland-geograph-org-uk-7017805.webp)
+
+Autumn Woodland - geograph.org.uk - 7017805.jpg — kevin higgins / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Autumn_Woodland_-_geograph.org.uk_-_7017805.jpg)
+
 ## 冬の樹形 — winter-trees
 
 制作で見るところ：葉が落ちた枝の分岐・雪の乗り方
 
 関連コード：`app/src/world/nature.js`、`app/src/lab/seasons.js`
 
-![元 佚名 古木寒鴉圖 團扇-Crows and Bare Trees in Winter MET DP153531.jpg](../assets/forest/winter-trees/57373659-crows-and-bare-trees-in-winter-met-dp153531.webp)
+![Winter apples on a bare tree.jpg](../assets/forest/winter-trees/53992310-winter-apples-on-a-bare-tree.webp)
 
-元 佚名 古木寒鴉圖 團扇-Crows and Bare Trees in Winter MET DP153531.jpg — Unknown authorUnknown author / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:%E5%85%83_%E4%BD%9A%E5%90%8D_%E5%8F%A4%E6%9C%A8%E5%AF%92%E9%B4%89%E5%9C%96_%E5%9C%98%E6%89%87-Crows_and_Bare_Trees_in_Winter_MET_DP153531.jpg)
+Winter apples on a bare tree.jpg — W.carter / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Winter_apples_on_a_bare_tree.jpg)
 
 ![Bare tree in Kent, WA (2025) - 0010.jpg](../assets/forest/winter-trees/159267078-bare-tree-in-kent-wa-2025-0010.webp)
 

@@ -16,25 +16,33 @@ Rural village (7350513976).jpg — Francisco Anzola / [CC BY 2.0](https://creati
 
 Mezmay, Village, Rural houses, Russia.jpg — Vyacheslav Argenberg / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Mezmay%2C_Village%2C_Rural_houses%2C_Russia.jpg)
 
+![Village rural à Vakinankaratra Antsirabe.jpg](../assets/town/village-lanes/161817225-village-rural-vakinankaratra-antsirabe.webp)
+
+Village rural à Vakinankaratra Antsirabe.jpg — Anai171 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Village_rural_%C3%A0_Vakinankaratra_Antsirabe.jpg)
+
 ## 小さな家 — small-cottages
 
 制作で見るところ：開口部比率・屋根勾配・庭とのつながり
 
 関連コード：`app/src/world/cottage.js`、`app/src/world/house.js`
 
-![Drie studies van een kerk, huisje en hek, RP-T-1938-36.jpg](../assets/town/small-cottages/83771831-drie-studies-van-een-kerk-huisje-en-hek-rp-t-.webp)
+![Timber framed cottage at Moreton - geograph.org.uk - 1277452.jpg](../assets/town/small-cottages/14003461-timber-framed-cottage-at-moreton-geograph-org.webp)
 
-Drie studies van een kerk, huisje en hek, RP-T-1938-36.jpg — Rijksmuseum / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Drie_studies_van_een_kerk%2C_huisje_en_hek%2C_RP-T-1938-36.jpg)
+Timber framed cottage at Moreton - geograph.org.uk - 1277452.jpg — Trevor Rickard / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Timber_framed_cottage_at_Moreton_-_geograph.org.uk_-_1277452.jpg)
 
-![Slot Zeist 't Princelijke Lusthuijs van sijn Exce. de Heer van Odijck etc tot Zeyst (titel op object), RP-P-1899-A-21468.jpg](../assets/town/small-cottages/84463991-slot-zeist-t-princelijke-lusthuijs-van-sijn-e.webp)
+![Timber cottage near Kingsgate Farm - geograph.org.uk - 1742981.jpg](../assets/town/small-cottages/14477194-timber-cottage-near-kingsgate-farm-geograph-o.webp)
 
-Slot Zeist 't Princelijke Lusthuijs van sijn Exce. de Heer van Odijck etc tot Zeyst (titel op object), RP-P-1899-A-21468.jpg — Rijksmuseum / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Slot_Zeist_%27t_Princelijke_Lusthuijs_van_sijn_Exce._de_Heer_van_Odijck_etc_tot_Zeyst_%28titel_op_object%29%2C_RP-P-1899-A-21468.jpg)
+Timber cottage near Kingsgate Farm - geograph.org.uk - 1742981.jpg — David Anstiss / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Timber_cottage_near_Kingsgate_Farm_-_geograph.org.uk_-_1742981.jpg)
 
 ## 木骨と漆喰の外壁 — timber-facades
 
 制作で見るところ：柱・梁・窓の配置、素材の境界
 
 関連コード：`app/src/world/house.js`、`app/src/world/town.js`
+
+![Rathausplatz 5, 7, 9, 11 und 13 in Stein am Rhein.jpg](../assets/town/timber-facades/50871067-rathausplatz-5-7-9-11-und-13-in-stein-am-rhei.webp)
+
+Rathausplatz 5, 7, 9, 11 und 13 in Stein am Rhein.jpg — JoachimKohler-HB / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Rathausplatz_5%2C_7%2C_9%2C_11_und_13_in_Stein_am_Rhein.jpg)
 
 ![Half-timbered façades along the Rur in autumn, Monschau, 2025.jpg](../assets/town/timber-facades/178634460-half-timbered-fa-ades-along-the-rur-in-autumn.webp)
 
@@ -50,10 +58,6 @@ Historic-half-timbered-house-allschwil-basel-landschaft-switzerland-1680-1700.jp
 
 関連コード：`app/src/world/town.js`
 
-![Aerial view of Chatham Town Centre (High Street).jpg](../assets/town/shopfronts/170300276-aerial-view-of-chatham-town-centre-high-stree.webp)
-
-Aerial view of Chatham Town Centre (High Street).jpg — Stephen Kennard / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Chatham_Town_Centre_%28High_Street%29.jpg)
-
 ![DZ3 0946 Nighttime street shrine and offerings beside a lit shopfront in Nong Pla Lai Pattaya City.jpg](../assets/town/shopfronts/199974421-dz3-0946-nighttime-street-shrine-and-offering.webp)
 
 DZ3 0946 Nighttime street shrine and offerings beside a lit shopfront in Nong Pla Lai Pattaya City.jpg — PattayaPatrol / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:DZ3_0946_Nighttime_street_shrine_and_offerings_beside_a_lit_shopfront_in_Nong_Pla_Lai_Pattaya_City.jpg)
@@ -64,9 +68,13 @@ DZ3 0946 Nighttime street shrine and offerings beside a lit shopfront in Nong Pl
 
 関連コード：`app/src/world/town.js`
 
-![HK 荃灣 Tsuen Wan 白田壩街 45 Pak Tin Par Street 南豐紗廠 The Mills mall shop grand opening flower sign December 2018 SSG 10.jpg](../assets/town/flower-shops/74886679-hk-tsuen-wan-45-pak-tin-par-street-the-mills-.webp)
+![Cemetery flower seller - geograph.org.uk - 3240417.jpg](../assets/town/flower-shops/115635345-cemetery-flower-seller-geograph-org-uk-324041.webp)
 
-HK 荃灣 Tsuen Wan 白田壩街 45 Pak Tin Par Street 南豐紗廠 The Mills mall shop grand opening flower sign December 2018 SSG 10.jpg — Houiginetaim Ha / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:HK_%E8%8D%83%E7%81%A3_Tsuen_Wan_%E7%99%BD%E7%94%B0%E5%A3%A9%E8%A1%97_45_Pak_Tin_Par_Street_%E5%8D%97%E8%B1%90%E7%B4%97%E5%BB%A0_The_Mills_mall_shop_grand_opening_flower_sign_December_2018_SSG_10.jpg)
+Cemetery flower seller - geograph.org.uk - 3240417.jpg — Robin Webster / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Cemetery_flower_seller_-_geograph.org.uk_-_3240417.jpg)
+
+![Flowers by Reni, currently Lovingly Flowers by Reni in Fishkill.jpg](../assets/town/flower-shops/154144444-flowers-by-reni-currently-lovingly-flowers-by.webp)
+
+Flowers by Reni, currently Lovingly Flowers by Reni in Fishkill.jpg — Noel Brown Jr / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Flowers_by_Reni%2C_currently_Lovingly_Flowers_by_Reni_in_Fishkill.jpg)
 
 ![Flowers By D&L exterior.jpg](../assets/town/flower-shops/163789103-flowers-by-d-l-exterior.webp)
 
@@ -78,13 +86,17 @@ Flowers By D&L exterior.jpg — Donna Wells / [CC BY 4.0](https://creativecommon
 
 関連コード：`app/src/world/town.js`
 
+![Yonah Schimmel's Knish Bakery Storefront.jpg](../assets/town/cafes-and-bakeries/138702208-yonah-schimmel-s-knish-bakery-storefront.webp)
+
+Yonah Schimmel's Knish Bakery Storefront.jpg — Tessa Bury / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Yonah_Schimmel%27s_Knish_Bakery_Storefront.jpg)
+
 ![Southern Sugar Bakery storefront.jpg](../assets/town/cafes-and-bakeries/141466605-southern-sugar-bakery-storefront.webp)
 
 Southern Sugar Bakery storefront.jpg — Johnson524 / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Southern_Sugar_Bakery_storefront.jpg)
 
-![ECB Storefront.jpg](../assets/town/cafes-and-bakeries/173822512-ecb-storefront.webp)
+![DZ6 2638 Cozy outdoor seating at a softly lit café twinkling lights and intimate tables inviting a relaxed evening.jpg](../assets/town/cafes-and-bakeries/189034396-dz6-2638-cozy-outdoor-seating-at-a-softly-lit.webp)
 
-ECB Storefront.jpg — BonkoSupreme / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:ECB_Storefront.jpg)
+DZ6 2638 Cozy outdoor seating at a softly lit café twinkling lights and intimate tables inviting a relaxed evening.jpg — PattayaPatrol / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:DZ6_2638_Cozy_outdoor_seating_at_a_softly_lit_caf%C3%A9_twinkling_lights_and_intimate_tables_inviting_a_relaxed_evening.jpg)
 
 ## 町の広場 — town-plazas
 
@@ -95,6 +107,10 @@ ECB Storefront.jpg — BonkoSupreme / [CC0](https://creativecommons.org/publicdo
 ![Hviezdoslavovo námestie fountain leading to the Old Slovak National Theater (10267371415).jpg](../assets/town/town-plazas/31947989-hviezdoslavovo-n-mestie-fountain-leading-to-t.webp)
 
 Hviezdoslavovo námestie fountain leading to the Old Slovak National Theater (10267371415).jpg — Jorge Láscar from Australia / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Hviezdoslavovo_n%C3%A1mestie_fountain_leading_to_the_Old_Slovak_National_Theater_%2810267371415%29.jpg)
+
+![Small fountain at the Town Hall, 2016 Dunakeszi.jpg](../assets/town/town-plazas/57426199-small-fountain-at-the-town-hall-2016-dunakesz.webp)
+
+Small fountain at the Town Hall, 2016 Dunakeszi.jpg — Globetrotter19 / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Small_fountain_at_the_Town_Hall%2C_2016_Dunakeszi.jpg)
 
 ![The Lane Memorial Fountain, Town Hall Square, Bexhill.jpg](../assets/town/town-plazas/61481124-the-lane-memorial-fountain-town-hall-square-b.webp)
 
@@ -134,19 +150,23 @@ Belarus, Homjel, Narovlja - Hrydni WMID4178728.jpg — nebo / [CC BY-SA 3.0](htt
 
 関連コード：`app/src/world/vehicles.js`、`app/src/systems/bus.js`
 
+![Stavropol Krai Countryside and Roadside with Bus.jpg](../assets/town/country-buses/64034440-stavropol-krai-countryside-and-roadside-with-.webp)
+
+Stavropol Krai Countryside and Roadside with Bus.jpg — Thomas Taylor Hammond (1920-1993) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Stavropol_Krai_Countryside_and_Roadside_with_Bus.jpg)
+
 ![Bus Zvenigorod-Surmino 2019-07.jpg](../assets/town/country-buses/80405583-bus-zvenigorod-surmino-2019-07.webp)
 
 Bus Zvenigorod-Surmino 2019-07.jpg — Svetlov Artem / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Bus_Zvenigorod-Surmino_2019-07.jpg)
-
-![The Routemaster Bus. (14124023507).jpg](../assets/town/country-buses/101092196-the-routemaster-bus-14124023507.webp)
-
-The Routemaster Bus. (14124023507).jpg — Bernard Spragg. NZ from Christchurch, New Zealand / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:The_Routemaster_Bus._%2814124023507%29.jpg)
 
 ## 石橋 — stone-bridges
 
 制作で見るところ：アーチ・欄干・橋台と川岸の接続
 
 関連コード：`app/src/world/road.js`
+
+![A stone arch bridge in Lærdalen, 2013 June.jpg](../assets/town/stone-bridges/31283928-a-stone-arch-bridge-in-l-rdalen-2013-june.webp)
+
+A stone arch bridge in Lærdalen, 2013 June.jpg — Ximonic (Simo Räsänen) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:A_stone_arch_bridge_in_L%C3%A6rdalen%2C_2013_June.jpg)
 
 ![Sandbrook-Headquarters Road stone arch bridge; Hunterdon County NJ.jpg](../assets/town/stone-bridges/162942770-sandbrook-headquarters-road-stone-arch-bridge.webp)
 
@@ -184,6 +204,10 @@ Side street in Faro, with old street lamp (28509279443).jpg — Winniepix from U
 
 Former Gas Lamp Stands, Old Portsmouth.jpg — Tim Sheerman-Chase / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Former_Gas_Lamp_Stands%2C_Old_Portsmouth.jpg)
 
+![An old street lamp in Nesebar.jpg](../assets/town/street-lights/155032095-an-old-street-lamp-in-nesebar.webp)
+
+An old street lamp in Nesebar.jpg — Oleg Yunakov / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:An_old_street_lamp_in_Nesebar.jpg)
+
 ## 公園のベンチ — park-benches
 
 制作で見るところ：木陰と休憩場所、低い柵・小径
@@ -204,6 +228,10 @@ Tree and bench, Priory Park, Bodmin, Cornwall - August 2024.jpg — Mutney / [CC
 
 関連コード：`app/src/world/road.js`、`app/src/world/town.js`
 
+![Boundary dry stone wall to Ballechin Wood - geograph.org.uk - 786368.jpg](../assets/town/stone-walls/13456311-boundary-dry-stone-wall-to-ballechin-wood-geo.webp)
+
+Boundary dry stone wall to Ballechin Wood - geograph.org.uk - 786368.jpg — Russel Wills / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Boundary_dry_stone_wall_to_Ballechin_Wood_-_geograph.org.uk_-_786368.jpg)
+
 ![Countryside lane and dry stone wall in Mosqueira, 15 October 2016.JPG](../assets/town/stone-walls/52281888-countryside-lane-and-dry-stone-wall-in-mosque.webp)
 
 Countryside lane and dry stone wall in Mosqueira, 15 October 2016.JPG — Kolforn (Kolforn) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Countryside_lane_and_dry_stone_wall_in_Mosqueira%2C_15_October_2016.JPG)
@@ -221,6 +249,10 @@ Countryside lane and dry stone wall in Mosqueira, 15 October 2016.JPG — Kolfor
 ![Kruhliakivka Khata.jpg](../assets/town/windows-and-doors/13533959-kruhliakivka-khata.webp)
 
 Kruhliakivka Khata.jpg — tarosys / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Kruhliakivka_Khata.jpg)
+
+![Wooden Window Shutters on Old Cottage, Easton Grey, Wiltshire 2015 (geograph 5817868).jpg](../assets/town/windows-and-doors/73396185-wooden-window-shutters-on-old-cottage-easton-.webp)
+
+Wooden Window Shutters on Old Cottage, Easton Grey, Wiltshire 2015 (geograph 5817868).jpg — Ray Bird / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Wooden_Window_Shutters_on_Old_Cottage%2C_Easton_Grey%2C_Wiltshire_2015_%28geograph_5817868%29.jpg)
 
 ![Chałupa z datą 1926 w Podlaskim Muzeum Kultury Ludowej.jpg](../assets/town/windows-and-doors/202172194-cha-upa-z-dat-1926-w-podlaskim-muzeum-kultury.webp)
 
@@ -253,4 +285,52 @@ Craster is a small fishing village on the Northumbrian coast . It has a small ha
 ![Cobbled streets of Cascais (47956751563).jpg](../assets/town/harbor-village/93605042-cobbled-streets-of-cascais-47956751563.webp)
 
 Cobbled streets of Cascais (47956751563).jpg — Terry Kearney from liverpool, merseyside / [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) / [原典](https://commons.wikimedia.org/wiki/File:Cobbled_streets_of_Cascais_%2847956751563%29.jpg)
+
+## 店先の花鉢と窓辺 — flowerpots-and-balconies
+
+制作で見るところ：生活の痕跡、外壁と植物の関係
+
+関連コード：`app/src/world/town.js`
+
+![Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg](../assets/town/flowerpots-and-balconies/141262397-flower-pots-day-nursery-prestwood-geograph-or.webp)
+
+Flower Pots Day Nursery, Prestwood - geograph.org.uk - 5789174.jpg — David Hillas / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Flower_Pots_Day_Nursery%2C_Prestwood_-_geograph.org.uk_-_5789174.jpg)
+
+## 自転車と路地 — bicycles-and-alleys
+
+制作で見るところ：車輪と壁・道幅の尺度感、停め方
+
+関連コード：`app/src/world/bicycle.js`、`app/src/world/town.js`
+
+![Tung Kok Wai 11.JPG](../assets/town/bicycles-and-alleys/47705472-tung-kok-wai-11.webp)
+
+Tung Kok Wai 11.JPG — Underwaterbuffalo / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) / [原典](https://commons.wikimedia.org/wiki/File:Tung_Kok_Wai_11.JPG)
+
+## 縁側・ポーチ — porches-and-verandas
+
+制作で見るところ：床と地面の段差、柱・屋根、座る場所
+
+関連コード：`app/src/world/house.js`、`app/src/world/town.js`
+
+![Oppdalsmuseet Bygdemuseum Skjørstad-stuggu Laft tømmerhus 17c.–19c. Log house cottage Tram Inngangsparti Porch Dør Door Solur Sundial Skifer Slate etc Oppdal Trøndelag Norway 2019-04-10 3415.jpg](../assets/town/porches-and-verandas/86293427-oppdalsmuseet-bygdemuseum-skj-rstad-stuggu-la.webp)
+
+Oppdalsmuseet Bygdemuseum Skjørstad-stuggu Laft tømmerhus 17c.–19c. Log house cottage Tram Inngangsparti Porch Dør Door Solur Sundial Skifer Slate etc Oppdal Trøndelag Norway 2019-04-10 3415.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Oppdalsmuseet_Bygdemuseum_Skj%C3%B8rstad-stuggu_Laft_t%C3%B8mmerhus_17c.%E2%80%9319c._Log_house_cottage_Tram_Inngangsparti_Porch_D%C3%B8r_Door_Solur_Sundial_Skifer_Slate_etc_Oppdal_Tr%C3%B8ndelag_Norway_2019-04-10_3415.jpg)
+
+![Oppdalsmuseet Bygdemuseum Hoksengstuggu Laft tømmerhus Log cottage house Gammelt treverk kledning Old weathered wood planks Trapp tram Porch Skifer Slate stone Vår Spring etc Oppdal Norway 2019-04-25 3409.jpg](../assets/town/porches-and-verandas/86328790-oppdalsmuseet-bygdemuseum-hoksengstuggu-laft-.webp)
+
+Oppdalsmuseet Bygdemuseum Hoksengstuggu Laft tømmerhus Log cottage house Gammelt treverk kledning Old weathered wood planks Trapp tram Porch Skifer Slate stone Vår Spring etc Oppdal Norway 2019-04-25 3409.jpg — Wolfmann / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Oppdalsmuseet_Bygdemuseum_Hoksengstuggu_Laft_t%C3%B8mmerhus_Log_cottage_house_Gammelt_treverk_kledning_Old_weathered_wood_planks_Trapp_tram_Porch_Skifer_Slate_stone_V%C3%A5r_Spring_etc_Oppdal_Norway_2019-04-25_3409.jpg)
+
+## 石段と庭の小道 — stone-stairs
+
+制作で見るところ：段差の寸法、石の欠けと植物の隙間
+
+関連コード：`app/src/world/town.js`、`app/src/world/park.js`
+
+![Stone steps, Dawyck Botanic Garden - geograph.org.uk - 5789793.jpg](../assets/town/stone-stairs/141265043-stone-steps-dawyck-botanic-garden-geograph-or.webp)
+
+Stone steps, Dawyck Botanic Garden - geograph.org.uk - 5789793.jpg — Jim Barton / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) / [原典](https://commons.wikimedia.org/wiki/File:Stone_steps%2C_Dawyck_Botanic_Garden_-_geograph.org.uk_-_5789793.jpg)
+
+![Garden steps Heyrons, High Easter Essex 01.jpg](../assets/town/stone-stairs/164824295-garden-steps-heyrons-high-easter-essex-01.webp)
+
+Garden steps Heyrons, High Easter Essex 01.jpg — Acabashi / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) / [原典](https://commons.wikimedia.org/wiki/File:Garden_steps_Heyrons%2C_High_Easter_Essex_01.jpg)
 
